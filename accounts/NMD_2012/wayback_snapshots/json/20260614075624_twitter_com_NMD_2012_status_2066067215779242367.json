@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2065814558862663768",
+    "created_at": "2026-06-14T07:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066067215779242367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2045768190177824768",
+          "start": 0,
+          "username": "yi_wei29908"
+        },
+        {
+          "end": 20,
+          "id": "1890343594248036352",
+          "start": 13,
+          "username": "1s8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066067215779242367",
+    "in_reply_to_user_id": "2045768190177824768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066064881670066433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi_wei29908 @1s8964 在x举报之后就发我邮箱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2065814558862663768",
+        "created_at": "2026-06-14T07:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066067215779242367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2045768190177824768",
+              "start": 0,
+              "username": "yi_wei29908"
+            },
+            {
+              "end": 20,
+              "id": "1890343594248036352",
+              "start": 13,
+              "username": "1s8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066067215779242367",
+        "in_reply_to_user_id": "2045768190177824768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066064881670066433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi_wei29908 @1s8964 在x举报之后就发我邮箱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045768190177824768",
+        "conversation_id": "2065814558862663768",
+        "created_at": "2026-06-14T07:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066064881670066433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            },
+            {
+              "end": 17,
+              "id": "1890343594248036352",
+              "start": 10,
+              "username": "1s8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066064881670066433",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065821821459726617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 @1s8964 x還可以郵箱舉報嗎？\n怎麼做到的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 37,
+          "like_count": 2236,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 143
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T07:36:16.000Z",
+        "description": "",
+        "id": "2045768190177824768",
+        "name": "王一維",
+        "pinned_tweet_id": "2062047442531651684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063490781990858752/MuQPaIH-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 41,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 130
+        },
+        "username": "yi_wei29908",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T10:14:29.000Z",
+        "description": "Freiheit ist immer Freiheit der Andersdenkenden",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/7z6gPw9fqS"
+              }
+            ]
+          }
+        },
+        "id": "1890343594248036352",
+        "location": "刘家峡水电站",
+        "name": "腊稻蛤桃包的结合体☭🚩",
+        "pinned_tweet_id": "2046681269153476753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019218017431732224/e-4kyE4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 1307,
+          "like_count": 9008,
+          "listed_count": 10,
+          "media_count": 1502,
+          "tweet_count": 6933
+        },
+        "url": "https://t.co/7z6gPw9fqS",
+        "username": "1s8964",
+        "verified": false
+      }
+    ]
+  }
+}

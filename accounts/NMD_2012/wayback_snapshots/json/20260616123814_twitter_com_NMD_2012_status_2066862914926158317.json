@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066862909469360129"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2066862914926158317",
+    "created_at": "2026-06-16T12:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066862914926158317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VTzdTuLSwl",
+          "end": 53,
+          "expanded_url": "https://x.com/NMD_2012/status/2066862914926158317/photo/1",
+          "media_key": "3_2066862909469360129",
+          "start": 30,
+          "url": "https://t.co/VTzdTuLSwl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066862914926158317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你手机有这个软件\n自信点，你已经超过99% 的中国人了 https://t.co/VTzdTuLSwl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_2066862909469360129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK743Y5aAAEumlH.jpg",
+        "width": 256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066862909469360129"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2066862914926158317",
+        "created_at": "2026-06-16T12:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066862914926158317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTzdTuLSwl",
+              "end": 53,
+              "expanded_url": "https://x.com/NMD_2012/status/2066862914926158317/photo/1",
+              "media_key": "3_2066862909469360129",
+              "start": 30,
+              "url": "https://t.co/VTzdTuLSwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066862914926158317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你手机有这个软件\n自信点，你已经超过99% 的中国人了 https://t.co/VTzdTuLSwl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 另一个我@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 40,
+          "like_count": 2433,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 159
+        },
+        "username": "NMD_2012",
+        "verified": false
+      }
+    ]
+  }
+}

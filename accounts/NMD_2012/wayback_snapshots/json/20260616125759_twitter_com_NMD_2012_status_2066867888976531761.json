@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2066398751250669680",
+    "created_at": "2026-06-16T12:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066867888976531761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776142720056385537",
+          "start": 0,
+          "username": "qtbrmdh19120101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066867888976531761",
+    "in_reply_to_user_id": "1776142720056385537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066398751250669680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtbrmdh19120101 这期神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2066398635072606208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1SnD_a0AAYHtN.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2066398670258585600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1SpHEaQAAr4Vk.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2066398695009193984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1SqjRakAAxzV4.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2066398751250669680",
+        "created_at": "2026-06-16T12:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066867888976531761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776142720056385537",
+              "start": 0,
+              "username": "qtbrmdh19120101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066867888976531761",
+        "in_reply_to_user_id": "1776142720056385537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066398751250669680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qtbrmdh19120101 这期神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066398635072606208",
+            "3_2066398670258585600",
+            "3_2066398695009193984"
+          ]
+        },
+        "author_id": "1776142720056385537",
+        "conversation_id": "2066398751250669680",
+        "created_at": "2026-06-15T05:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066398751250669680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ui6Yzd7hQN",
+              "end": 33,
+              "expanded_url": "https://x.com/qtbrmdh19120101/status/2066398751250669680/photo/1",
+              "media_key": "3_2066398635072606208",
+              "start": 10,
+              "url": "https://t.co/ui6Yzd7hQN"
+            },
+            {
+              "display_url": "pic.x.com/ui6Yzd7hQN",
+              "end": 33,
+              "expanded_url": "https://x.com/qtbrmdh19120101/status/2066398751250669680/photo/1",
+              "media_key": "3_2066398670258585600",
+              "start": 10,
+              "url": "https://t.co/ui6Yzd7hQN"
+            },
+            {
+              "display_url": "pic.x.com/ui6Yzd7hQN",
+              "end": 33,
+              "expanded_url": "https://x.com/qtbrmdh19120101/status/2066398751250669680/photo/1",
+              "media_key": "3_2066398695009193984",
+              "start": 10,
+              "url": "https://t.co/ui6Yzd7hQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066398751250669680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 876,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "漫畫劇情創作預告😋 https://t.co/ui6Yzd7hQN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 另一个我@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 40,
+          "like_count": 2441,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 161
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "青天白日の名において\n姐姐@zhngjing322708\n最近繁忙所以平時會由@canton_ss代管😋也會偶爾自己上線",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "zhngjing322708"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "canton_ss"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣(暫居高雄)",
+        "name": "是李卿卿喵🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065312916266774528/-vd-2kVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 158,
+          "like_count": 10859,
+          "listed_count": 4,
+          "media_count": 110,
+          "tweet_count": 3441
+        },
+        "username": "qtbrmdh19120101",
+        "verified": true
+      }
+    ]
+  }
+}

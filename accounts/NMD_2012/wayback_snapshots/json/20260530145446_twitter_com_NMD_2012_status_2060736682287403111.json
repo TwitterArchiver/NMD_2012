@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2060736682287403111",
+    "created_at": "2026-05-30T14:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060736682287403111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Soft Lipa · 你所不知道的杜振熙之內部整修 · Song · 2013",
+          "display_url": "open.spotify.com/track/2nZqyGOs…",
+          "end": 23,
+          "expanded_url": "https://open.spotify.com/track/2nZqyGOsAIOHKQOwnvp7te?si=kOIAeQ77Q9yuDTk4g05nGw",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2060736684262862848/ZtFyVZpG?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2060736684262862848/ZtFyVZpG?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "冰河時期",
+          "unwound_url": "https://open.spotify.com/track/2nZqyGOsAIOHKQOwnvp7te?si=kOIAeQ77Q9yuDTk4g05nGw",
+          "url": "https://t.co/Nc2YxxgKQ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060736682287403111",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Nc2YxxgKQ2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2060736682287403111",
+        "created_at": "2026-05-30T14:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060736682287403111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Soft Lipa · 你所不知道的杜振熙之內部整修 · Song · 2013",
+              "display_url": "open.spotify.com/track/2nZqyGOs…",
+              "end": 23,
+              "expanded_url": "https://open.spotify.com/track/2nZqyGOsAIOHKQOwnvp7te?si=kOIAeQ77Q9yuDTk4g05nGw",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2060736684262862848/ZtFyVZpG?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060736684262862848/ZtFyVZpG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "冰河時期",
+              "unwound_url": "https://open.spotify.com/track/2nZqyGOsAIOHKQOwnvp7te?si=kOIAeQ77Q9yuDTk4g05nGw",
+              "url": "https://t.co/Nc2YxxgKQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060736682287403111",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Nc2YxxgKQ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 32,
+          "like_count": 1280,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 51
+        },
+        "username": "NMD_2012",
+        "verified": false
+      }
+    ]
+  }
+}

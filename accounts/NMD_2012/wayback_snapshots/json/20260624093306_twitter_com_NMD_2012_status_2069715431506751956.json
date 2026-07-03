@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2069602732789617038",
+    "created_at": "2026-06-24T09:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069715431506751956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009174908581134336",
+          "start": 0,
+          "username": "cswxiaowei6302"
+        },
+        {
+          "end": 29,
+          "id": "1981638054688501760",
+          "start": 16,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069715431506751956",
+    "in_reply_to_user_id": "2009174908581134336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069695243793166766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cswxiaowei6302 @ashasw114514 我照片就是从她头像那存的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2069602732789617038",
+        "created_at": "2026-06-24T09:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069715431506751956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009174908581134336",
+              "start": 0,
+              "username": "cswxiaowei6302"
+            },
+            {
+              "end": 29,
+              "id": "1981638054688501760",
+              "start": 16,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069715431506751956",
+        "in_reply_to_user_id": "2009174908581134336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069695243793166766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cswxiaowei6302 @ashasw114514 我照片就是从她头像那存的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009174908581134336",
+        "conversation_id": "2069602732789617038",
+        "created_at": "2026-06-24T08:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069695243793166766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            },
+            {
+              "end": 23,
+              "id": "1981638054688501760",
+              "start": 10,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069695243793166766",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069602732789617038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 @ashasw114514 是你吗😤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的 @MAKINOPEACE梦男👁️  看成分回fo  喜欢有趣的人 鉴证账号退散 可以关注我的邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "MAKINOPEACE"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069347776820056064/up6YKXtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 61,
+          "like_count": 3821,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T08:06:56.000Z",
+        "description": "你在意真理，你就会对无知的傲慢感到愤怒，这是一种激情的理性",
+        "id": "2009174908581134336",
+        "name": "小维🥰",
+        "pinned_tweet_id": "2068296166996119667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067871333745352704/2tMJPN4-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 191,
+          "like_count": 7943,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 674
+        },
+        "url": "",
+        "username": "cswxiaowei6302",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex\n@LinkingMadoka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "LinkingMadoka"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 3325,
+          "like_count": 7340,
+          "listed_count": 10,
+          "media_count": 646,
+          "tweet_count": 5461
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2069582908080447676",
+    "created_at": "2026-06-24T02:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069602097751011372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795719520939905024",
+          "start": 0,
+          "username": "pyridine_lemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069602097751011372",
+    "in_reply_to_user_id": "1795719520939905024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069594703696416868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyridine_lemon cl指导你不就是天天鉴证吗👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2069582908080447676",
+        "created_at": "2026-06-24T02:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069602097751011372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795719520939905024",
+              "start": 0,
+              "username": "pyridine_lemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069602097751011372",
+        "in_reply_to_user_id": "1795719520939905024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069594703696416868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyridine_lemon cl指导你不就是天天鉴证吗👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795719520939905024",
+        "conversation_id": "2069582908080447676",
+        "created_at": "2026-06-24T01:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069594703696416868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069594703696416868",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069582908080447676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 我一贯的观点：\n中国女生搞女权主义虽然很傻，但终究是有下限的。\n而那些天天鉴证的国男才是真正的脑残，他们的脑残是没有下限的，而键哲更是脑残中的脑残\n\n所以对比来看，女性小团体还是相对礼貌的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 @MAKINOPEACE梦男👁️  看成分回fo  喜欢有趣的人 鉴证账号退散 可以关注我的邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "MAKINOPEACE"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069347776820056064/up6YKXtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 57,
+          "like_count": 3763,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T07:31:55.000Z",
+        "description": "小平同志最忠实的粉丝，对团派有好感，对胡赵中立偏支持，喜欢李克强和汪洋\n\n社民：中立偏反对\n社自：中立偏支持\n自由主义：支持\n威权资本主义：非常支持\n温和爱国者：支持\n\n逻辑实证主义/科学实证主义/改革开放/世俗化",
+        "id": "1795719520939905024",
+        "location": "CusetVoidAldehyde's heart",
+        "name": "Cuset Lemon🍥",
+        "pinned_tweet_id": "2055335671418753098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056956792282947584/fJ6_cQEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 50,
+          "like_count": 119,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "pyridine_lemon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2066407608064598174",
+    "created_at": "2026-06-16T13:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066871397784375799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1992246292396027905",
+          "start": 0,
+          "username": "ShoShimizu303"
+        },
+        {
+          "end": 31,
+          "id": "1776142720056385537",
+          "start": 15,
+          "username": "qtbrmdh19120101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066871397784375799",
+    "in_reply_to_user_id": "1992246292396027905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066412549311201302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShoShimizu303 @qtbrmdh19120101 甜菜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2066412537009381376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1fQQvboAA0RVz.jpg",
+        "width": 1898
+      },
+      {
+        "height": 1162,
+        "media_key": "3_2066412537000980480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1fQQtbcAAXXe1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1177,
+        "media_key": "3_2066412537005096960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1fQQuaQAAqNAg.jpg",
+        "width": 1910
+      },
+      {
+        "height": 1161,
+        "media_key": "3_2066412537034444800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1fQQ1aEAAROl7.jpg",
+        "width": 1878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2066407608064598174",
+        "created_at": "2026-06-16T13:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066871397784375799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1992246292396027905",
+              "start": 0,
+              "username": "ShoShimizu303"
+            },
+            {
+              "end": 31,
+              "id": "1776142720056385537",
+              "start": 15,
+              "username": "qtbrmdh19120101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066871397784375799",
+        "in_reply_to_user_id": "1992246292396027905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066412549311201302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShoShimizu303 @qtbrmdh19120101 甜菜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066412537009381376",
+            "3_2066412537000980480",
+            "3_2066412537005096960",
+            "3_2066412537034444800"
+          ]
+        },
+        "author_id": "1992246292396027905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066407608064598174",
+        "created_at": "2026-06-15T06:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066412549311201302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776142720056385537",
+              "start": 0,
+              "username": "qtbrmdh19120101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ult3nY65WO",
+              "end": 46,
+              "expanded_url": "https://x.com/ShoShimizu303/status/2066412549311201302/photo/1",
+              "media_key": "3_2066412537009381376",
+              "start": 23,
+              "url": "https://t.co/ult3nY65WO"
+            },
+            {
+              "display_url": "pic.x.com/ult3nY65WO",
+              "end": 46,
+              "expanded_url": "https://x.com/ShoShimizu303/status/2066412549311201302/photo/1",
+              "media_key": "3_2066412537000980480",
+              "start": 23,
+              "url": "https://t.co/ult3nY65WO"
+            },
+            {
+              "display_url": "pic.x.com/ult3nY65WO",
+              "end": 46,
+              "expanded_url": "https://x.com/ShoShimizu303/status/2066412549311201302/photo/1",
+              "media_key": "3_2066412537005096960",
+              "start": 23,
+              "url": "https://t.co/ult3nY65WO"
+            },
+            {
+              "display_url": "pic.x.com/ult3nY65WO",
+              "end": 46,
+              "expanded_url": "https://x.com/ShoShimizu303/status/2066412549311201302/photo/1",
+              "media_key": "3_2066412537034444800",
+              "start": 23,
+              "url": "https://t.co/ult3nY65WO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066412549311201302",
+        "in_reply_to_user_id": "1776142720056385537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066407608064598174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qtbrmdh19120101 劇情幻視： https://t.co/ult3nY65WO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 另一个我@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 40,
+          "like_count": 2447,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 163
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T14:58:36.000Z",
+        "description": "蘇聯史，國際共產主義運動觀察者;广告勿扰，请去他处;民主社會主義者，自由主義者，親托洛茨基派。历史和未来会为他正名：伟大的布尔什维克先知托洛茨基万岁！",
+        "id": "1992246292396027905",
+        "name": "你好小瀨🚩🇰🇿🇹🇷🇫🇷🇳🇴🇲🇽⛏️",
+        "pinned_tweet_id": "2047535343625466349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057344553531867136/WrxjRcRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 174,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 1550
+        },
+        "username": "ShoShimizu303",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "青天白日の名において\n姐姐@zhngjing322708\n最近繁忙所以平時會由@canton_ss代管😋也會偶爾自己上線",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "zhngjing322708"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "canton_ss"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣(暫居高雄)",
+        "name": "是李卿卿喵🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065312916266774528/-vd-2kVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 158,
+          "like_count": 10859,
+          "listed_count": 4,
+          "media_count": 110,
+          "tweet_count": 3441
+        },
+        "username": "qtbrmdh19120101",
+        "verified": true
+      }
+    ]
+  }
+}

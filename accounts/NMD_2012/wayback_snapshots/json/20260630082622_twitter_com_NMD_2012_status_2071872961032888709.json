@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2071851646083330135",
+    "created_at": "2026-06-30T08:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T09:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071872961032888709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054197521690611712",
+          "start": 0,
+          "username": "Yanamimi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071872961032888709",
+    "in_reply_to_user_id": "2054197521690611712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071872642261643517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yanamimi8964 何意味😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2071851646083330135",
+        "created_at": "2026-06-30T08:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071872961032888709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054197521690611712",
+              "start": 0,
+              "username": "Yanamimi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071872961032888709",
+        "in_reply_to_user_id": "2054197521690611712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071872642261643517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yanamimi8964 何意味😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054197521690611712",
+        "conversation_id": "2071851646083330135",
+        "created_at": "2026-06-30T08:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071872642261643517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071872642261643517",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071851646083330135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 又炒作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的 都过来走江湖但谁能不受伤呢/是个低能量的人所以喜欢听歌和睡觉😴/个人主义/自由主义/接受除黄推以外所有成分 我会努力去爱每一个喜欢我的人/会看成分回fo/很喜欢有趣的人/鉴证账号退散/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071576260481056768/kxD7YM-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 216,
+          "like_count": 5731,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 661
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T13:50:57.000Z",
+        "description": "中国几千年来是世界上头一等的强国，我们的文明、进步比各国是领先的。\n当中国顶强盛的时代，正所谓“千邦进贡，万国来朝”。那个时候，中国的文明在世界是第一的，中国是世界上头一等的强国。  ———孙中山（Sun Yat-sen）《孙中山全集·勉励国民》1924.5.30",
+        "id": "2054197521690611712",
+        "location": "中華人民共和國香港特別行政區、中華人民共和國台灣省",
+        "name": "八奈见见💜Yanamimi",
+        "pinned_tweet_id": "2069494067856331045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055895763868434432/7MU67AyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 1135,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "Yanamimi8964",
+        "verified": false
+      }
+    ]
+  }
+}

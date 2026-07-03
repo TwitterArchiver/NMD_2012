@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2070339920317833592",
+    "created_at": "2026-06-26T03:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070344351365189901"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070344351365189901",
+    "in_reply_to_user_id": "2053009418871357440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070339920317833592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "算了今天更明天也更"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2070339920317833592",
+        "created_at": "2026-06-26T03:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070344351365189901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070344351365189901",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070339920317833592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算了今天更明天也更"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2070339920317833592",
+        "created_at": "2026-06-26T02:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070339920317833592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NMD_2012/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/NMD_2012/status/2070314043089576030",
+              "start": 12,
+              "url": "https://t.co/D3mPXZJu7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070339920317833592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070314043089576030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天更吧今天在家宅一天 https://t.co/D3mPXZJu7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的 @MAKINOPEACE梦男👁️  个人主义 自由主义 看成分回fo  喜欢有趣的人 鉴证账号退散 可以关注我的邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "MAKINOPEACE"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069347776820056064/up6YKXtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 94,
+          "like_count": 4454,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 413
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      }
+    ]
+  }
+}

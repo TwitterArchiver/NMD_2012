@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067850876933615616"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2067850880091881963",
+    "created_at": "2026-06-19T06:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067850880091881963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/znKcJXBvDL",
+          "end": 37,
+          "expanded_url": "https://x.com/NMD_2012/status/2067850880091881963/photo/1",
+          "media_key": "3_2067850876933615616",
+          "start": 14,
+          "url": "https://t.co/znKcJXBvDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067850880091881963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经没有图能够让我笑出来了 https://t.co/znKcJXBvDL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "3_2067850876933615616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJ7aqgbsAA2YRL.jpg",
+        "width": 194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067850876933615616"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2067850880091881963",
+        "created_at": "2026-06-19T06:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067850880091881963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/znKcJXBvDL",
+              "end": 37,
+              "expanded_url": "https://x.com/NMD_2012/status/2067850880091881963/photo/1",
+              "media_key": "3_2067850876933615616",
+              "start": 14,
+              "url": "https://t.co/znKcJXBvDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067850880091881963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经没有图能够让我笑出来了 https://t.co/znKcJXBvDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的 另一个我@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 45,
+          "like_count": 2660,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      }
+    ]
+  }
+}

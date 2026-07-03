@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2059637759359476139",
+    "created_at": "2026-05-28T12:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059969605700038914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1786732256708751361",
+          "start": 0,
+          "username": "binhtrach"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059969605700038914",
+    "in_reply_to_user_id": "1786732256708751361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059637759359476139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@binhtrach 翻译：无聊且重复的 模悲离司 游戏玩法，带着无聊的奇特操作。画面展示开车、瞄准，以及单人 罗西 战斗，能慢慢建立一些创造力。编辑动作很浅薄，开车穿越地图也感觉毫无意义。可能会让人觉得无聊吧。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 210080,
+        "height": 1440,
+        "media_key": "13_2059636646384164864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059636646384164864/img/Gm73JJrWHQDF0CJX.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059636646384164864/vid/avc1/432x270/fAtGLIo5sMUWJ9IU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059636646384164864/vid/avc1/576x360/AOIYkdA1zdsdWVPx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059636646384164864/vid/avc1/1152x720/5ngtvt7jbqgP9Hh7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059636646384164864/pl/f9yudV8KNu8yEWaq.m3u8?tag=14"
+          }
+        ],
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2059637759359476139",
+        "created_at": "2026-05-28T12:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059969605700038914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1786732256708751361",
+              "start": 0,
+              "username": "binhtrach"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059969605700038914",
+        "in_reply_to_user_id": "1786732256708751361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059637759359476139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binhtrach 翻译：无聊且重复的 模悲离司 游戏玩法，带着无聊的奇特操作。画面展示开车、瞄准，以及单人 罗西 战斗，能慢慢建立一些创造力。编辑动作很浅薄，开车穿越地图也感觉毫无意义。可能会让人觉得无聊吧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059636646384164864"
+          ]
+        },
+        "author_id": "1786732256708751361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          }
+        ],
+        "conversation_id": "2059637759359476139",
+        "created_at": "2026-05-27T14:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059637759359476139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRBhudpg7W",
+              "end": 258,
+              "expanded_url": "https://x.com/binhtrach/status/2059637759359476139/video/1",
+              "media_key": "13_2059636646384164864",
+              "start": 235,
+              "url": "https://t.co/oRBhudpg7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059637759359476139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bỏing and rêptitive 模悲離司 gameplay ưith 阿 bỏing 奇－炙𠲖微𠾦。framé shơ driving, aiming, and 阿 single 羅西𥩤眉 fỉèight that 由燕 t build 模绵嵩塢 creativity。𦂛edít 妸𠲖眉尼魔羅，𦂛 action 唹 shallơ, and 𦂛せくえんせ ò driving acrós 娑諫 máp fêls pointlés. could 𠾦 engagi https://t.co/oRBhudpg7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 26,
+          "like_count": 987,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 31
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T12:19:08.000Z",
+        "description": "時間회證明일절역회마平日절\n時間會証明一切亦會磨平一切\n烏洟希@anhoamau",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "anhoamau"
+              }
+            ]
+          }
+        },
+        "id": "1786732256708751361",
+        "location": "北平",
+        "name": "平澤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037559820853899264/7t_OhOeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 107,
+          "like_count": 13654,
+          "listed_count": 0,
+          "media_count": 399,
+          "tweet_count": 3351
+        },
+        "username": "binhtrach",
+        "verified": false
+      }
+    ]
+  }
+}

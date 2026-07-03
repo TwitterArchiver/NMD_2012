@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2063966883146326052",
+    "created_at": "2026-06-08T12:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063966883146326052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AhEh0214/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/AhEh0214/status/2063897619567702210",
+          "start": 5,
+          "url": "https://t.co/Hgy6axIIzY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063966883146326052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063897619567702210",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈妈妈 https://t.co/Hgy6axIIzY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2063897607295193088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRv8Feb0AAQuhE.jpg",
+        "width": 2060
+      },
+      {
+        "height": 480,
+        "media_key": "3_2063897607622307840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRv8GsbMAAUHWj.jpg",
+        "width": 850
+      },
+      {
+        "height": 591,
+        "media_key": "3_2063897608738013184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRv8K2bgAAjR40.jpg",
+        "width": 591
+      },
+      {
+        "height": 1205,
+        "media_key": "3_2063897609937518593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRv8PUagAEVFCQ.jpg",
+        "width": 1934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2063966883146326052",
+        "created_at": "2026-06-08T12:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063966883146326052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AhEh0214/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/AhEh0214/status/2063897619567702210",
+              "start": 5,
+              "url": "https://t.co/Hgy6axIIzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063966883146326052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063897619567702210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈妈妈 https://t.co/Hgy6axIIzY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063897607295193088",
+            "3_2063897607622307840",
+            "3_2063897608738013184",
+            "3_2063897609937518593"
+          ]
+        },
+        "author_id": "1921297389564174336",
+        "conversation_id": "2063897619567702210",
+        "created_at": "2026-06-08T08:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063897619567702210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hc9hlzKSuE",
+              "end": 42,
+              "expanded_url": "https://x.com/AhEh0214/status/2063897619567702210/photo/1",
+              "media_key": "3_2063897607295193088",
+              "start": 19,
+              "url": "https://t.co/hc9hlzKSuE"
+            },
+            {
+              "display_url": "pic.x.com/hc9hlzKSuE",
+              "end": 42,
+              "expanded_url": "https://x.com/AhEh0214/status/2063897619567702210/photo/1",
+              "media_key": "3_2063897607622307840",
+              "start": 19,
+              "url": "https://t.co/hc9hlzKSuE"
+            },
+            {
+              "display_url": "pic.x.com/hc9hlzKSuE",
+              "end": 42,
+              "expanded_url": "https://x.com/AhEh0214/status/2063897619567702210/photo/1",
+              "media_key": "3_2063897608738013184",
+              "start": 19,
+              "url": "https://t.co/hc9hlzKSuE"
+            },
+            {
+              "display_url": "pic.x.com/hc9hlzKSuE",
+              "end": 42,
+              "expanded_url": "https://x.com/AhEh0214/status/2063897619567702210/photo/1",
+              "media_key": "3_2063897609937518593",
+              "start": 19,
+              "url": "https://t.co/hc9hlzKSuE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063897619567702210",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 3160,
+          "like_count": 153,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "우이카의 사람 홀리는 표정이 좋다 https://t.co/hc9hlzKSuE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 34,
+          "like_count": 1666,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 91
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T20:13:05.000Z",
+        "description": "N개월차 취미 기타러 🎸 / Ave Mujica 🌙 / 우이x사키 💛🩵 / 걸즈밴드 러버 ❤️ / 인장: @Hf00_UFO 님 / @kurakura250327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "Hf00_UFO"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "kurakura250327"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@aheh0214?si=S…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@aheh0214?si=SiuhiR-p6IABmsIK",
+                "start": 0,
+                "url": "https://t.co/2F1GY1flIE"
+              }
+            ]
+          }
+        },
+        "id": "1921297389564174336",
+        "location": "아베무지카와 걸밴물을 좋아하는 응애 기타쿠 (장르계x)",
+        "name": "아헤",
+        "pinned_tweet_id": "2060981472350408949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062657940776181760/1XmfMmqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 410,
+          "like_count": 78542,
+          "listed_count": 0,
+          "media_count": 1371,
+          "tweet_count": 23426
+        },
+        "url": "https://t.co/2F1GY1flIE",
+        "username": "AhEh0214",
+        "verified": false
+      }
+    ]
+  }
+}

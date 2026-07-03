@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072692080506466304"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072692084612698434",
+    "created_at": "2026-07-02T14:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072692084612698434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ReEEAIYtHP",
+          "end": 31,
+          "expanded_url": "https://x.com/NMD_2012/status/2072692084612698434/photo/1",
+          "media_key": "3_2072692080506466304",
+          "start": 8,
+          "url": "https://t.co/ReEEAIYtHP"
+        },
+        {
+          "display_url": "x.com/NMD_2012/statu…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/NMD_2012/status/2072159234838720939",
+          "start": 32,
+          "url": "https://t.co/JVzg875RtZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072692084612698434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072159234838720939",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有钱了不能忘本 https://t.co/ReEEAIYtHP https://t.co/JVzg875RtZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2072692080506466304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOudzNacAABjxD.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072692080506466304"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072692084612698434",
+        "created_at": "2026-07-02T14:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072692084612698434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ReEEAIYtHP",
+              "end": 31,
+              "expanded_url": "https://x.com/NMD_2012/status/2072692084612698434/photo/1",
+              "media_key": "3_2072692080506466304",
+              "start": 8,
+              "url": "https://t.co/ReEEAIYtHP"
+            },
+            {
+              "display_url": "x.com/NMD_2012/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/NMD_2012/status/2072159234838720939",
+              "start": 32,
+              "url": "https://t.co/JVzg875RtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072692084612698434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072159234838720939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有钱了不能忘本 https://t.co/ReEEAIYtHP https://t.co/JVzg875RtZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2072159234838720939",
+        "created_at": "2026-07-01T03:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072159234838720939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NMD_2012/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/NMD_2012/status/2071817469854089324",
+              "start": 20,
+              "url": "https://t.co/mfc5hM1xMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072159234838720939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 566,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071817469854089324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "钱都用来买手机了，今天还得继续吃好的😅 https://t.co/mfc5hM1xMX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的 都过来走江湖但谁能不受伤呢/是个低能量的人所以喜欢听歌和睡觉😴/个人主义/自由主义/接受所有成分/黄推不行/我会努力去爱每一个喜欢我的人/会看成分回fo/很喜欢有趣的人/鉴证账号退散/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 249,
+          "like_count": 6179,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      }
+    ]
+  }
+}

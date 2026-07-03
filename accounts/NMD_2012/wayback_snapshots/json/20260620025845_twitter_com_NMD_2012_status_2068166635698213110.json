@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2067819201524641985",
+    "created_at": "2026-06-20T02:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T03:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068166635698213110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991045969371361280",
+          "start": 0,
+          "username": "Russell3402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068166635698213110",
+    "in_reply_to_user_id": "1991045969371361280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067819201524641985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Russell3402 康神开播了？真的假的？我靠真开播了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_2067819168305692672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJek-qawAAx61g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2067819201524641985",
+        "created_at": "2026-06-20T02:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T03:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068166635698213110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991045969371361280",
+              "start": 0,
+              "username": "Russell3402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068166635698213110",
+        "in_reply_to_user_id": "1991045969371361280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067819201524641985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Russell3402 康神开播了？真的假的？我靠真开播了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067819168305692672"
+          ]
+        },
+        "author_id": "1991045969371361280",
+        "conversation_id": "2067819201524641985",
+        "created_at": "2026-06-19T03:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067819201524641985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRI2dHCG3u",
+              "end": 40,
+              "expanded_url": "https://x.com/Russell3402/status/2067819201524641985/photo/1",
+              "media_key": "3_2067819168305692672",
+              "start": 17,
+              "url": "https://t.co/aRI2dHCG3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067819201524641985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 233174,
+          "like_count": 430,
+          "quote_count": 1,
+          "reply_count": 203,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这这这...这\n开源精神万岁？😂 https://t.co/aRI2dHCG3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 另一个我@CNM_2012 看成分会fo  喜欢有趣的人 黄推鉴证账号拒fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 47,
+          "like_count": 2940,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T07:28:56.000Z",
+        "description": "05年大学生\n用AI赚到人生第123456789桶金\nAI玩咖 | 独立开发者 | 连续创业\n利他是最好的商业模式 坚信文字的力量\n保持谦逊",
+        "id": "1991045969371361280",
+        "name": "Russell",
+        "pinned_tweet_id": "2067095960275292287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027629616744304640/7fyIwFFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5607,
+          "following_count": 210,
+          "like_count": 8847,
+          "listed_count": 17,
+          "media_count": 427,
+          "tweet_count": 4502
+        },
+        "url": "",
+        "username": "Russell3402",
+        "verified": true
+      }
+    ]
+  }
+}

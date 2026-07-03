@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2064315150602326022",
+    "created_at": "2026-06-09T11:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064315150602326022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1560494108396978176",
+          "start": 3,
+          "username": "duwang233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/rV",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/rV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064315150602326022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064029600875950310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duwang233: 我都懒得说这段烧成什么样了，人都站到面前了明明想说的话一堆愣是把自己的牙打碎了往肚里咽。\n小表情也是多得很躲在人身后偷看睨看上看下看扫了一圈就是不敢直视船祥，八字眉一摆丢下一句不要讨厌我就夹着尾巴跑了，我的妈太扫了🙃 https://t.co/rV…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064029548380098560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTn8EUbEAA50ku.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2064315150602326022",
+        "created_at": "2026-06-09T11:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064315150602326022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560494108396978176",
+              "start": 3,
+              "username": "duwang233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/rV",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/rV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064315150602326022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064029600875950310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duwang233: 我都懒得说这段烧成什么样了，人都站到面前了明明想说的话一堆愣是把自己的牙打碎了往肚里咽。\n小表情也是多得很躲在人身后偷看睨看上看下看扫了一圈就是不敢直视船祥，八字眉一摆丢下一句不要讨厌我就夹着尾巴跑了，我的妈太扫了🙃 https://t.co/rV…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064029548380098560"
+          ]
+        },
+        "author_id": "1560494108396978176",
+        "conversation_id": "2064029600875950310",
+        "created_at": "2026-06-08T16:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064029600875950310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rVOGKX8p2B",
+              "end": 132,
+              "expanded_url": "https://x.com/duwang233/status/2064029600875950310/photo/1",
+              "media_key": "3_2064029548380098560",
+              "start": 109,
+              "url": "https://t.co/rVOGKX8p2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064029600875950310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 10831,
+          "like_count": 293,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我都懒得说这段烧成什么样了，人都站到面前了明明想说的话一堆愣是把自己的牙打碎了往肚里咽。\n小表情也是多得很躲在人身后偷看睨看上看下看扫了一圈就是不敢直视船祥，八字眉一摆丢下一句不要讨厌我就夹着尾巴跑了，我的妈太扫了🙃 https://t.co/rVOGKX8p2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 33,
+          "like_count": 1806,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 105
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T05:09:32.000Z",
+        "description": "🖤💖💙💛\n低浮上\n杂食无雷点，喜欢奶牛猫🥛🐱💕",
+        "id": "1560494108396978176",
+        "name": "duck duck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050032624605814785/5nnBRh_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 859,
+          "like_count": 7093,
+          "listed_count": 14,
+          "media_count": 465,
+          "tweet_count": 1699
+        },
+        "username": "duwang233",
+        "verified": false
+      }
+    ]
+  }
+}

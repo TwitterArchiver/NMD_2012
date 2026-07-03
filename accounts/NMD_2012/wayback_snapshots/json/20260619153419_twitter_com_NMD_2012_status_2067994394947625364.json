@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2067992617397391654",
+    "created_at": "2026-06-19T15:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067994394947625364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916506338345234432",
+          "start": 0,
+          "username": "xiangcaokmt8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067994394947625364",
+    "in_reply_to_user_id": "1916506338345234432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067992617397391654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcaokmt8964 你头像怎么越来越向着hyw但方向发展"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 149,
+        "media_key": "3_2067992611626074113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL8UtYawAELlq5.jpg",
+        "width": 149
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2067992617397391654",
+        "created_at": "2026-06-19T15:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067994394947625364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916506338345234432",
+              "start": 0,
+              "username": "xiangcaokmt8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067994394947625364",
+        "in_reply_to_user_id": "1916506338345234432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067992617397391654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcaokmt8964 你头像怎么越来越向着hyw但方向发展"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067992611626074113"
+          ]
+        },
+        "author_id": "1916506338345234432",
+        "conversation_id": "2067992617397391654",
+        "created_at": "2026-06-19T15:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067992617397391654"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzHYpIURQ7",
+              "end": 28,
+              "expanded_url": "https://x.com/xiangcaokmt8964/status/2067992617397391654/photo/1",
+              "media_key": "3_2067992611626074113",
+              "start": 5,
+              "url": "https://t.co/uzHYpIURQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067992617397391654",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/uzHYpIURQ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 另一个我@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 45,
+          "like_count": 2812,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T14:55:02.000Z",
+        "description": "前世@heya8964，k大妈孝黑子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "heya8964"
+              }
+            ]
+          }
+        },
+        "id": "1916506338345234432",
+        "location": "中南海",
+        "name": "弹烤馒头逼",
+        "pinned_tweet_id": "2057875990156877967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067992597994561536/of_g7bt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 162,
+          "like_count": 1711,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 904
+        },
+        "url": "",
+        "username": "xiangcaokmt8964",
+        "verified": false
+      }
+    ]
+  }
+}

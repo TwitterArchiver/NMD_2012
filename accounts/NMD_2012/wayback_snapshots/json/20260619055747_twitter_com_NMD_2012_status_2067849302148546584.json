@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067849298948313088"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2067849302148546584",
+    "created_at": "2026-06-19T05:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067849302148546584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YsNhmwvhv7",
+          "end": 47,
+          "expanded_url": "https://x.com/NMD_2012/status/2067849302148546584/photo/1",
+          "media_key": "3_2067849298948313088",
+          "start": 24,
+          "url": "https://t.co/YsNhmwvhv7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067849302148546584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像这种头像带着圆环的号和普通的账号有什么区别吗 https://t.co/YsNhmwvhv7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 302,
+        "media_key": "3_2067849298948313088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJ5-0Da0AA81GD.jpg",
+        "width": 302
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067849298948313088"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2067849302148546584",
+        "created_at": "2026-06-19T05:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067849302148546584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YsNhmwvhv7",
+              "end": 47,
+              "expanded_url": "https://x.com/NMD_2012/status/2067849302148546584/photo/1",
+              "media_key": "3_2067849298948313088",
+              "start": 24,
+              "url": "https://t.co/YsNhmwvhv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067849302148546584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像这种头像带着圆环的号和普通的账号有什么区别吗 https://t.co/YsNhmwvhv7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的 另一个我@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 45,
+          "like_count": 2660,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      }
+    ]
+  }
+}

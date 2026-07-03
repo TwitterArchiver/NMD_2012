@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2066084360206561280"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2066084902056182049",
+    "created_at": "2026-06-14T09:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066084902056182049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053009418871357440",
+          "start": 3,
+          "username": "NMD_2012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066084902056182049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066084362333176076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @NMD_2012: 我现在正在纠结我的小号该用哪一个推号👀"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 120,
+        "end_datetime": "2026-06-14T11:04:32.000Z",
+        "id": "2066084360206561280",
+        "options": [
+          {
+            "label": "CNM_2012",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "CNM_1958",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "CNM_1976",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2066084360206561280"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2066084902056182049",
+        "created_at": "2026-06-14T09:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066084902056182049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053009418871357440",
+              "start": 3,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066084902056182049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066084362333176076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @NMD_2012: 我现在正在纠结我的小号该用哪一个推号👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2066084360206561280"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2066084362333176076",
+        "created_at": "2026-06-14T09:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066084362333176076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066084362333176076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "我现在正在纠结我的小号该用哪一个推号👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 38,
+          "like_count": 2290,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 148
+        },
+        "username": "NMD_2012",
+        "verified": false
+      }
+    ]
+  }
+}

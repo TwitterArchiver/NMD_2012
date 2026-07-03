@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2065805922891620619",
+    "created_at": "2026-06-13T14:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065806998528987159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2037575598730584064",
+          "start": 0,
+          "username": "SerenAzuma_HK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065806998528987159",
+    "in_reply_to_user_id": "2037575598730584064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065805922891620619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SerenAzuma_HK 下回直接block吧🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 259,
+        "media_key": "3_2065805894164881408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKs3hACbIAA-dcx.jpg",
+        "width": 385
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2065805922891620619",
+        "created_at": "2026-06-13T14:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065806998528987159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2037575598730584064",
+              "start": 0,
+              "username": "SerenAzuma_HK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065806998528987159",
+        "in_reply_to_user_id": "2037575598730584064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065805922891620619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SerenAzuma_HK 下回直接block吧🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065805894164881408"
+          ]
+        },
+        "author_id": "2037575598730584064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065805922891620619",
+        "created_at": "2026-06-13T14:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065805922891620619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/06pS5JqXJf",
+              "end": 78,
+              "expanded_url": "https://x.com/SerenAzuma_HK/status/2065805922891620619/photo/1",
+              "media_key": "3_2065805894164881408",
+              "start": 55,
+              "url": "https://t.co/06pS5JqXJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065805922891620619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的我为什么会被缠上啊我操我不甘心啊啊啊啊啊啊啊我的壹仟伍佰壹拾叁个fo啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/06pS5JqXJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 36,
+          "like_count": 2133,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 135
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "一般通过社民入🌹🇪🇺坚定的进步主义战士|友跨暂未翻车 激挺LGBT🏳️‍🌈🏳️‍⚧️|大号@RenChan_VmV打官司中ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "RenChan_VmV"
+              }
+            ]
+          }
+        },
+        "id": "2037575598730584064",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️互fo寻回",
+        "pinned_tweet_id": "2065718823307895206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054195788482506752/IvaYamSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 224,
+          "like_count": 2622,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 312
+        },
+        "username": "SerenAzuma_HK",
+        "verified": false
+      }
+    ]
+  }
+}

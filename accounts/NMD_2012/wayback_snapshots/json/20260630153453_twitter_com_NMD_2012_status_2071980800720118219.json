@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071934527438503936",
+        "3_2071934561030717440"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2071980800720118219",
+    "created_at": "2026-06-30T15:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071980800720118219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uv8ljtGlEj",
+          "end": 139,
+          "expanded_url": "https://x.com/NMD_2012/status/2071980800720118219/photo/1",
+          "media_key": "3_2071934527438503936",
+          "start": 116,
+          "url": "https://t.co/uv8ljtGlEj"
+        },
+        {
+          "display_url": "pic.x.com/uv8ljtGlEj",
+          "end": 139,
+          "expanded_url": "https://x.com/NMD_2012/status/2071980800720118219/photo/1",
+          "media_key": "3_2071934561030717440",
+          "start": 116,
+          "url": "https://t.co/uv8ljtGlEj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071980800720118219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "DAY8:镜花水月\n反对毒品的应该也是关于毒品的歌吧🤔\n被收录于专辑《退潮》，这首歌是法老写给何力的，何力曾是对法老帮助非常大的一位朋友，后来因失恋堕落至贩毒而死。导致了法老对毒品的痛恨，何力也成为他的禁毒标志，活死人反毒理念源头\n歌词塑造了三个角色分别是“她”“他”和“我”，“她”就是毒品对人的诱惑，歌中的女声部分唱得是极具诱惑性的，让人听着会很像一首情歌🤤，但真正了解过后才能明白这种诱惑性其实是人对于毒品的依赖。“他”就是何力，歌中通过一段由短句组成的一段快嘴完美地模拟了吸毒成瘾者毒瘾发作时疯癫的状态，“fuck you法老”这句词说明何力为了追求那种美好背弃了现实，甚至在攻击那个曾经与他关系很好，现在想要劝说他的法老，看出他丧失了理智，对毒品已经到了极度痴迷的程度。“我”当然就是法老本人，他不情愿看着曾经把他从深渊中拉出的朋友一步步落入深渊，苦口婆心地劝说却始终没有效果，最后只能看着他一步步堕落直至死去。歌中有一个细节：开头是点火声，结尾是咳嗽声，做到了前后呼应，也能说明这首歌禁毒的主题\n这真的是一首很有深度的歌，难道你以为词写的号歌就难听了吗，镜花水月好听好听好好听听好听好听🤤太燥了这首歌后边段我直接跪着听😭支不支持系度的都可以听，主人快去听一听吧，我什么都会做的😭"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "DAY8:镜花水月\n反对毒品的应该也是关于毒品的歌吧🤔\n被收录于专辑《退潮》，这首歌是法老写给何力的，何力曾是对法老帮助非常大的一位朋友，后来因失恋堕落至贩毒而死。导致了法老对毒品的痛恨，何力也成为他的禁毒标志，活死人反毒理念源头 https://t.co/uv8ljtGlEj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2071934527438503936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD9eaHWwAAaH8j.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071934561030717440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD9gXQXQAAHggq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071934527438503936",
+            "3_2071934561030717440"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2071980800720118219",
+        "created_at": "2026-06-30T15:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071980800720118219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uv8ljtGlEj",
+              "end": 139,
+              "expanded_url": "https://x.com/NMD_2012/status/2071980800720118219/photo/1",
+              "media_key": "3_2071934527438503936",
+              "start": 116,
+              "url": "https://t.co/uv8ljtGlEj"
+            },
+            {
+              "display_url": "pic.x.com/uv8ljtGlEj",
+              "end": 139,
+              "expanded_url": "https://x.com/NMD_2012/status/2071980800720118219/photo/1",
+              "media_key": "3_2071934561030717440",
+              "start": 116,
+              "url": "https://t.co/uv8ljtGlEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071980800720118219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "DAY8:镜花水月\n反对毒品的应该也是关于毒品的歌吧🤔\n被收录于专辑《退潮》，这首歌是法老写给何力的，何力曾是对法老帮助非常大的一位朋友，后来因失恋堕落至贩毒而死。导致了法老对毒品的痛恨，何力也成为他的禁毒标志，活死人反毒理念源头\n歌词塑造了三个角色分别是“她”“他”和“我”，“她”就是毒品对人的诱惑，歌中的女声部分唱得是极具诱惑性的，让人听着会很像一首情歌🤤，但真正了解过后才能明白这种诱惑性其实是人对于毒品的依赖。“他”就是何力，歌中通过一段由短句组成的一段快嘴完美地模拟了吸毒成瘾者毒瘾发作时疯癫的状态，“fuck you法老”这句词说明何力为了追求那种美好背弃了现实，甚至在攻击那个曾经与他关系很好，现在想要劝说他的法老，看出他丧失了理智，对毒品已经到了极度痴迷的程度。“我”当然就是法老本人，他不情愿看着曾经把他从深渊中拉出的朋友一步步落入深渊，苦口婆心地劝说却始终没有效果，最后只能看着他一步步堕落直至死去。歌中有一个细节：开头是点火声，结尾是咳嗽声，做到了前后呼应，也能说明这首歌禁毒的主题\n这真的是一首很有深度的歌，难道你以为词写的号歌就难听了吗，镜花水月好听好听好好听听好听好听🤤太燥了这首歌后边段我直接跪着听😭支不支持系度的都可以听，主人快去听一听吧，我什么都会做的😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DAY8:镜花水月\n反对毒品的应该也是关于毒品的歌吧🤔\n被收录于专辑《退潮》，这首歌是法老写给何力的，何力曾是对法老帮助非常大的一位朋友，后来因失恋堕落至贩毒而死。导致了法老对毒品的痛恨，何力也成为他的禁毒标志，活死人反毒理念源头 https://t.co/uv8ljtGlEj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的 都过来走江湖但谁能不受伤呢/是个低能量的人所以喜欢听歌和睡觉😴/个人主义/自由主义/接受除黄推以外所有成分 我会努力去爱每一个喜欢我的人/会看成分回fo/很喜欢有趣的人/鉴证账号退散/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 221,
+          "like_count": 5797,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 676
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": true
+      }
+    ]
+  }
+}

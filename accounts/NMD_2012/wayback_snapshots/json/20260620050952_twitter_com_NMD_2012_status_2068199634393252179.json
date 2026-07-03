@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2068199634393252179",
+    "created_at": "2026-06-20T05:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068199634393252179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NMD_2012/statu…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/NMD_2012/status/2060737146781352160",
+          "start": 133,
+          "url": "https://t.co/W81AzdoEZz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068199634393252179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060737146781352160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本次主页声明：\n不管你是互完fo/晶哥/平常人看主页的\n\n本人已不再发表政治言论，也请勿在我帖子下面发任何关于涉及政治的东西\n\n同时我也希望大家能友善交流不要吵起来\n我也希望和大家多互动聊聊天交朋友\n\n偶尔会发点日常 游戏 二次元啥的\n同时我也需要多点fo来互动🥹 https://t.co/W81AzdoEZz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2068199634393252179",
+        "created_at": "2026-06-20T05:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068199634393252179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NMD_2012/statu…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/NMD_2012/status/2060737146781352160",
+              "start": 133,
+              "url": "https://t.co/W81AzdoEZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068199634393252179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060737146781352160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本次主页声明：\n不管你是互完fo/晶哥/平常人看主页的\n\n本人已不再发表政治言论，也请勿在我帖子下面发任何关于涉及政治的东西\n\n同时我也希望大家能友善交流不要吵起来\n我也希望和大家多互动聊聊天交朋友\n\n偶尔会发点日常 游戏 二次元啥的\n同时我也需要多点fo来互动🥹 https://t.co/W81AzdoEZz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2060737146781352160",
+        "created_at": "2026-05-30T14:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060737146781352160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Soft Lipa · 你所不知道的杜振熙之內部整修 · Song · 2013",
+              "display_url": "open.spotify.com/track/2nZqyGOs…",
+              "end": 36,
+              "expanded_url": "https://open.spotify.com/track/2nZqyGOsAIOHKQOwnvp7te?si=X5anKxy0QEiGzArxjorCIQ",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2060737147792199680/X9Jxe34Y?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060737147792199680/X9Jxe34Y?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "冰河時期",
+              "unwound_url": "https://open.spotify.com/track/2nZqyGOsAIOHKQOwnvp7te?si=X5anKxy0QEiGzArxjorCIQ",
+              "url": "https://t.co/kM0UegP0gd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060737146781352160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 534,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "置顶帖挂首歌显得我很神秘🚬https://t.co/kM0UegP0gd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 @MAKINOPEACE梦男👁️  看成分回fo  喜欢有趣的人 鉴证账号退散 可以关注我的邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "MAKINOPEACE"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 47,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      }
+    ]
+  }
+}

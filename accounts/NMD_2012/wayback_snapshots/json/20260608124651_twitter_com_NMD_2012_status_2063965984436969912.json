@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2063965984436969912",
+    "created_at": "2026-06-08T12:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063965984436969912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RIME_ovo_0214/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/RIME_ovo_0214/status/1893934982613156008",
+          "start": 14,
+          "url": "https://t.co/2tNRndpydO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063965984436969912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893934982613156008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我又不同意晶格不让我上推了 https://t.co/2tNRndpydO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1886,
+        "media_key": "3_1893934972417032192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkib0qqbQAA2r9W.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2063965984436969912",
+        "created_at": "2026-06-08T12:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063965984436969912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RIME_ovo_0214/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/RIME_ovo_0214/status/1893934982613156008",
+              "start": 14,
+              "url": "https://t.co/2tNRndpydO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063965984436969912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893934982613156008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又不同意晶格不让我上推了 https://t.co/2tNRndpydO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893934972417032192"
+          ]
+        },
+        "author_id": "1286194250003156997",
+        "conversation_id": "1893934982613156008",
+        "created_at": "2025-02-24T08:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T09:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893934982613156008"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "むつさき"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VLR7tYbsGX",
+              "end": 29,
+              "expanded_url": "https://x.com/RIME_ovo_0214/status/1893934982613156008/photo/1",
+              "media_key": "3_1893934972417032192",
+              "start": 6,
+              "url": "https://t.co/VLR7tYbsGX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893934982613156008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4983,
+          "impression_count": 573475,
+          "like_count": 38921,
+          "quote_count": 68,
+          "reply_count": 8,
+          "retweet_count": 2443
+        },
+        "reply_settings": "everyone",
+        "text": "#むつさき https://t.co/VLR7tYbsGX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 33,
+          "like_count": 1662,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 90
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T06:59:53.000Z",
+        "description": "🔝🔅💚むつさき💙🔅|むつみ攻派絶対に逆ではない🚫|futa🔞気をつけて|中国語or英語⭕|感谢喜欢🥺！｜未授权禁止转载❌丨",
+        "id": "1286194250003156997",
+        "name": "雾凇",
+        "pinned_tweet_id": "1893619413514878995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891392157560586240/m7jCUXSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5809,
+          "following_count": 27,
+          "like_count": 95,
+          "listed_count": 13,
+          "media_count": 22,
+          "tweet_count": 88
+        },
+        "username": "RIME_ovo_0214",
+        "verified": false
+      }
+    ]
+  }
+}

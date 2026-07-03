@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2069363890950140270",
+    "created_at": "2026-06-23T16:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T17:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069461481977237789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833309008473821185",
+          "start": 0,
+          "username": "Arriprittiphy17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069461481977237789",
+    "in_reply_to_user_id": "1833309008473821185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069446787967095052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arriprittiphy17 齐民要术😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2069363890950140270",
+        "created_at": "2026-06-23T16:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069461481977237789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1833309008473821185",
+              "start": 0,
+              "username": "Arriprittiphy17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069461481977237789",
+        "in_reply_to_user_id": "1833309008473821185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069446787967095052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arriprittiphy17 齐民要术😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833309008473821185",
+        "conversation_id": "2069363890950140270",
+        "created_at": "2026-06-23T15:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069446787967095052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069446787967095052",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069363890950140270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 發黃推、炒要全面封禁vpn了引起恐慌、發佈爭議話題並故意支持明顯劣勢風向一方、牆內梗圖、梯子問題，這算比較快的了，我的timeline經常這些東西佔很大流量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 @MAKINOPEACE梦男👁️  看成分回fo  喜欢有趣的人 鉴证账号退散 可以关注我的邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "MAKINOPEACE"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069347776820056064/up6YKXtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 53,
+          "like_count": 3654,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T00:58:41.000Z",
+        "description": "You can't know everything, nor do you have the right to know.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "atridarling.site",
+                "end": 23,
+                "expanded_url": "http://atridarling.site",
+                "start": 0,
+                "url": "https://t.co/xkyw4qnhQZ"
+              }
+            ]
+          }
+        },
+        "id": "1833309008473821185",
+        "location": "Hong Kong",
+        "name": "Arrestley_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067966109769465856/n7PVIdM4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 168,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/xkyw4qnhQZ",
+        "username": "Arriprittiphy17",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2069983073312387378",
+    "created_at": "2026-06-25T15:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070168396352929862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1723218214216450048",
+          "start": 0,
+          "username": "AnRanXE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070168396352929862",
+    "in_reply_to_user_id": "1723218214216450048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070071124885713027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnRanXE ？这不对吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2070071109165400064",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLpetMGaQAA62l8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLpetMGaQAA62l8.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2069983073312387378",
+        "created_at": "2026-06-25T15:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070168396352929862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1723218214216450048",
+              "start": 0,
+              "username": "AnRanXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070168396352929862",
+        "in_reply_to_user_id": "1723218214216450048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070071124885713027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnRanXE ？这不对吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2070071109165400064"
+          ]
+        },
+        "author_id": "1723218214216450048",
+        "conversation_id": "2069983073312387378",
+        "created_at": "2026-06-25T09:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070071124885713027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/exauNlTtNn",
+              "end": 33,
+              "expanded_url": "https://x.com/AnRanXE/status/2070071124885713027/photo/1",
+              "media_key": "16_2070071109165400064",
+              "start": 10,
+              "url": "https://t.co/exauNlTtNn"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2070071124885713027",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069983073312387378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 https://t.co/exauNlTtNn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 @MAKINOPEACE梦男👁️  个人主义 自由主义 看成分回fo  喜欢有趣的人 鉴证账号退散 可以关注我的邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "MAKINOPEACE"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069347776820056064/up6YKXtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 85,
+          "like_count": 4331,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 390
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T05:57:04.000Z",
+        "description": "baka",
+        "id": "1723218214216450048",
+        "name": "安然XE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875058408602152960/9Vl1iHF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "AnRanXE",
+        "verified": false
+      }
+    ]
+  }
+}

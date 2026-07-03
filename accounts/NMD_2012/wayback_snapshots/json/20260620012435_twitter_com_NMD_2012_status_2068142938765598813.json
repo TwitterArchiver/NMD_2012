@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2068142938765598813",
+    "created_at": "2026-06-20T01:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068142938765598813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NMD_2012/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/NMD_2012/status/2067970602359742803",
+          "start": 16,
+          "url": "https://t.co/lqDSwCyeCX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068142938765598813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067970602359742803",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们别评论了好不好我害怕😭😭😭 https://t.co/lqDSwCyeCX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1065,
+        "media_key": "3_2067970593224597504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLoTEcbIAAdwwh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1060,
+        "media_key": "3_2067970596055781376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLoTO_bkAAYxgI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2068142938765598813",
+        "created_at": "2026-06-20T01:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068142938765598813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NMD_2012/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/NMD_2012/status/2067970602359742803",
+              "start": 16,
+              "url": "https://t.co/lqDSwCyeCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068142938765598813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067970602359742803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们别评论了好不好我害怕😭😭😭 https://t.co/lqDSwCyeCX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067970593224597504",
+            "3_2067970596055781376"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067970602359742803",
+        "created_at": "2026-06-19T13:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067970602359742803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W3czJ7A7p4",
+              "end": 37,
+              "expanded_url": "https://x.com/NMD_2012/status/2067970602359742803/photo/1",
+              "media_key": "3_2067970593224597504",
+              "start": 14,
+              "url": "https://t.co/W3czJ7A7p4"
+            },
+            {
+              "display_url": "pic.x.com/W3czJ7A7p4",
+              "end": 37,
+              "expanded_url": "https://x.com/NMD_2012/status/2067970602359742803/photo/1",
+              "media_key": "3_2067970596055781376",
+              "start": 14,
+              "url": "https://t.co/W3czJ7A7p4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067970602359742803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6658,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近的推特是不是风水有问题 https://t.co/W3czJ7A7p4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 另一个我@CNM_2012 看成分会fo  喜欢有趣的人 黄推鉴证账号拒fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 45,
+          "like_count": 2888,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      }
+    ]
+  }
+}

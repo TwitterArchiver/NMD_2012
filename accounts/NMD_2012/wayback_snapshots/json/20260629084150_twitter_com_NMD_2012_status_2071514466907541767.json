@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2071481514102235557",
+    "created_at": "2026-06-29T08:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071514466907541767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592120524276002817",
+          "start": 0,
+          "username": "cywhanjian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071514466907541767",
+    "in_reply_to_user_id": "1592120524276002817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071481514102235557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cywhanjian 我在地铁上刷到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2071481514102235557",
+        "created_at": "2026-06-29T08:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071514466907541767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592120524276002817",
+              "start": 0,
+              "username": "cywhanjian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071514466907541767",
+        "in_reply_to_user_id": "1592120524276002817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071481514102235557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cywhanjian 我在地铁上刷到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592120524276002817",
+        "conversation_id": "2071481514102235557",
+        "created_at": "2026-06-29T06:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071481514102235557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/griffsane/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/griffsane/status/2071346363191709873",
+              "start": 29,
+              "url": "https://t.co/b3mKDdEhs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071481514102235557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071346363191709873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "平时在家不给我推这种，一来教室上课这种帖子闻着味儿就来了 https://t.co/b3mKDdEhs0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 都过来走江湖但谁能不受伤呢/是个低能量的人所以喜欢听歌和睡觉😴/@MAKINOPEACE梦男👁️ /个人主义/自由主义/接受所有成分 我会爱每一个喜欢我的人/会看成分回fo/很喜欢有趣的人/鉴证账号退散/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "MAKINOPEACE"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069347776820056064/up6YKXtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 200,
+          "like_count": 5429,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 622
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-14T11:41:35.000Z",
+        "description": "Can I chat with you？🤔",
+        "id": "1592120524276002817",
+        "location": "距你114514m",
+        "name": "c17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051947732286439425/BrPQMAVG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 277,
+          "like_count": 429,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1507
+        },
+        "url": "",
+        "username": "cywhanjian",
+        "verified": false
+      }
+    ]
+  }
+}

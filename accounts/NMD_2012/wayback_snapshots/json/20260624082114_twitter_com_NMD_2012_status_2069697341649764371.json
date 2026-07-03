@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2069697341649764371",
+    "created_at": "2026-06-24T08:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069697341649764371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/elonmusk/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/elonmusk/status/1055653541317042177",
+          "start": 6,
+          "url": "https://t.co/kv33eYDZKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069697341649764371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1055653541317042177",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我活到头了 https://t.co/kv33eYDZKh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_1055653537567232001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/DqZvTKCUUAEKNMA.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2069697341649764371",
+        "created_at": "2026-06-24T08:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069697341649764371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elonmusk/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/elonmusk/status/1055653541317042177",
+              "start": 6,
+              "url": "https://t.co/kv33eYDZKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069697341649764371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1055653541317042177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我活到头了 https://t.co/kv33eYDZKh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1055653537567232001"
+          ]
+        },
+        "author_id": "44196397",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          }
+        ],
+        "conversation_id": "1055633894739857414",
+        "created_at": "2018-10-26T02:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2018-10-26T03:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1055653541317042177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1292056170",
+              "start": 0,
+              "username": "JamesLandino"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2h4WeuwepE",
+              "end": 75,
+              "expanded_url": "https://x.com/elonmusk/status/1055653541317042177/photo/1",
+              "media_key": "3_1055653537567232001",
+              "start": 52,
+              "url": "https://t.co/2h4WeuwepE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1055653541317042177",
+        "in_reply_to_user_id": "1292056170",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1961,
+          "impression_count": 0,
+          "like_count": 64698,
+          "quote_count": 5986,
+          "reply_count": 3337,
+          "retweet_count": 18710
+        },
+        "referenced_tweets": [
+          {
+            "id": "1055633894739857414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JamesLandino im actually cat girl here’s selfie rn https://t.co/2h4WeuwepE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 @MAKINOPEACE梦男👁️  看成分回fo  喜欢有趣的人 鉴证账号退散 可以关注我的邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "MAKINOPEACE"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069347776820056064/up6YKXtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 59,
+          "like_count": 3805,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 310
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "Starmind",
+        "id": "44196397",
+        "name": "Elon Musk",
+        "pinned_tweet_id": "2069445014787129590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240440466,
+          "following_count": 1357,
+          "like_count": 235976,
+          "listed_count": 169693,
+          "media_count": 4563,
+          "tweet_count": 104725
+        },
+        "url": "",
+        "username": "elonmusk",
+        "verified": true
+      }
+    ]
+  }
+}

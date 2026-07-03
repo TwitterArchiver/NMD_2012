@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2064174613563883772",
+    "created_at": "2026-06-09T11:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064312371280244861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052451216542887937",
+          "start": 0,
+          "username": "bixng858010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064312371280244861",
+    "in_reply_to_user_id": "2052451216542887937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064174613563883772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bixng858010 弹主席还是那么可爱🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064174605481508864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVr3gIbgAA-qOf.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2064174613563883772",
+        "created_at": "2026-06-09T11:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064312371280244861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052451216542887937",
+              "start": 0,
+              "username": "bixng858010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064312371280244861",
+        "in_reply_to_user_id": "2052451216542887937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064174613563883772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bixng858010 弹主席还是那么可爱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064174605481508864"
+          ]
+        },
+        "author_id": "2052451216542887937",
+        "conversation_id": "2064174613563883772",
+        "created_at": "2026-06-09T02:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064174613563883772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rqz4ttqRrP",
+              "end": 30,
+              "expanded_url": "https://x.com/bixng858010/status/2064174613563883772/photo/1",
+              "media_key": "3_2064174605481508864",
+              "start": 7,
+              "url": "https://t.co/Rqz4ttqRrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064174613563883772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "追星成功嘻嘻 https://t.co/Rqz4ttqRrP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 33,
+          "like_count": 1785,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 103
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T18:11:35.000Z",
+        "description": "何意味",
+        "id": "2052451216542887937",
+        "location": "中国",
+        "name": "星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052604321418629120/szRlv48t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 42,
+          "like_count": 5602,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 469
+        },
+        "username": "bixng858010",
+        "verified": false
+      }
+    ]
+  }
+}

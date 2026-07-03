@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2070449824999387191",
+    "created_at": "2026-06-26T10:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070449824999387191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964283639015043072",
+          "start": 3,
+          "username": "GHudnov77785"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070449824999387191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070424965606981666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GHudnov77785: 主动给别人发消息的时候好尴尬，不知道怎么引导话题和进行话题，应该聊些什么呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2070449824999387191",
+        "created_at": "2026-06-26T10:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070449824999387191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964283639015043072",
+              "start": 3,
+              "username": "GHudnov77785"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070449824999387191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070424965606981666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GHudnov77785: 主动给别人发消息的时候好尴尬，不知道怎么引导话题和进行话题，应该聊些什么呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964283639015043072",
+        "conversation_id": "2070424965606981666",
+        "created_at": "2026-06-26T08:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070424965606981666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070424965606981666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "主动给别人发消息的时候好尴尬，不知道怎么引导话题和进行话题，应该聊些什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 @MAKINOPEACE梦男👁️  个人主义 自由主义 看成分回fo  喜欢有趣的人 鉴证账号退散 可以关注我的邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "MAKINOPEACE"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069347776820056064/up6YKXtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 107,
+          "like_count": 4619,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 447
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T11:04:56.000Z",
+        "description": "男生不是男娘 Sub 欢迎来和我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghudnov",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghudnov",
+                "start": 0,
+                "url": "https://t.co/1n5Vp0nGgr"
+              }
+            ]
+          }
+        },
+        "id": "1964283639015043072",
+        "name": "GaliasHudnov",
+        "pinned_tweet_id": "2059256275490455580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012679176914870272/BdEiPfrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 193,
+          "like_count": 1591,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/1n5Vp0nGgr",
+        "username": "GHudnov77785",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072244744529559552"
+      ],
+      "media_source_tweet_id": [
+        "2072244780151791953"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2072536982866280612",
+    "created_at": "2026-07-02T04:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072536982866280612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863473278247141376",
+          "start": 3,
+          "username": "qaq5777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8scSe8x9st",
+          "end": 39,
+          "expanded_url": "https://x.com/qaq5777/status/2072244780151791953/photo/1",
+          "media_key": "3_2072244744529559552",
+          "start": 16,
+          "url": "https://t.co/8scSe8x9st"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072536982866280612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072244780151791953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qaq5777: 转🥺 https://t.co/8scSe8x9st"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 825,
+        "media_key": "3_2072244744529559552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIXna1awAAk43X.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072244744529559552"
+          ],
+          "media_source_tweet_id": [
+            "2072244780151791953"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2072536982866280612",
+        "created_at": "2026-07-02T04:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072536982866280612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863473278247141376",
+              "start": 3,
+              "username": "qaq5777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8scSe8x9st",
+              "end": 39,
+              "expanded_url": "https://x.com/qaq5777/status/2072244780151791953/photo/1",
+              "media_key": "3_2072244744529559552",
+              "start": 16,
+              "url": "https://t.co/8scSe8x9st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072536982866280612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072244780151791953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qaq5777: 转🥺 https://t.co/8scSe8x9st"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072244744529559552"
+          ]
+        },
+        "author_id": "1863473278247141376",
+        "conversation_id": "2072244780151791953",
+        "created_at": "2026-07-01T09:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072244780151791953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8scSe8x9st",
+              "end": 26,
+              "expanded_url": "https://x.com/qaq5777/status/2072244780151791953/photo/1",
+              "media_key": "3_2072244744529559552",
+              "start": 3,
+              "url": "https://t.co/8scSe8x9st"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072244780151791953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9935,
+          "like_count": 346,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "转🥺 https://t.co/8scSe8x9st"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的 都过来走江湖但谁能不受伤呢/是个低能量的人所以喜欢听歌和睡觉😴/个人主义/自由主义/接受除黄推以外所有成分 我会努力去爱每一个喜欢我的人/会看成分回fo/很喜欢有趣的人/鉴证账号退散/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 245,
+          "like_count": 6096,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 749
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "如果你骂我 我就关机 然后去睡觉",
+        "id": "1863473278247141376",
+        "name": "不加冰",
+        "pinned_tweet_id": "2067902295594144087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005925336308146176/Hk0tumbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42830,
+          "following_count": 265,
+          "like_count": 13129,
+          "listed_count": 79,
+          "media_count": 247,
+          "tweet_count": 5715
+        },
+        "url": "",
+        "username": "qaq5777",
+        "verified": false
+      }
+    ]
+  }
+}

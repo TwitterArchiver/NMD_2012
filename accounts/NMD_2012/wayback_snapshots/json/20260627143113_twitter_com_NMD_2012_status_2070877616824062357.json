@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2070856729374396895",
+    "created_at": "2026-06-27T14:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070877616824062357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942363703065862144",
+          "start": 0,
+          "username": "bcdh80mQ7s5291"
+        },
+        {
+          "end": 30,
+          "id": "1906786783951806464",
+          "start": 16,
+          "username": "kounijimiaomu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070877616824062357",
+    "in_reply_to_user_id": "1942363703065862144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070877297624920443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bcdh80mQ7s5291 @kounijimiaomu 粉丝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2070856729374396895",
+        "created_at": "2026-06-27T14:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070877616824062357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942363703065862144",
+              "start": 0,
+              "username": "bcdh80mQ7s5291"
+            },
+            {
+              "end": 30,
+              "id": "1906786783951806464",
+              "start": 16,
+              "username": "kounijimiaomu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070877616824062357",
+        "in_reply_to_user_id": "1942363703065862144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070877297624920443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcdh80mQ7s5291 @kounijimiaomu 粉丝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942363703065862144",
+        "conversation_id": "2070856729374396895",
+        "created_at": "2026-06-27T14:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070877297624920443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            },
+            {
+              "end": 24,
+              "id": "1906786783951806464",
+              "start": 10,
+              "username": "kounijimiaomu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070877297624920443",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070871490804023301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 @kounijimiaomu fo是什么?🧐🧐🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 @MAKINOPEACE梦男👁️  个人主义 自由主义 看成分回fo  喜欢有趣的人 鉴证账号退散 可以关注我的邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "MAKINOPEACE"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069347776820056064/up6YKXtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 163,
+          "like_count": 5015,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 557
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T23:23:09.000Z",
+        "description": "中国人：hyw\n外国人:why\n什么你问我为什么不是完全倒装？因为h移位",
+        "id": "1942363703065862144",
+        "name": "Kirastar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942363986747379713/4apJ2HOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "bcdh80mQ7s5291",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T19:13:16.000Z",
+        "description": "木木/林木 谢谢你的喜欢\n你猜我什么属性我就是什么属性",
+        "id": "1906786783951806464",
+        "location": "1km",
+        "name": "mu木",
+        "pinned_tweet_id": "2061247612100259991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065295282322247680/GlLoS0r4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 52,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "kounijimiaomu",
+        "verified": false
+      }
+    ]
+  }
+}

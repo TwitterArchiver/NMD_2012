@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2069010458208870474",
+    "created_at": "2026-06-22T10:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069010458208870474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuwenMewo/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/YuwenMewo/status/2068286590619926777",
+          "start": 20,
+          "url": "https://t.co/nu5Od1ARXa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069010458208870474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068286590619926777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《我们是极力不推崇自己给自己做手术的》 https://t.co/nu5Od1ARXa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 185898,
+        "height": 1440,
+        "media_key": "13_2068286048313200640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068286048313200640/img/ZrRpWOUCLK4Kuj4w.jpg",
+        "public_metrics": {
+          "view_count": 749
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068286048313200640/vid/avc1/1280x720/kLbAju-yo5nRAz7K.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068286048313200640/vid/avc1/2560x1440/XgHPE2DdIPkK9cEv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068286048313200640/vid/avc1/640x360/6vdkuTwKOoXaIbMX.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068286048313200640/vid/avc1/480x270/IH138nakomvPpavi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068286048313200640/pl/92V0KeuOJiBYNMff.m3u8?v=087"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2069010458208870474",
+        "created_at": "2026-06-22T10:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069010458208870474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2068286590619926777",
+              "start": 20,
+              "url": "https://t.co/nu5Od1ARXa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069010458208870474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068286590619926777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《我们是极力不推崇自己给自己做手术的》 https://t.co/nu5Od1ARXa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068286048313200640"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "conversation_id": "2068286590619926777",
+        "created_at": "2026-06-20T10:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068286590619926777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "2063266311254552576",
+              "start": 41,
+              "username": "17nuun"
+            },
+            {
+              "end": 57,
+              "id": "1512976991976402949",
+              "start": 49,
+              "username": "bghtnya"
+            },
+            {
+              "end": 70,
+              "id": "1860552199585300482",
+              "start": 58,
+              "username": "Seven_Eraya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "b23.tv/G8TdY9W",
+              "end": 35,
+              "expanded_url": "https://b23.tv/G8TdY9W",
+              "start": 12,
+              "unwound_url": "https://www.bilibili.com/video/BV115jn63E5v/?buvid=XX0E5DA0B60054176EA439B380F5A59DE2C5C&from_spmid=default-value&is_story_h5=false&mid=ync4LKCY%2Btciro2Rc%2Bpjqg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=37eeb526-a397-44f1-9c27-6366e1882c09&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1781941208&unique_k=G8TdY9W&up_id=630015974",
+              "url": "https://t.co/3fKacEdR45"
+            },
+            {
+              "display_url": "pic.x.com/XC7fjnftna",
+              "end": 94,
+              "expanded_url": "https://x.com/YuwenMewo/status/2068286590619926777/video/1",
+              "media_key": "13_2068286048313200640",
+              "start": 71,
+              "url": "https://t.co/XC7fjnftna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068286590619926777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2095,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨圈大周报（3）\nb站：https://t.co/3fKacEdR45\n本期嘉宾：@17nuun，@bghtnya，@Seven_Eraya https://t.co/XC7fjnftna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 @MAKINOPEACE梦男👁️  看成分回fo  喜欢有趣的人 鉴证账号退散 可以关注我的邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "MAKINOPEACE"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 51,
+          "like_count": 3377,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2068867775406448996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 35,
+          "like_count": 116,
+          "listed_count": 4,
+          "media_count": 229,
+          "tweet_count": 770
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

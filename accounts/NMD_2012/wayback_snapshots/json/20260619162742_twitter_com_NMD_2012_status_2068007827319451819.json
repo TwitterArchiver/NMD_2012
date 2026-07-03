@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2068001232313319645",
+    "created_at": "2026-06-19T16:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068007827319451819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1734906028087721984",
+          "start": 0,
+          "username": "shantianliang08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068007827319451819",
+    "in_reply_to_user_id": "1734906028087721984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068007177386881134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shantianliang08 追母你的皮炎怎么这么松啊🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2068001232313319645",
+        "created_at": "2026-06-19T16:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068007827319451819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1734906028087721984",
+              "start": 0,
+              "username": "shantianliang08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068007827319451819",
+        "in_reply_to_user_id": "1734906028087721984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068007177386881134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shantianliang08 追母你的皮炎怎么这么松啊🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734906028087721984",
+        "conversation_id": "2068001232313319645",
+        "created_at": "2026-06-19T16:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068007177386881134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068007177386881134",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068006943193723146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 OK cuming cuming"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的 另一个我@CNM_2012 看成分会fo  喜欢有趣的人 黄推鉴证账号拒fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 44,
+          "like_count": 2839,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T12:00:15.000Z",
+        "description": "/无政治立场/喜欢日常📷/友🏳️‍🌈🏳️‍⚧️/E社玩家/少女乐队/\n请勿在我帖子下发表关于政治言论\n优先群体：大学生/职校生/08同龄人\n前身：山田凉official（@shantian1944）\nsteam好友代码：1527038776\n2008.9.19+互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "shantian1944"
+              }
+            ]
+          }
+        },
+        "id": "1734906028087721984",
+        "location": "hello pig god",
+        "name": "新汕田凉official（每年底淡推）",
+        "pinned_tweet_id": "2063678689397940505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063140065166168064/mBj5IakM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 210,
+          "like_count": 632,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "shantianliang08",
+        "verified": false
+      }
+    ]
+  }
+}

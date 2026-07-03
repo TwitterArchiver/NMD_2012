@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2067891580158218298",
+    "created_at": "2026-06-20T03:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T04:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068170348634550298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916506338345234432",
+          "start": 0,
+          "username": "xiangcaokmt8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068170348634550298",
+    "in_reply_to_user_id": "1916506338345234432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067891580158218298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcaokmt8964 可是我稀饭泥吖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2067891580158218298",
+        "created_at": "2026-06-20T03:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068170348634550298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916506338345234432",
+              "start": 0,
+              "username": "xiangcaokmt8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068170348634550298",
+        "in_reply_to_user_id": "1916506338345234432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067891580158218298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcaokmt8964 可是我稀饭泥吖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916506338345234432",
+        "conversation_id": "2067891580158218298",
+        "created_at": "2026-06-19T08:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067891580158218298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067891580158218298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要退网了集美们我最喜欢的互关全都退网消号和我双取互咔了我不知道这个互联网为什么要这样虐待我，我想说，heyaheyaheya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 另一个我@CNM_2012 看成分会fo  喜欢有趣的人 黄推鉴证账号拒fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 47,
+          "like_count": 2950,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T14:55:02.000Z",
+        "description": "前世@heya8964，k大妈孝黑子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "heya8964"
+              }
+            ]
+          }
+        },
+        "id": "1916506338345234432",
+        "location": "中南海",
+        "name": "弹烤馒头逼",
+        "pinned_tweet_id": "2057875990156877967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067992597994561536/of_g7bt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 164,
+          "like_count": 1756,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 917
+        },
+        "url": "",
+        "username": "xiangcaokmt8964",
+        "verified": false
+      }
+    ]
+  }
+}

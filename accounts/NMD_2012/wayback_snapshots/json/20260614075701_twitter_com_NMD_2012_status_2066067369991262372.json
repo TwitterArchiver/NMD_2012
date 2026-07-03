@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2065893847146914244",
+    "created_at": "2026-06-14T07:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066067369991262372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1866063848014508032",
+          "start": 0,
+          "username": "Sartre_and_Noah"
+        },
+        {
+          "end": 28,
+          "id": "2055751423338713088",
+          "start": 17,
+          "username": "NKFglb8649"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066067369991262372",
+    "in_reply_to_user_id": "1866063848014508032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066059990981587019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sartre_and_Noah @NKFglb8649 多不容易啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2065893847146914244",
+        "created_at": "2026-06-14T07:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066067369991262372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1866063848014508032",
+              "start": 0,
+              "username": "Sartre_and_Noah"
+            },
+            {
+              "end": 28,
+              "id": "2055751423338713088",
+              "start": 17,
+              "username": "NKFglb8649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066067369991262372",
+        "in_reply_to_user_id": "1866063848014508032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066059990981587019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sartre_and_Noah @NKFglb8649 多不容易啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866063848014508032",
+        "conversation_id": "2065893847146914244",
+        "created_at": "2026-06-14T07:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066059990981587019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            },
+            {
+              "end": 21,
+              "id": "2055751423338713088",
+              "start": 10,
+              "username": "NKFglb8649"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066059990981587019",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065954457175925098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 @NKFglb8649 新滴斗争开始了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 37,
+          "like_count": 2238,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 144
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T10:14:33.000Z",
+        "description": "丨很和蔼丨偶尔键政丨社科爱好者丨成分比较杂丨欢迎找我聊天🥰丨里推@ShuangNian80852",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "ShuangNian80852"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/saintandnoah",
+                "end": 23,
+                "expanded_url": "https://ngl.link/saintandnoah",
+                "start": 0,
+                "url": "https://t.co/SZR8EkSpki"
+              }
+            ]
+          }
+        },
+        "id": "1866063848014508032",
+        "name": "嗣凝",
+        "pinned_tweet_id": "1974461961946714376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973746240107249665/Zw8ykFZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 367,
+          "like_count": 19330,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 2747
+        },
+        "url": "https://t.co/SZR8EkSpki",
+        "username": "Sartre_and_Noah",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T20:46:22.000Z",
+        "description": "“自由永远是持不同意见者的自由”\n民主社·社民·自由意志社·卢森堡·存在主义·微安倾向\n｜新左·反威权｜友跨🏳️‍⚧️非跨｜极端左腊左🚫｜对粉蛆会变支黑｜宇宙无敌第一包蜜｜绿畜皇汉死妈｜图纸大王习近平万岁｜欢迎互fo\n大号@lanbannono8964被晶暂弃用中\n或许是男娘/水仙时@lalag6498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 111,
+                "username": "lanbannono8964"
+              },
+              {
+                "end": 152,
+                "start": 142,
+                "username": "lalag6498"
+              }
+            ]
+          }
+        },
+        "id": "2055751423338713088",
+        "location": "疯狂习近平宇宙",
+        "name": "内科弗露露二代目·澜（转世寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056534987353325568/SbwE7rZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 870,
+          "like_count": 4385,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 732
+        },
+        "username": "NKFglb8649",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065259538442244096"
+      ],
+      "media_source_tweet_id": [
+        "2065259601604276625"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2065678882662207950",
+    "created_at": "2026-06-13T06:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065678882662207950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1516975944484990977",
+          "start": 3,
+          "username": "SuisPasDaVinci"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RFjSSjY0Zo",
+          "end": 52,
+          "expanded_url": "https://x.com/SuisPasDaVinci/status/2065259601604276625/photo/1",
+          "media_key": "3_2065259538442244096",
+          "start": 29,
+          "url": "https://t.co/RFjSSjY0Zo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065678882662207950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065259601604276625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SuisPasDaVinci: 好有道理啊... https://t.co/RFjSSjY0Zo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065259538442244096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlGm6XWUAAu5kK.jpg",
+        "width": 1212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065259538442244096"
+          ],
+          "media_source_tweet_id": [
+            "2065259601604276625"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2065678882662207950",
+        "created_at": "2026-06-13T06:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065678882662207950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1516975944484990977",
+              "start": 3,
+              "username": "SuisPasDaVinci"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFjSSjY0Zo",
+              "end": 52,
+              "expanded_url": "https://x.com/SuisPasDaVinci/status/2065259601604276625/photo/1",
+              "media_key": "3_2065259538442244096",
+              "start": 29,
+              "url": "https://t.co/RFjSSjY0Zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065678882662207950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065259601604276625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SuisPasDaVinci: 好有道理啊... https://t.co/RFjSSjY0Zo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065259538442244096"
+          ]
+        },
+        "author_id": "1516975944484990977",
+        "conversation_id": "2065259601604276625",
+        "created_at": "2026-06-12T02:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065259601604276625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFjSSjY0Zo",
+              "end": 32,
+              "expanded_url": "https://x.com/SuisPasDaVinci/status/2065259601604276625/photo/1",
+              "media_key": "3_2065259538442244096",
+              "start": 9,
+              "url": "https://t.co/RFjSSjY0Zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065259601604276625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 110492,
+          "like_count": 1350,
+          "quote_count": 10,
+          "reply_count": 243,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "好有道理啊... https://t.co/RFjSSjY0Zo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 36,
+          "like_count": 1969,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 120
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T03:04:01.000Z",
+        "description": "加拿大🇨🇦10年老炮｜Stanley-Team成员 | TOP500公司程序员 | →下一站深圳做AI｜普通人逆袭千万之路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suispasdavinci.com",
+                "end": 23,
+                "expanded_url": "http://suispasdavinci.com",
+                "start": 0,
+                "url": "https://t.co/XaMLV016YS"
+              }
+            ]
+          }
+        },
+        "id": "1516975944484990977",
+        "location": "CANADIAN TIRED",
+        "name": "达芬七｜Seven",
+        "pinned_tweet_id": "2017777161340440688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022377311010471936/qiAJoIzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18796,
+          "following_count": 1441,
+          "like_count": 41785,
+          "listed_count": 71,
+          "media_count": 2842,
+          "tweet_count": 25444
+        },
+        "url": "https://t.co/XaMLV016YS",
+        "username": "SuisPasDaVinci",
+        "verified": true
+      }
+    ]
+  }
+}

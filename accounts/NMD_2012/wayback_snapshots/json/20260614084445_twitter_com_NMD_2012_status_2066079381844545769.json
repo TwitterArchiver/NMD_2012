@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2066079381844545769",
+    "created_at": "2026-06-14T08:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066079381844545769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1355900185235259396",
+          "start": 3,
+          "username": "AzumaSeren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066079381844545769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049761887328547116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @AzumaSeren: 東雪蓮、いかにも冬好きそうな名前だけど夏生まれで夏の方が好きらしい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2066079381844545769",
+        "created_at": "2026-06-14T08:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066079381844545769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1355900185235259396",
+              "start": 3,
+              "username": "AzumaSeren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066079381844545769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049761887328547116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @AzumaSeren: 東雪蓮、いかにも冬好きそうな名前だけど夏生まれで夏の方が好きらしい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1355900185235259396",
+        "conversation_id": "2049761887328547116",
+        "created_at": "2026-04-30T08:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049761887328547116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049761887328547116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 28214,
+          "like_count": 280,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "following",
+        "text": "東雪蓮、いかにも冬好きそうな名前だけど夏生まれで夏の方が好きらしい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 36,
+          "like_count": 2279,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 146
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T15:26:46.000Z",
+        "description": "°ʚ🍼ɞ°￤詩￤唄￤歌唱以外のお仕事は受け付けておりません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/azumaseren",
+                "end": 23,
+                "expanded_url": "https://lit.link/azumaseren",
+                "start": 0,
+                "url": "https://t.co/fKPzK4dlPm"
+              }
+            ]
+          }
+        },
+        "id": "1355900185235259396",
+        "name": "東 雪蓮",
+        "pinned_tweet_id": "2063576704044650770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922983367907090432/mLpJdD8G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53467,
+          "following_count": 207,
+          "like_count": 21200,
+          "listed_count": 125,
+          "media_count": 954,
+          "tweet_count": 8431
+        },
+        "url": "https://t.co/fKPzK4dlPm",
+        "username": "AzumaSeren",
+        "verified": false
+      }
+    ]
+  }
+}

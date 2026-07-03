@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2072692084612698434",
+    "created_at": "2026-07-02T14:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072695779131887804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055430038183632896",
+          "start": 0,
+          "username": "qlnber999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072695779131887804",
+    "in_reply_to_user_id": "2055430038183632896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072695214981185645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qlnber999 xswl我的推友没无论有钱没钱的怎么都在吃方便面（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072695188619980800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOxSt1a8AA7O0G.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2072692084612698434",
+        "created_at": "2026-07-02T14:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072695779131887804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055430038183632896",
+              "start": 0,
+              "username": "qlnber999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072695779131887804",
+        "in_reply_to_user_id": "2055430038183632896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072695214981185645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qlnber999 xswl我的推友没无论有钱没钱的怎么都在吃方便面（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072695188619980800"
+          ]
+        },
+        "author_id": "2055430038183632896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072692084612698434",
+        "created_at": "2026-07-02T14:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072695214981185645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cwvUQCpZ0k",
+              "end": 37,
+              "expanded_url": "https://x.com/qlnber999/status/2072695214981185645/photo/1",
+              "media_key": "3_2072695188619980800",
+              "start": 14,
+              "url": "https://t.co/cwvUQCpZ0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072695214981185645",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072692084612698434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 赔一份 https://t.co/cwvUQCpZ0k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的 都过来走江湖但谁能不受伤呢/是个低能量的人所以喜欢听歌和睡觉😴/个人主义/自由主义/接受所有成分/黄推不行/我会努力去爱每一个喜欢我的人/会看成分回fo/很喜欢有趣的人/鉴证账号退散/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 250,
+          "like_count": 6192,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 771
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T23:28:22.000Z",
+        "description": "",
+        "id": "2055430038183632896",
+        "name": "英格林派教宗琪露诺（）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055469929621778432/QE9w5G2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 55,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "qlnber999",
+        "verified": false
+      }
+    ]
+  }
+}

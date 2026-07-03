@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2064364287142101209",
+    "created_at": "2026-06-09T15:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064364287142101209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/artik_yorulduk…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/artik_yorulduk/status/2064143286009262530",
+          "start": 19,
+          "url": "https://t.co/eNxN4RRFDc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064364287142101209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064143286009262530",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这起号方式有点太简单暴力(私老冯)了 https://t.co/eNxN4RRFDc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2064364287142101209",
+        "created_at": "2026-06-09T15:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064364287142101209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/artik_yorulduk…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/artik_yorulduk/status/2064143286009262530",
+              "start": 19,
+              "url": "https://t.co/eNxN4RRFDc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064364287142101209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064143286009262530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这起号方式有点太简单暴力(私老冯)了 https://t.co/eNxN4RRFDc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617263736",
+        "conversation_id": "2064143286009262530",
+        "created_at": "2026-06-09T00:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064143286009262530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064143286009262530",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7928,
+          "like_count": 96,
+          "quote_count": 3,
+          "reply_count": 132,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Hesabınızın 10.000'den az takipçisi varsa, bir nokta bırakın ve gelen takipçileri görün. 💸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 36,
+          "like_count": 1891,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 114
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-24T09:05:05.000Z",
+        "description": "Reklam ve İş Birliği için Dm 📩",
+        "id": "1617263736",
+        "location": "Earth",
+        "name": "Lara",
+        "pinned_tweet_id": "1954102673722011871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932762873471578112/UPjn0I30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96706,
+          "following_count": 101257,
+          "like_count": 19335,
+          "listed_count": 15,
+          "media_count": 20,
+          "tweet_count": 70468
+        },
+        "username": "artik_yorulduk",
+        "verified": true
+      }
+    ]
+  }
+}

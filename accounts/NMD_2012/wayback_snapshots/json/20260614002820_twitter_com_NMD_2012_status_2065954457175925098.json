@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065954445608038400"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2065893847146914244",
+    "created_at": "2026-06-14T00:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T01:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065954457175925098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055751423338713088",
+          "start": 0,
+          "username": "NKFglb8649"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zc5H2ao23b",
+          "end": 44,
+          "expanded_url": "https://x.com/NMD_2012/status/2065954457175925098/photo/1",
+          "media_key": "3_2065954445608038400",
+          "start": 21,
+          "url": "https://t.co/Zc5H2ao23b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065954457175925098",
+    "in_reply_to_user_id": "2055751423338713088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065893847146914244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NKFglb8649 不，斗争还没结束 https://t.co/Zc5H2ao23b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065954445608038400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKu-n1SbMAA16qz.jpg",
+        "width": 961
+      },
+      {
+        "height": 425,
+        "media_key": "3_2065893839471247360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuHgF1aAAAKve7.jpg",
+        "width": 587
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065954445608038400"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2065893847146914244",
+        "created_at": "2026-06-14T00:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065954457175925098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055751423338713088",
+              "start": 0,
+              "username": "NKFglb8649"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zc5H2ao23b",
+              "end": 44,
+              "expanded_url": "https://x.com/NMD_2012/status/2065954457175925098/photo/1",
+              "media_key": "3_2065954445608038400",
+              "start": 21,
+              "url": "https://t.co/Zc5H2ao23b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065954457175925098",
+        "in_reply_to_user_id": "2055751423338713088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065893847146914244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NKFglb8649 不，斗争还没结束 https://t.co/Zc5H2ao23b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065893839471247360"
+          ]
+        },
+        "author_id": "2055751423338713088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065893847146914244",
+        "created_at": "2026-06-13T20:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065893847146914244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/du9GTITkGk",
+              "end": 50,
+              "expanded_url": "https://x.com/NKFglb8649/status/2065893847146914244/photo/1",
+              "media_key": "3_2065893839471247360",
+              "start": 27,
+              "url": "https://t.co/du9GTITkGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065893847146914244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "轰轰烈烈的繁茂大战争结束了，繁茂贼们取得了最终的胜利 https://t.co/du9GTITkGk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 37,
+          "like_count": 2180,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 138
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T20:46:22.000Z",
+        "description": "“自由永远是持不同意见者的自由”\n民主社·社民·自由意志社·卢森堡·存在主义·微安倾向\n｜新左·反威权｜友跨🏳️‍⚧️非跨｜极端左腊左🚫｜对粉蛆会变支黑｜宇宙无敌第一包蜜｜绿畜皇汉死妈｜图纸大王习近平万岁｜欢迎互fo\n大号@lanbannono8964被晶暂弃用中\n或许是男娘/水仙时@lalag6498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 111,
+                "username": "lanbannono8964"
+              },
+              {
+                "end": 152,
+                "start": 142,
+                "username": "lalag6498"
+              }
+            ]
+          }
+        },
+        "id": "2055751423338713088",
+        "location": "疯狂习近平宇宙",
+        "name": "内科弗露露二代目·澜（转世寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056534987353325568/SbwE7rZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 867,
+          "like_count": 4357,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 726
+        },
+        "username": "NKFglb8649",
+        "verified": false
+      }
+    ]
+  }
+}

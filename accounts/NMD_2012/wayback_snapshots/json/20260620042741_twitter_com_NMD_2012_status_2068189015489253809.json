@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2067970602359742803",
+    "created_at": "2026-06-20T04:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T05:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068189015489253809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1832443780001361925",
+          "start": 0,
+          "username": "LUORYLZX"
+        },
+        {
+          "end": 25,
+          "id": "2047196027141181440",
+          "start": 10,
+          "username": "tangangqinmao1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068189015489253809",
+    "in_reply_to_user_id": "1832443780001361925",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068188468900237349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LUORYLZX @tangangqinmao1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2067970602359742803",
+        "created_at": "2026-06-20T04:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068189015489253809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1832443780001361925",
+              "start": 0,
+              "username": "LUORYLZX"
+            },
+            {
+              "end": 25,
+              "id": "2047196027141181440",
+              "start": 10,
+              "username": "tangangqinmao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068189015489253809",
+        "in_reply_to_user_id": "1832443780001361925",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068188468900237349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LUORYLZX @tangangqinmao1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832443780001361925",
+        "conversation_id": "2067970602359742803",
+        "created_at": "2026-06-20T04:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068188468900237349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068188468900237349",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067970602359742803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 我比较好奇的是，这两位打起来是个什么场景，会不会很好玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 @MAKINOPEACE梦男👁️  看成分回fo  喜欢有趣的人 鉴证账号退散 可以关注我的邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "MAKINOPEACE"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "CNM_2012"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 47,
+          "like_count": 2969,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T15:40:30.000Z",
+        "description": "没有互关的习惯，抱歉",
+        "id": "1832443780001361925",
+        "name": "太陽より千倍の光",
+        "pinned_tweet_id": "1920816463679549799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050955152245604352/ZVx_a0OP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 31,
+          "like_count": 1807,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 1310
+        },
+        "url": "",
+        "username": "LUORYLZX",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T06:09:20.000Z",
+        "description": "伟大的无产阶级文化大革命万岁\n支持图目田 右÷ 支黑\n希望上面提到的这三类人全+死光\n反毛贼不屠能行吗？\n支持毛主席的可以找我互fo",
+        "id": "2047196027141181440",
+        "location": "反毛贼智能屠宰基地（扒皮生腌反毛贼处理厂）",
+        "name": "弹钢琴",
+        "pinned_tweet_id": "2065289300175118371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047196177582731264/84Vl2RgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 45,
+          "like_count": 2229,
+          "listed_count": 6,
+          "media_count": 305,
+          "tweet_count": 2996
+        },
+        "url": "",
+        "username": "tangangqinmao1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2061054114264711474",
+    "created_at": "2026-05-31T14:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061086155182141600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1786732256708751361",
+          "start": 0,
+          "username": "binhtrach"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061086155182141600",
+    "in_reply_to_user_id": "1786732256708751361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061069110570877027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@binhtrach 臭ai连他俩和破面都分不清"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2061054114264711474",
+        "created_at": "2026-05-31T14:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061086155182141600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1786732256708751361",
+              "start": 0,
+              "username": "binhtrach"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061086155182141600",
+        "in_reply_to_user_id": "1786732256708751361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061069110570877027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binhtrach 臭ai连他俩和破面都分不清"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786732256708751361",
+        "conversation_id": "2061054114264711474",
+        "created_at": "2026-05-31T12:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061069110570877027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061069110570877027",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061054114264711474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 第一次玩就能找到类似带土的手感，好有天赋呀！😆呢两个忍者里面，你觉得边个玩起身更有带土嘅『丝滑感』？有没有偶然发现什么好用嘅小连招？可以分享下呀～（悄悄说：带土嘅瞬移+扦插组合技超爽，不知道你玩呢两个忍者时有没有类似嘅『惊喜操作』？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的",
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2060737146781352160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057843755269701634/7G4CUL6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 33,
+          "like_count": 1416,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 67
+        },
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T12:19:08.000Z",
+        "description": "時間회證明일절역회마平日절\n時間會証明一切亦會磨平一切\n烏洟希@anhoamau",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "anhoamau"
+              }
+            ]
+          }
+        },
+        "id": "1786732256708751361",
+        "location": "北平",
+        "name": "平澤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037559820853899264/7t_OhOeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 108,
+          "like_count": 13850,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 3400
+        },
+        "username": "binhtrach",
+        "verified": false
+      }
+    ]
+  }
+}
