@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-03T09:52:43",
+  "last_updated": "2026-07-03T09:53:15",
   "html": {
     "https://web.archive.org/web/20260528152950if_/https://twitter.com/NMD_2012/status/2060020731073978512": {
       "status": "done",
@@ -5370,27 +5370,27 @@
       "referenced_by": [
         "20260613050902_twitter_com_NMD_2012_status_2065662710088675834.json"
       ],
-      "last_updated": "2026-07-03T09:31:46",
+      "last_updated": "2026-07-03T09:53:01",
       "last_reason": "HTTPError: 403 Client Error: Forbidden for url: https://web.archive.org/web/20260618015200/https://video.twimg.com/amplify_video/2065477574894268416/vid/avc1/720x1280/GUX77WBv328_4zwe.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HLYhjXda0AAJ30H.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260622100255_twitter_com_NMD_2012_status_2068998158718546213.json"
       ],
-      "last_updated": "2026-07-03T09:31:45",
+      "last_updated": "2026-07-03T09:53:03",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260622100255/https://video.twimg.com/tweet_video/HLYhjXda0AAJ30H.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HLWKvXOaAAA5L5m.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260622101946_twitter_com_NMD_2012_status_2069002395959566385.json"
       ],
-      "last_updated": "2026-07-03T09:31:45",
+      "last_updated": "2026-07-03T09:53:06",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260622101946/https://video.twimg.com/tweet_video/HLWKvXOaAAA5L5m.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2068286048313200640/vid/avc1/2560x1440/XgHPE2DdIPkK9cEv.mp4": {
       "status": "done",
@@ -5411,18 +5411,18 @@
       "referenced_by": [
         "20260625053744_twitter_com_NMD_2012_status_2070018584273911832.json"
       ],
-      "last_updated": "2026-07-03T09:31:46",
+      "last_updated": "2026-07-03T09:53:08",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260625053744/https://video.twimg.com/amplify_video/2070011990794272769/vid/avc1/1280x692/nOPWm8wKxSELLssr.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2070096724748832769/pu/vid/avc1/720x1280/78eg-65EP_jFmGLw.mp4?tag=12": {
       "status": "failed_all",
       "referenced_by": [
         "20260625125917_twitter_com_NMD_2012_status_2070129705102319812.json"
       ],
-      "last_updated": "2026-07-03T09:31:46",
+      "last_updated": "2026-07-03T09:53:10",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260625125917/https://video.twimg.com/ext_tw_video/2070096724748832769/pu/vid/avc1/720x1280/78eg-65EP_jFmGLw.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HLpetMGaQAA62l8.mp4": {
       "status": "done",
@@ -5432,13 +5432,13 @@
       "last_updated": "2026-07-03T09:31:39"
     },
     "https://video.twimg.com/ext_tw_video/2070325969827901440/pu/vid/avc1/720x720/8PI4D5QHE9q1DR0N.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260626020916_twitter_com_NMD_2012_status_2070328509403406771.json"
       ],
-      "last_updated": "2026-07-03T09:43:22",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260626020916/https://video.twimg.com/ext_tw_video/2070325969827901440/pu/vid/avc1/720x720/8PI4D5QHE9q1DR0N.mp4?tag=12",
-      "miss_count": 2
+      "last_updated": "2026-07-03T09:53:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260626020916if_/https://video.twimg.com/ext_tw_video/2070325969827901440/pu/vid/avc1/720x720/8PI4D5QHE9q1DR0N.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3990864a10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2070347357099810816/pu/vid/avc1/720x1028/OgB31Pttmu9NOSOR.mp4?tag=12": {
       "status": "done",
@@ -13538,7 +13538,7 @@
       "last_updated": "2026-07-03T09:32:13"
     },
     "20260626020916_twitter_com_NMD_2012_status_2070328509403406771.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -13548,7 +13548,7 @@
           "https://pbs.twimg.com/profile_images/2069347776820056064/up6YKXtK_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-03T09:43:22",
+      "last_updated": "2026-07-03T09:53:15",
       "miss_count": 1
     },
     "20260626025436_twitter_com_NMD_2012_status_2070339920317833592.json": {
