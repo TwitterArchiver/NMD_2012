@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073068451456049152"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2073071593522401769",
+    "created_at": "2026-07-03T15:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073071593522401769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JRzWyrjalt",
+          "end": 165,
+          "expanded_url": "https://x.com/NMD_2012/status/2073071593522401769/photo/1",
+          "media_key": "3_2073068451456049152",
+          "start": 142,
+          "url": "https://t.co/JRzWyrjalt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073071593522401769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "如果你说的“具体的身体”指的是那个人本身的话我认为是前者，我认为被我们怀念的那个人是无可替代的，就比如那三位推友退推已经是前阵子的事了，可是我现在还能记得他们，说实话他们和我的关系并不是那么的好，可我还是希望他们能够回来，因为他们就是他们，是不可替代的，我们对待某个人的情感无法转移到他人身上，就像人和人之间各有差异，我们对不同人的情感也会有所不同"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你说的“具体的身体”指的是那个人本身的话我认为是前者，我认为被我们怀念的那个人是无可替代的，就比如那三位推友退推已经是前阵子的事了，可是我现在还能记得他们，说实话他们和我的关系并不是那么的好，可我还是希望他们能够回来，因为他们就是他们，是不可替代的，我们对待某个人的情感无法转移 https://t.co/JRzWyrjalt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073068451456049152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUExeQbYAARbWl.jpg",
+        "width": 837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073068451456049152"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2073071593522401769",
+        "created_at": "2026-07-03T15:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073071593522401769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRzWyrjalt",
+              "end": 165,
+              "expanded_url": "https://x.com/NMD_2012/status/2073071593522401769/photo/1",
+              "media_key": "3_2073068451456049152",
+              "start": 142,
+              "url": "https://t.co/JRzWyrjalt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073071593522401769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果你说的“具体的身体”指的是那个人本身的话我认为是前者，我认为被我们怀念的那个人是无可替代的，就比如那三位推友退推已经是前阵子的事了，可是我现在还能记得他们，说实话他们和我的关系并不是那么的好，可我还是希望他们能够回来，因为他们就是他们，是不可替代的，我们对待某个人的情感无法转移到他人身上，就像人和人之间各有差异，我们对不同人的情感也会有所不同"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你说的“具体的身体”指的是那个人本身的话我认为是前者，我认为被我们怀念的那个人是无可替代的，就比如那三位推友退推已经是前阵子的事了，可是我现在还能记得他们，说实话他们和我的关系并不是那么的好，可我还是希望他们能够回来，因为他们就是他们，是不可替代的，我们对待某个人的情感无法转移 https://t.co/JRzWyrjalt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 都过来走江湖但谁能不受伤呢/是个低能量的人所以喜欢听歌和睡觉😴/个人主义/自由主义/接受所有成分/黄推不行/我会努力去爱每一个喜欢我的人/会看成分回fo/很喜欢有趣的人/鉴证账号退散/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 264,
+          "like_count": 6363,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 826
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      }
+    ]
+  }
+}

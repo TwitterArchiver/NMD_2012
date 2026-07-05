@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2072726733779091835",
+    "created_at": "2026-07-02T23:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T00:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072820970499535250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2052769214126067722",
+          "start": 0,
+          "username": "asuka_shinji_67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072820970499535250",
+    "in_reply_to_user_id": "2052769214126067722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072758324379177034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asuka_shinji_67 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2072726733779091835",
+        "created_at": "2026-07-02T23:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T00:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072820970499535250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2052769214126067722",
+              "start": 0,
+              "username": "asuka_shinji_67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072820970499535250",
+        "in_reply_to_user_id": "2052769214126067722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072758324379177034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asuka_shinji_67 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052769214126067722",
+        "conversation_id": "2072726733779091835",
+        "created_at": "2026-07-02T19:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072758324379177034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072758324379177034",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072726733779091835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 我发的🤓🖕🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的 都过来走江湖但谁能不受伤呢/是个低能量的人所以喜欢听歌和睡觉😴/个人主义/自由主义/接受所有成分/黄推不行/我会努力去爱每一个喜欢我的人/会看成分回fo/很喜欢有趣的人/鉴证账号退散/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 250,
+          "like_count": 6258,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-08T15:15:15.000Z",
+        "description": "Preparing for IELTS",
+        "id": "2052769214126067722",
+        "location": "Osaka ",
+        "name": "安和昴爱pc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065072581473136640/t7G2JVwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 21,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "asuka_shinji_67",
+        "verified": false
+      }
+    ]
+  }
+}
