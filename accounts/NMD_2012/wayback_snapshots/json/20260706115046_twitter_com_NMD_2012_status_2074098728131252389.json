@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074098664860184576"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2074098728131252389",
+    "created_at": "2026-07-06T11:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074098728131252389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NWgHjVOBxA",
+          "end": 32,
+          "expanded_url": "https://x.com/NMD_2012/status/2074098728131252389/video/1",
+          "media_key": "7_2074098664860184576",
+          "start": 9,
+          "url": "https://t.co/NWgHjVOBxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074098728131252389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "平时就爱看点这个 https://t.co/NWgHjVOBxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44789,
+        "height": 720,
+        "media_key": "7_2074098664860184576",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074098664860184576/pu/img/mG7QeVLObCc2JHcM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074098664860184576/pu/vid/avc1/360x270/1kJZANZoij3VxTxH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074098664860184576/pu/vid/avc1/480x360/j2OLI--QPbya4QqK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074098664860184576/pu/vid/avc1/960x720/M9F8QvK39TMVZErj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074098664860184576/pu/pl/pIeKXk87eAVfjPAy.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074098664860184576"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2074098728131252389",
+        "created_at": "2026-07-06T11:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074098728131252389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWgHjVOBxA",
+              "end": 32,
+              "expanded_url": "https://x.com/NMD_2012/status/2074098728131252389/video/1",
+              "media_key": "7_2074098664860184576",
+              "start": 9,
+              "url": "https://t.co/NWgHjVOBxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074098728131252389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "平时就爱看点这个 https://t.co/NWgHjVOBxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我喜欢装深沉但可能不是装的 都过来走江湖但谁能不受伤呢/是个低能量的人所以喜欢听歌和睡觉😴/个人主义/自由主义/接受所有成分/黄推不行/我会努力去爱每一个喜欢我的人/会看成分回fo/很喜欢有趣的人/鉴证账号退散/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 278,
+          "like_count": 6642,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      }
+    ]
+  }
+}
