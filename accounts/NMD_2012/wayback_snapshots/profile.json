@@ -3,17 +3,18 @@
   "username": "@NMD_2012",
   "bio": "我喜欢装深沉但可能不是装的 都过来走江湖但谁能不受伤呢/是个低能量的人所以喜欢听歌和睡觉😴/个人主义/自由主义/接受所有成分/黄推不行/我会努力去爱每一个喜欢我的人/会看成分回fo/很喜欢有趣的人/鉴证账号退散/邪恶人格@CNM_2012",
   "location": "地獄",
-  "link": "ngl.link/sxc2581",
+  "link": "https://ngl.link/sxc2581",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2068199634393252179",
   "bio_entities": {
     "mentions": [
       {
-        "end": 27,
-        "start": 18,
+        "end": 119,
+        "start": 110,
         "username": "CNM_2012"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg"
 }
