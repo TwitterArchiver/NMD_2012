@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076612333015887872"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2076612336149037254",
+    "created_at": "2026-07-13T10:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076612336149037254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ziEKHM7N9d",
+          "end": 52,
+          "expanded_url": "https://x.com/NMD_2012/status/2076612336149037254/photo/1",
+          "media_key": "3_2076612333015887872",
+          "start": 29,
+          "url": "https://t.co/ziEKHM7N9d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076612336149037254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没被第一志愿录取，不是因为考不上，是因为我报了个第二志愿 https://t.co/ziEKHM7N9d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1107,
+        "media_key": "3_2076612333015887872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGb6h2bcAAKV59.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076612333015887872"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2076612336149037254",
+        "created_at": "2026-07-13T10:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076612336149037254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ziEKHM7N9d",
+              "end": 52,
+              "expanded_url": "https://x.com/NMD_2012/status/2076612336149037254/photo/1",
+              "media_key": "3_2076612333015887872",
+              "start": 29,
+              "url": "https://t.co/ziEKHM7N9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076612336149037254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没被第一志愿录取，不是因为考不上，是因为我报了个第二志愿 https://t.co/ziEKHM7N9d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量的人/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1s6r2"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 302,
+          "like_count": 7174,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 952
+        },
+        "url": "https://t.co/jp6nx1s6r2",
+        "username": "NMD_2012",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2088656994236538958",
+    "created_at": "2026-08-15T16:00:07.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088656994236538958"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Higher Brothers, Harikiri · Type-3 - EP · Song · 2018",
+          "display_url": "open.spotify.com/track/1gKT3iR8…",
+          "end": 23,
+          "expanded_url": "https://open.spotify.com/track/1gKT3iR8OEk4HLahU2aLXX?si=GNd7Q9jLTWWxHqFLVK5vbg&utm_source=twitter&sci=spotify%3Acard-config%3A1abq51rdlJ28xlGMWXuxYf",
+          "start": 0,
+          "status": 200,
+          "title": "Storm",
+          "unwound_url": "https://open.spotify.com/track/1gKT3iR8OEk4HLahU2aLXX?si=GNd7Q9jLTWWxHqFLVK5vbg&utm_source=twitter&sci=spotify%3Acard-config%3A1abq51rdlJ28xlGMWXuxYf",
+          "url": "https://t.co/p2iK4HBh1l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088656994236538958",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/p2iK4HBh1l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2088656994236538958",
+        "created_at": "2026-08-15T16:00:07.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088656994236538958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Higher Brothers, Harikiri · Type-3 - EP · Song · 2018",
+              "display_url": "open.spotify.com/track/1gKT3iR8…",
+              "end": 23,
+              "expanded_url": "https://open.spotify.com/track/1gKT3iR8OEk4HLahU2aLXX?si=GNd7Q9jLTWWxHqFLVK5vbg&utm_source=twitter&sci=spotify%3Acard-config%3A1abq51rdlJ28xlGMWXuxYf",
+              "start": 0,
+              "status": 200,
+              "title": "Storm",
+              "unwound_url": "https://open.spotify.com/track/1gKT3iR8OEk4HLahU2aLXX?si=GNd7Q9jLTWWxHqFLVK5vbg&utm_source=twitter&sci=spotify%3Acard-config%3A1abq51rdlJ28xlGMWXuxYf",
+              "url": "https://t.co/p2iK4HBh1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088656994236538958",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/p2iK4HBh1l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfuLbs"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2088656994236538958",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 350,
+          "like_count": 8919,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1268
+        },
+        "url": "https://t.co/wk9cNfuLbs",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

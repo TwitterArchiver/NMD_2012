@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2076135304319385636",
+    "created_at": "2026-07-13T12:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076641046977786363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1512456859776851972",
+          "start": 0,
+          "username": "wanliyan3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076641046977786363",
+    "in_reply_to_user_id": "1512456859776851972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076135304319385636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanliyan3 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2076135304319385636",
+        "created_at": "2026-07-13T12:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076641046977786363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1512456859776851972",
+              "start": 0,
+              "username": "wanliyan3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076641046977786363",
+        "in_reply_to_user_id": "1512456859776851972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076135304319385636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanliyan3 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512456859776851972",
+        "conversation_id": "2076135304319385636",
+        "created_at": "2026-07-12T02:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076135304319385636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076135304319385636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "預告：第二波清人計劃即將開始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量的人/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1s6r2"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 305,
+          "like_count": 7221,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/jp6nx1s6r2",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-08T15:48:30.000Z",
+        "description": "高雄",
+        "id": "1512456859776851972",
+        "location": "台灣",
+        "name": "拿鐵🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076147002933682176/1bne3Qfm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 250,
+          "like_count": 780,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 628
+        },
+        "url": "",
+        "username": "wanliyan3",
+        "verified": false
+      }
+    ]
+  }
+}

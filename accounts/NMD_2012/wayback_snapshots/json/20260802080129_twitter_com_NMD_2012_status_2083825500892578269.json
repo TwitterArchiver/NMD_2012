@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083825457670266880"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2083825500892578269",
+    "created_at": "2026-08-02T08:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083825500892578269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lDxh7rWwCy",
+          "end": 28,
+          "expanded_url": "https://x.com/NMD_2012/status/2083825500892578269/photo/1",
+          "media_key": "3_2083825457670266880",
+          "start": 5,
+          "url": "https://t.co/lDxh7rWwCy"
+        },
+        {
+          "display_url": "x.com/mzn773/status/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/mzn773/status/2083122637782610123",
+          "start": 29,
+          "url": "https://t.co/lpyY3lgDVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083825500892578269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083122637782610123",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不活了 https://t.co/lDxh7rWwCy https://t.co/lpyY3lgDVF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1924,
+        "media_key": "3_2083825457670266880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs8NpJaIAAdf_c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083825457670266880"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2083825500892578269",
+        "created_at": "2026-08-02T08:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083825500892578269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lDxh7rWwCy",
+              "end": 28,
+              "expanded_url": "https://x.com/NMD_2012/status/2083825500892578269/photo/1",
+              "media_key": "3_2083825457670266880",
+              "start": 5,
+              "url": "https://t.co/lDxh7rWwCy"
+            },
+            {
+              "display_url": "x.com/mzn773/status/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/mzn773/status/2083122637782610123",
+              "start": 29,
+              "url": "https://t.co/lpyY3lgDVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083825500892578269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083122637782610123",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不活了 https://t.co/lDxh7rWwCy https://t.co/lpyY3lgDVF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4346734399",
+        "conversation_id": "2083122637782610123",
+        "created_at": "2026-07-31T09:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083122637782610123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083122637782610123",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10644,
+          "impression_count": 14792611,
+          "like_count": 50488,
+          "quote_count": 1106,
+          "reply_count": 796,
+          "retweet_count": 8876
+        },
+        "reply_settings": "everyone",
+        "text": "( ˃ᯅ˂ )\n(っค้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้้c )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@kaede_shigeru/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "kaede_shigeru"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083794829868433408/Z_bwTbOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 337,
+          "like_count": 8473,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1162
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-24T16:28:09.000Z",
+        "description": "猫を養うフリー声優！#ぬきたし 礼 #ドットアビス シェリル #スイメド #おっぱいスパイ学園 他🎤商業同人スタ録宅録OK🗿お問合せ https://t.co/StGLLM8U1S 夏季宅録キャンペーン中（1文字5円～）です🌞リプ気まぐれ！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 10,
+                "tag": "ぬきたし"
+              },
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "ドットアビス"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "スイメド"
+              },
+              {
+                "end": 47,
+                "start": 37,
+                "tag": "おっぱいスパイ学園"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mzn773.wixsite.com/mzn773",
+                "end": 90,
+                "expanded_url": "http://mzn773.wixsite.com/mzn773",
+                "start": 67,
+                "url": "https://t.co/StGLLM8U1S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/mzn773",
+                "end": 23,
+                "expanded_url": "https://potofu.me/mzn773",
+                "start": 0,
+                "url": "https://t.co/2a0bVpk0VG"
+              }
+            ]
+          }
+        },
+        "id": "4346734399",
+        "location": "フリーランス／インボイス応相談／生成AI学習❌",
+        "name": "水野七海🐈@声のお仕事受付ちゅ！",
+        "pinned_tweet_id": "2040425256759050400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973406457522692101/E5snaxrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35650,
+          "following_count": 2220,
+          "like_count": 245559,
+          "listed_count": 283,
+          "media_count": 6883,
+          "tweet_count": 45373
+        },
+        "url": "https://t.co/2a0bVpk0VG",
+        "username": "mzn773",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2086398898265022685",
+    "created_at": "2026-08-09T10:27:15.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T11:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086398898265022685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "性价值观测试 – 你的性极性是什么？",
+          "display_url": "idrlabs.com/cn/sex-values/…",
+          "end": 38,
+          "expanded_url": "http://idrlabs.com/cn/sex-values/test.php",
+          "images": [
+            {
+              "height": 252,
+              "url": "https://pbs.twimg.com/news_img/2079966087912083456/N3m9_tEm?format=png&name=orig",
+              "width": 252
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2079966087912083456/N3m9_tEm?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 15,
+          "status": 200,
+          "title": "性价值观测试",
+          "unwound_url": "https://www.idrlabs.com/cn/sex-values/test.php",
+          "url": "https://t.co/Ggca3z9vzT"
+        },
+        {
+          "display_url": "x.com/FFCP_0002/stat…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/FFCP_0002/status/2086366922028040401",
+          "start": 39,
+          "url": "https://t.co/etTezeY9ua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086398898265022685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086366922028040401",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "性价值观测试：我的性价值观分数https://t.co/Ggca3z9vzT https://t.co/etTezeY9ua"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2086398898265022685",
+        "created_at": "2026-08-09T10:27:15.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086398898265022685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "性价值观测试 – 你的性极性是什么？",
+              "display_url": "idrlabs.com/cn/sex-values/…",
+              "end": 38,
+              "expanded_url": "http://idrlabs.com/cn/sex-values/test.php",
+              "images": [
+                {
+                  "height": 252,
+                  "url": "https://pbs.twimg.com/news_img/2079966087912083456/N3m9_tEm?format=png&name=orig",
+                  "width": 252
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079966087912083456/N3m9_tEm?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "性价值观测试",
+              "unwound_url": "https://www.idrlabs.com/cn/sex-values/test.php",
+              "url": "https://t.co/Ggca3z9vzT"
+            },
+            {
+              "display_url": "x.com/FFCP_0002/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/FFCP_0002/status/2086366922028040401",
+              "start": 39,
+              "url": "https://t.co/etTezeY9ua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086398898265022685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086366922028040401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性价值观测试：我的性价值观分数https://t.co/Ggca3z9vzT https://t.co/etTezeY9ua"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076882341159677952",
+        "card_uri": "https://t.co/xvwoonxAcq",
+        "conversation_id": "2086366922028040401",
+        "created_at": "2026-08-09T08:20:11.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086366922028040401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "性价值观测试",
+              "display_url": "idrlabs.com/cn/sex-values/…",
+              "end": 39,
+              "expanded_url": "https://www.idrlabs.com/cn/sex-values/78.57-84.38-0-65.63-56.25/result.php",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2086366965002891265/Xw_S-3Ty?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086366965002891265/Xw_S-3Ty?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "性价值观测试：我的性价值观分数",
+              "unwound_url": "https://www.idrlabs.com/cn/sex-values/78.57-84.38-0-65.63-56.25/result.php",
+              "url": "https://t.co/xvwoonxAcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086366922028040401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性价值观测试：我的性价值观分数 https://t.co/xvwoonxAcq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfuLbs"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2086398898265022685",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083794829868433408/Z_bwTbOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 346,
+          "like_count": 8601,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/wk9cNfuLbs",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T04:12:50.000Z",
+        "description": "温和左臂/反稻反包/左臂压抑之巅/面对反毛哈耶克粉红我可能会成支黑版弹钢琴/繁茂贼不图能行嘛/ #支云TV /主人@CNM_1958",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "支云TV"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffcp1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffcp1",
+                "start": 0,
+                "url": "https://t.co/BdiA1vBHHx"
+              }
+            ]
+          }
+        },
+        "id": "2076882341159677952",
+        "is_identity_verified": false,
+        "location": "天安门",
+        "most_recent_tweet_id": "2086395890781311109",
+        "name": "社会主义薯条🍟☭ 井中势力",
+        "pinned_tweet_id": "2083839171127644251",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076882341159677952/1786133579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080075466103508992/k2GYTb_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 852,
+          "like_count": 3655,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/BdiA1vBHHx",
+        "username": "FFCP_0002",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

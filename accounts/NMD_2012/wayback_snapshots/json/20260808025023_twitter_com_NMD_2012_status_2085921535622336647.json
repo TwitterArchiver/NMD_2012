@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085326683788439552"
+      ],
+      "media_source_tweet_id": [
+        "2085326740172447988"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2085921535622336647",
+    "created_at": "2026-08-08T02:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T03:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085921535622336647"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 21,
+          "tag": "bandoriart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1140879979397304320",
+          "start": 3,
+          "username": "Origami42169025"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/APWvUQhmD7",
+          "end": 58,
+          "expanded_url": "https://x.com/Origami42169025/status/2085326740172447988/photo/1",
+          "media_key": "3_2085326683788439552",
+          "start": 35,
+          "url": "https://t.co/APWvUQhmD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085921535622336647",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1133
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085326740172447988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Origami42169025: #bandoriart 🥰 https://t.co/APWvUQhmD7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2085326683788439552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCRkgPacAA43Mo.jpg",
+        "width": 2597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085326683788439552"
+          ]
+        },
+        "author_id": "1140879979397304320",
+        "conversation_id": "2085326740172447988",
+        "created_at": "2026-08-06T11:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085326740172447988"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "bandoriart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/APWvUQhmD7",
+              "end": 37,
+              "expanded_url": "https://x.com/Origami42169025/status/2085326740172447988/photo/1",
+              "media_key": "3_2085326683788439552",
+              "start": 14,
+              "url": "https://t.co/APWvUQhmD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085326740172447988",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 594,
+          "impression_count": 62913,
+          "like_count": 6928,
+          "quote_count": 19,
+          "reply_count": 5,
+          "retweet_count": 1133
+        },
+        "reply_settings": "everyone",
+        "text": "#bandoriart 🥰 https://t.co/APWvUQhmD7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085326683788439552"
+          ],
+          "media_source_tweet_id": [
+            "2085326740172447988"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2085921535622336647",
+        "created_at": "2026-08-08T02:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T03:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085921535622336647"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 21,
+              "tag": "bandoriart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1140879979397304320",
+              "start": 3,
+              "username": "Origami42169025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/APWvUQhmD7",
+              "end": 58,
+              "expanded_url": "https://x.com/Origami42169025/status/2085326740172447988/photo/1",
+              "media_key": "3_2085326683788439552",
+              "start": 35,
+              "url": "https://t.co/APWvUQhmD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085921535622336647",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1133
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085326740172447988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Origami42169025: #bandoriart 🥰 https://t.co/APWvUQhmD7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfuLbs"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083794829868433408/Z_bwTbOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 341,
+          "like_count": 8534,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/wk9cNfuLbs",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-18T07:12:38.000Z",
+        "description": "HI！\nhttps://t.co/jmRikmdeyD\nhttps://t.co/k68K37W3Wh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/13638269",
+                "end": 27,
+                "expanded_url": "http://pixiv.net/users/13638269",
+                "start": 4,
+                "url": "https://t.co/jmRikmdeyD"
+              },
+              {
+                "display_url": "space.bilibili.com/2433445",
+                "end": 51,
+                "expanded_url": "http://space.bilibili.com/2433445",
+                "start": 28,
+                "url": "https://t.co/k68K37W3Wh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/5668995714",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/5668995714",
+                "start": 0,
+                "url": "https://t.co/WqnhGSXZ4S"
+              }
+            ]
+          }
+        },
+        "id": "1140879979397304320",
+        "name": "oriGami_🥺",
+        "pinned_tweet_id": "2032517474231693413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966707290956066819/xOUGsN4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3218,
+          "following_count": 333,
+          "like_count": 480,
+          "listed_count": 36,
+          "media_count": 41,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/WqnhGSXZ4S",
+        "username": "Origami42169025",
+        "verified": false
+      }
+    ]
+  }
+}

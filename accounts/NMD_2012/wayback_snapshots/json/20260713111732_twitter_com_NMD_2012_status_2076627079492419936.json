@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2076318477640749176",
+    "created_at": "2026-07-13T11:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076627079492419936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709866094520098816",
+          "start": 0,
+          "username": "fwi109698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076627079492419936",
+    "in_reply_to_user_id": "1709866094520098816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076609006521692179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fwi109698 知道了凑白毛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2076318477640749176",
+        "created_at": "2026-07-13T11:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076627079492419936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709866094520098816",
+              "start": 0,
+              "username": "fwi109698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076627079492419936",
+        "in_reply_to_user_id": "1709866094520098816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076609006521692179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fwi109698 知道了凑白毛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709866094520098816",
+        "conversation_id": "2076318477640749176",
+        "created_at": "2026-07-13T10:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076609006521692179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076609006521692179",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076318477640749176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 这不是白毛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量的人/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1s6r2"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 302,
+          "like_count": 7189,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/jp6nx1s6r2",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-05T09:40:33.000Z",
+        "description": "我是一条杂鱼杂鱼杂鱼……",
+        "id": "1709866094520098816",
+        "location": "中国 广东",
+        "name": "雑魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075769021782470656/x7Hc5CU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 164,
+          "like_count": 1942,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "fwi109698",
+        "verified": false
+      }
+    ]
+  }
+}

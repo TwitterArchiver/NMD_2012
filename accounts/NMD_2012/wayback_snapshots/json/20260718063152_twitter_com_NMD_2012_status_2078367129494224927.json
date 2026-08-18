@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2078260142299345088",
+    "created_at": "2026-07-18T06:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078367129494224927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010357366466990080",
+          "start": 0,
+          "username": "shennaichuan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078367129494224927",
+    "in_reply_to_user_id": "2010357366466990080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078260142299345088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan_ 差点就去给你哭坟了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2764,
+        "media_key": "3_2078260017061642240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd2eXPbQAAlKQX.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2675,
+        "media_key": "3_2078260059772186624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd2g2WacAAPvfe.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2078260142299345088",
+        "created_at": "2026-07-18T06:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078367129494224927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078367129494224927",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078260142299345088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 差点就去给你哭坟了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078260017061642240",
+            "3_2078260059772186624"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2078260142299345088",
+        "created_at": "2026-07-17T23:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T00:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078260142299345088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJ9y2ogj8U",
+              "end": 65,
+              "expanded_url": "https://x.com/shennaichuan_/status/2078260142299345088/photo/1",
+              "media_key": "3_2078260017061642240",
+              "start": 42,
+              "url": "https://t.co/rJ9y2ogj8U"
+            },
+            {
+              "display_url": "pic.x.com/rJ9y2ogj8U",
+              "end": 65,
+              "expanded_url": "https://x.com/shennaichuan_/status/2078260142299345088/photo/1",
+              "media_key": "3_2078260059772186624",
+              "start": 42,
+              "url": "https://t.co/rJ9y2ogj8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078260142299345088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1333,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我号炸了亲兄弟们，然后这个尬杂让你发个讣告真是成事不足败事有余，怎么给我写死了，， https://t.co/rJ9y2ogj8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者👽",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 330,
+          "like_count": 7870,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1074
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "殴打尬杂",
+        "id": "2010357366466990080",
+        "name": "河南说唱之神",
+        "pinned_tweet_id": "2075025055969685656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4805,
+          "following_count": 603,
+          "like_count": 848,
+          "listed_count": 4,
+          "media_count": 422,
+          "tweet_count": 3231
+        },
+        "url": "",
+        "username": "shennaichuan_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2077446221795590305",
+    "created_at": "2026-07-15T22:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T23:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077527177327968444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1801885374928850945",
+          "start": 0,
+          "username": "bcq_mm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077527177327968444",
+    "in_reply_to_user_id": "1801885374928850945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077446221795590305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bcq_mm 浩哥道馆子辛苦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23733,
+        "height": 720,
+        "media_key": "7_2077446127327256576",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2077446127327256576/pu/img/1fCM0dLH3z6JBQV8.jpg",
+        "public_metrics": {
+          "view_count": 847
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077446127327256576/pu/vid/avc1/360x270/v5pauGe91J2OjXOK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077446127327256576/pu/vid/avc1/480x360/PZKW_9xWhigDhhE-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077446127327256576/pu/vid/avc1/960x720/9Aq4N1iD7JL9S_-E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2077446127327256576/pu/pl/5oKnQsjPnFN8q-vA.m3u8?v=902"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2077446221795590305",
+        "created_at": "2026-07-15T22:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T23:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077527177327968444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1801885374928850945",
+              "start": 0,
+              "username": "bcq_mm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077527177327968444",
+        "in_reply_to_user_id": "1801885374928850945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077446221795590305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcq_mm 浩哥道馆子辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2077446127327256576"
+          ]
+        },
+        "author_id": "1801885374928850945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2077446221795590305",
+        "created_at": "2026-07-15T17:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T18:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077446221795590305"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "minecraft"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "我的世界"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "爱心烟花"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t49h2Be8aZ",
+              "end": 56,
+              "expanded_url": "https://x.com/bcq_mm/status/2077446221795590305/video/1",
+              "media_key": "7_2077446127327256576",
+              "start": 33,
+              "url": "https://t.co/t49h2Be8aZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077446221795590305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8808,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#minecraft #我的世界 #爱心烟花 \n发给你最好的朋友 https://t.co/t49h2Be8aZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量的人/一个偏恶俗的人 如被冒犯请接受我的下跪/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者👽",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 322,
+          "like_count": 7712,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-15T07:52:28.000Z",
+        "description": "我不搬你们看什么？\n @Vtuber926 本体",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Vtuber926"
+              }
+            ]
+          }
+        },
+        "id": "1801885374928850945",
+        "location": "神奈川",
+        "name": "我的世界皓宸",
+        "pinned_tweet_id": "2073450987617218877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076911322554679296/dx5-13YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81234,
+          "following_count": 304,
+          "like_count": 121,
+          "listed_count": 153,
+          "media_count": 214,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "bcq_mm",
+        "verified": true
+      }
+    ]
+  }
+}

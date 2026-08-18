@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1404941112330973187",
+          "name": "Cardfight!! Vanguard"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404941112330973187",
+          "name": "Cardfight!! Vanguard"
+        }
+      }
+    ],
+    "conversation_id": "2085819908181651807",
+    "created_at": "2026-08-07T20:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T21:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085819908181651807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuno_yumemita/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/yuno_yumemita/status/2085382448482050456",
+          "start": 20,
+          "url": "https://t.co/ZYQi4JVHlT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085819908181651807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085382448482050456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发现梦限大就是一群vtuber组乐队 https://t.co/ZYQi4JVHlT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2085382442878484480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDESHCbwAAqPgH.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1404941112330973187",
+              "name": "Cardfight!! Vanguard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404941112330973187",
+              "name": "Cardfight!! Vanguard"
+            }
+          }
+        ],
+        "conversation_id": "2085819908181651807",
+        "created_at": "2026-08-07T20:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085819908181651807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuno_yumemita/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/yuno_yumemita/status/2085382448482050456",
+              "start": 20,
+              "url": "https://t.co/ZYQi4JVHlT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085819908181651807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085382448482050456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现梦限大就是一群vtuber组乐队 https://t.co/ZYQi4JVHlT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085382442878484480"
+          ]
+        },
+        "author_id": "1712830996398096384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1404941112330973187",
+              "name": "Cardfight!! Vanguard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404941112330973187",
+              "name": "Cardfight!! Vanguard"
+            }
+          }
+        ],
+        "conversation_id": "2085382448482050456",
+        "created_at": "2026-08-06T15:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085382448482050456"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "ヴァンガード"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qh33NEqqwz",
+              "end": 96,
+              "expanded_url": "https://x.com/yuno_yumemita/status/2085382448482050456/photo/1",
+              "media_key": "3_2085382442878484480",
+              "start": 73,
+              "url": "https://t.co/qh33NEqqwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085382448482050456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 48585,
+          "like_count": 987,
+          "quote_count": 8,
+          "reply_count": 39,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "〈配信のおしらせ〉\n8/7 6:00～ #ヴァンガード 開封\n\n幻真覚醒を開封します！！！\n気合いの朝6時から！！！\nみんな早起き頑張って！！！ https://t.co/qh33NEqqwz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfuLbs"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083794829868433408/Z_bwTbOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 340,
+          "like_count": 8520,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1177
+        },
+        "url": "https://t.co/wk9cNfuLbs",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T14:02:09.000Z",
+        "description": "バンドリ！夢限大みゅーたいぷ(@BDP_yumemita) DJ&Mp. 千石ユノ￤ヴァンガードが好きです\nアニメ▶︎#アニメゆめみた FA▶︎#ユノ展 エゴサ▶︎#みてユノ 配信▶︎#ユノの生存報告 顔面▶︎https://t.co/SRwnzkh5Yt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "アニメゆめみた"
+              },
+              {
+                "end": 76,
+                "start": 72,
+                "tag": "ユノ展"
+              },
+              {
+                "end": 87,
+                "start": 82,
+                "tag": "みてユノ"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "tag": "ユノの生存報告"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "BDP_yumemita"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/yunoch1",
+                "end": 128,
+                "expanded_url": "https://www.instagram.com/yunoch1",
+                "start": 105,
+                "url": "https://t.co/SRwnzkh5Yt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yuno_yumemita",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@yuno_yumemita",
+                "start": 0,
+                "url": "https://t.co/BBK9yIdCgq"
+              }
+            ]
+          }
+        },
+        "id": "1712830996398096384",
+        "location": "配信スケジュールはハイライトにあります✌️",
+        "name": "千石ユノ",
+        "pinned_tweet_id": "2027710178544783529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722602929792901120/ILzmMz9M_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48493,
+          "following_count": 57,
+          "like_count": 61038,
+          "listed_count": 316,
+          "media_count": 867,
+          "tweet_count": 6417
+        },
+        "url": "https://t.co/BBK9yIdCgq",
+        "username": "yuno_yumemita",
+        "verified": true
+      }
+    ]
+  }
+}

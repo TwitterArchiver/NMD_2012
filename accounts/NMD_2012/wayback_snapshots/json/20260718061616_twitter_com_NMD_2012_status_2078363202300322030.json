@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078363198982656000"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2078363202300322030",
+    "created_at": "2026-07-18T06:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078363202300322030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yCVEIh3pzs",
+          "end": 47,
+          "expanded_url": "https://x.com/NMD_2012/status/2078363202300322030/photo/1",
+          "media_key": "3_2078363198982656000",
+          "start": 24,
+          "url": "https://t.co/yCVEIh3pzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078363202300322030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没人感觉像这种没有任何预兆就退推的推友很可怕吗 https://t.co/yCVEIh3pzs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1089,
+        "media_key": "3_2078363198982656000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfUUV2bEAAtpCR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078363198982656000"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2078363202300322030",
+        "created_at": "2026-07-18T06:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078363202300322030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yCVEIh3pzs",
+              "end": 47,
+              "expanded_url": "https://x.com/NMD_2012/status/2078363202300322030/photo/1",
+              "media_key": "3_2078363198982656000",
+              "start": 24,
+              "url": "https://t.co/yCVEIh3pzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078363202300322030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人感觉像这种没有任何预兆就退推的推友很可怕吗 https://t.co/yCVEIh3pzs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者👽",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 330,
+          "like_count": 7865,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1073
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2080679025656447207",
+    "created_at": "2026-07-25T08:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080931903398465664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868562193484251136",
+          "start": 0,
+          "username": "LengChamSayBye"
+        },
+        {
+          "end": 24,
+          "id": "1510043826479824896",
+          "start": 16,
+          "username": "GCZZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080931903398465664",
+    "in_reply_to_user_id": "1868562193484251136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080830235256459456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LengChamSayBye @GCZZero 我手机卡死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2080679025656447207",
+        "created_at": "2026-07-25T08:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080931903398465664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            },
+            {
+              "end": 24,
+              "id": "1510043826479824896",
+              "start": 16,
+              "username": "GCZZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080931903398465664",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080830235256459456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye @GCZZero 我手机卡死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2080679025656447207",
+        "created_at": "2026-07-25T01:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080830235256459456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            },
+            {
+              "end": 18,
+              "id": "1510043826479824896",
+              "start": 10,
+              "username": "GCZZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080830235256459456",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080808776064762107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 @GCZZero 卡倒是不卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@kaede_shigeru/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "kaede_shigeru"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者👽(anti miniworld 反迷你",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 340,
+          "like_count": 8436,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1140
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2069502957314576634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044662107904659456/-Qd1LT8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 217,
+          "like_count": 6267,
+          "listed_count": 0,
+          "media_count": 953,
+          "tweet_count": 5215
+        },
+        "url": "",
+        "username": "LengChamSayBye",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T23:58:06.000Z",
+        "description": "github@groupguanfang/寻找归宿中/准备升本科/age20/尽量不情绪化讨论正经话题/欧尼酱@gujinchuanqi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "gujinchuanqi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com",
+                "start": 0,
+                "url": "https://t.co/euQhnwYO00"
+              }
+            ]
+          }
+        },
+        "id": "1510043826479824896",
+        "location": "Meizhou, Guangdong, China",
+        "name": "Zero（私人版）",
+        "pinned_tweet_id": "2074213150791241989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913697120726777856/LHk7rVD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 682,
+          "like_count": 17179,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1370
+        },
+        "url": "https://t.co/euQhnwYO00",
+        "username": "GCZZero",
+        "verified": true
+      }
+    ]
+  }
+}

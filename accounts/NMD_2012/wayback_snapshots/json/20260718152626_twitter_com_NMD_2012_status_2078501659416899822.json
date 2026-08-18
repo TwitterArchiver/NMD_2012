@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "2078501659416899822",
+    "created_at": "2026-07-18T15:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078501659416899822"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078501659416899822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我认为死水是一个极其需要尊重的老角色，因为他在火影忍者手游存在的这十年内，给这个游戏带来了巨大的热度，如果没有死水，火影忍者手游可能就没有今天，所以死水应该是火影手游全体尊重的对象，死水不但制作精良，而且特别需要操作的手法，如果段位没有3000分玩这个忍者就不能发挥他的实力，一但不能完全发挥实力，这个忍者就是无比鸡肋的忍者，此时需要的就是意识和手法来弥补。我个人觉得波风水门【秽土转生】真的是最需要操作的忍者了。我对操作的定义就是这件事你知道怎么做但是你做不到。在目前的所有忍者中只有死水能让我有这种体验。不说别的，被先手了替身2A插标闪走，这套操作没玩个几百把是真的做不到的，90%的人想做到这套操作都会发现自己2A根本插不出标来，训练营和决斗场的心理压力是不一样的，你在训练营就算能百分百做到2A插标，决斗场也90%的情况是2A插不出来。我玩骨架白面具破面小土豆，看到对面玩死水，就知道自己低人一等了，对面换位金身博弈我也是心服口服的，抓不到对面只能说我玩不明白死水，死水玩家摸头发表情我也是羞愧难当的，毕竟玩死水的绝对是全火影最需要操作的，我这种玩🐶脑忍者的不能去攻击操作忍者的。我以后在火影忍者手游里，我以后再也不敢说秽土水门这个忍者的任何坏话，我承认死水这个忍者确实是要技术的，cd久的，阳间的，老忍者的，没抓取的，没反手的，被起手玩不了的，没有通灵秘卷t3的，伤害低的，要博弈的，z闪是难触发的，非常极端的，会被骨架克制的，打不过儿子黄猿的，必须加强，被暴打的心服口服的，求求你们不要再攻击我了，我不想在这个世界消失"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我认为死水是一个极其需要尊重的老角色，因为他在火影忍者手游存在的这十年内，给这个游戏带来了巨大的热度，如果没有死水，火影忍者手游可能就没有今天，所以死水应该是火影手游全体尊重的对象，死水不但制作精良，而且特别需要操作的手法，如果段位没有3000分玩这个忍者就不能发挥他的实力，一但不能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2078501659416899822",
+        "created_at": "2026-07-18T15:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078501659416899822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078501659416899822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我认为死水是一个极其需要尊重的老角色，因为他在火影忍者手游存在的这十年内，给这个游戏带来了巨大的热度，如果没有死水，火影忍者手游可能就没有今天，所以死水应该是火影手游全体尊重的对象，死水不但制作精良，而且特别需要操作的手法，如果段位没有3000分玩这个忍者就不能发挥他的实力，一但不能完全发挥实力，这个忍者就是无比鸡肋的忍者，此时需要的就是意识和手法来弥补。我个人觉得波风水门【秽土转生】真的是最需要操作的忍者了。我对操作的定义就是这件事你知道怎么做但是你做不到。在目前的所有忍者中只有死水能让我有这种体验。不说别的，被先手了替身2A插标闪走，这套操作没玩个几百把是真的做不到的，90%的人想做到这套操作都会发现自己2A根本插不出标来，训练营和决斗场的心理压力是不一样的，你在训练营就算能百分百做到2A插标，决斗场也90%的情况是2A插不出来。我玩骨架白面具破面小土豆，看到对面玩死水，就知道自己低人一等了，对面换位金身博弈我也是心服口服的，抓不到对面只能说我玩不明白死水，死水玩家摸头发表情我也是羞愧难当的，毕竟玩死水的绝对是全火影最需要操作的，我这种玩🐶脑忍者的不能去攻击操作忍者的。我以后在火影忍者手游里，我以后再也不敢说秽土水门这个忍者的任何坏话，我承认死水这个忍者确实是要技术的，cd久的，阳间的，老忍者的，没抓取的，没反手的，被起手玩不了的，没有通灵秘卷t3的，伤害低的，要博弈的，z闪是难触发的，非常极端的，会被骨架克制的，打不过儿子黄猿的，必须加强，被暴打的心服口服的，求求你们不要再攻击我了，我不想在这个世界消失"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为死水是一个极其需要尊重的老角色，因为他在火影忍者手游存在的这十年内，给这个游戏带来了巨大的热度，如果没有死水，火影忍者手游可能就没有今天，所以死水应该是火影手游全体尊重的对象，死水不但制作精良，而且特别需要操作的手法，如果段位没有3000分玩这个忍者就不能发挥他的实力，一但不能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者👽",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 331,
+          "like_count": 7897,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1049
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      }
+    ]
+  }
+}

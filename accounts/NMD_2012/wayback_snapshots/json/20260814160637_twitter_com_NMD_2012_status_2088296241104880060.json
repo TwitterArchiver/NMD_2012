@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2088244549848318361",
+    "created_at": "2026-08-14T16:06:37.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088296241104880060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2075995206172962816",
+          "start": 0,
+          "username": "FFCP_0001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088296241104880060",
+    "in_reply_to_user_id": "2075995206172962816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088244549848318361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FFCP_0001 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 344,
+        "media_key": "3_2088244540696334336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrvWIRakAAeaBV.jpg",
+        "width": 344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2088244549848318361",
+        "created_at": "2026-08-14T16:06:37.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088296241104880060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2075995206172962816",
+              "start": 0,
+              "username": "FFCP_0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088296241104880060",
+        "in_reply_to_user_id": "2075995206172962816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088244549848318361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FFCP_0001 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088244540696334336"
+          ]
+        },
+        "author_id": "2075995206172962816",
+        "conversation_id": "2088244549848318361",
+        "created_at": "2026-08-14T12:41:13.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088244549848318361"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tz3NvFDTzq",
+              "end": 28,
+              "expanded_url": "https://x.com/FFCP_0001/status/2088244549848318361/photo/1",
+              "media_key": "3_2088244540696334336",
+              "start": 5,
+              "url": "https://t.co/Tz3NvFDTzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088244549848318361",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088244540696334336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/Tz3NvFDTzq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfuLbs"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2088296241104880060",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087218239604482049/HNnR57DU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 349,
+          "like_count": 8865,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1249
+        },
+        "url": "https://t.co/wk9cNfuLbs",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-11T17:29:26.000Z",
+        "description": "这里是 @FFCP_0002 备用机\n我是 #支云TV 主编的小号呀",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 22,
+                "tag": "支云TV"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "FFCP_0002"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ffcp1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ffcp1",
+                "start": 0,
+                "url": "https://t.co/xNNTwDAED6"
+              }
+            ]
+          }
+        },
+        "id": "2075995206172962816",
+        "is_identity_verified": false,
+        "location": "天安门",
+        "most_recent_tweet_id": "2088289639014830340",
+        "name": "恶俗的孙😭川",
+        "pinned_tweet_id": "2081419629596164143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075995206172962816/1785848309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088244435612278784/woYYQFzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 307,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/xNNTwDAED6",
+        "username": "FFCP_0001",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077364391092375552"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2077363910861004996",
+    "created_at": "2026-07-15T12:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077364394405867742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2063159075572158465",
+          "start": 0,
+          "username": "Bochichan250hh"
+        },
+        {
+          "end": 25,
+          "id": "1883207896768651264",
+          "start": 16,
+          "username": "clem0216"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lhoe4O7dOa",
+          "end": 49,
+          "expanded_url": "https://x.com/NMD_2012/status/2077364394405867742/photo/1",
+          "media_key": "3_2077364391092375552",
+          "start": 26,
+          "url": "https://t.co/Lhoe4O7dOa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077364394405867742",
+    "in_reply_to_user_id": "2063159075572158465",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077363910861004996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bochichan250hh @clem0216 https://t.co/Lhoe4O7dOa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 569,
+        "media_key": "3_2077364391092375552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRH6EgbUAAmqB3.jpg",
+        "width": 1080
+      },
+      {
+        "height": 280,
+        "media_key": "3_2077363901465812992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRHdkgW4AAbTwM.jpg",
+        "width": 857
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077364391092375552"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2077363910861004996",
+        "created_at": "2026-07-15T12:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077364394405867742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2063159075572158465",
+              "start": 0,
+              "username": "Bochichan250hh"
+            },
+            {
+              "end": 25,
+              "id": "1883207896768651264",
+              "start": 16,
+              "username": "clem0216"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lhoe4O7dOa",
+              "end": 49,
+              "expanded_url": "https://x.com/NMD_2012/status/2077364394405867742/photo/1",
+              "media_key": "3_2077364391092375552",
+              "start": 26,
+              "url": "https://t.co/Lhoe4O7dOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077364394405867742",
+        "in_reply_to_user_id": "2063159075572158465",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077363910861004996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bochichan250hh @clem0216 https://t.co/Lhoe4O7dOa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077363901465812992"
+          ]
+        },
+        "author_id": "2063159075572158465",
+        "conversation_id": "2077363910861004996",
+        "created_at": "2026-07-15T12:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077363910861004996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883207896768651264",
+              "start": 5,
+              "username": "clem0216"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3py92jfhz",
+              "end": 38,
+              "expanded_url": "https://x.com/Bochichan250hh/status/2077363910861004996/photo/1",
+              "media_key": "3_2077363901465812992",
+              "start": 15,
+              "url": "https://t.co/I3py92jfhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077363910861004996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "追星成功\n@clem0216 https://t.co/I3py92jfhz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量的人/一个偏恶俗的人 如被冒犯请接受我的下跪/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 318,
+          "like_count": 7623,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T07:21:34.000Z",
+        "description": "it is too late…. \n@Yokuso_desu的小账户\n苦练electric guitar 🎸\n查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Yokuso_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan250",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan250",
+                "start": 0,
+                "url": "https://t.co/dkFNyeybig"
+              }
+            ]
+          }
+        },
+        "id": "2063159075572158465",
+        "name": "防尘迷呀awa🇰🇵🎸（互关）",
+        "pinned_tweet_id": "2077086358259081675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068608809841696768/DCfkJfRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 65,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/dkFNyeybig",
+        "username": "Bochichan250hh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo/没回fo请私信",
+        "id": "1883207896768651264",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 212,
+          "like_count": 3355,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

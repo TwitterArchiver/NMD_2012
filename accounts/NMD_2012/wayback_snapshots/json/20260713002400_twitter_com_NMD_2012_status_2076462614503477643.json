@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2076308519771652257",
+    "created_at": "2026-07-13T00:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076462614503477643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "886641021588611072",
+          "start": 0,
+          "username": "TSN404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076462614503477643",
+    "in_reply_to_user_id": "886641021588611072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076308519771652257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSN404 我们是不提倡自己给自己做手术的--唐毓文"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076308447386353664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCHiDqbQAAu10S.jpg",
+        "width": 340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2076308519771652257",
+        "created_at": "2026-07-13T00:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076462614503477643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "886641021588611072",
+              "start": 0,
+              "username": "TSN404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076462614503477643",
+        "in_reply_to_user_id": "886641021588611072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076308519771652257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSN404 我们是不提倡自己给自己做手术的--唐毓文"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076308447386353664"
+          ]
+        },
+        "author_id": "886641021588611072",
+        "conversation_id": "2076308519771652257",
+        "created_at": "2026-07-12T14:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076308519771652257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jr7u9JXMuE",
+              "end": 39,
+              "expanded_url": "https://x.com/TSN404/status/2076308519771652257/photo/1",
+              "media_key": "3_2076308447386353664",
+              "start": 16,
+              "url": "https://t.co/Jr7u9JXMuE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076308519771652257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1976,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的打算切蛋了，焦虑太严重了 https://t.co/Jr7u9JXMuE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量的人/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1s6r2"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 296,
+          "like_count": 7121,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 949
+        },
+        "url": "https://t.co/jp6nx1s6r2",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-16T17:37:47.000Z",
+        "description": "MTF/X｜长在春风里，活在药效里｜普瑞巴林重度依赖｜odzc｜hrt：2025.5.31｜常驻长春｜割腕吞药复活ing｜切蛋筹划中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.xin",
+                "end": 23,
+                "expanded_url": "http://mahiro.xin",
+                "start": 0,
+                "url": "https://t.co/vttA1wvKNo"
+              }
+            ]
+          }
+        },
+        "id": "886641021588611072",
+        "name": "TSN🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071580598192476389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076339340297601024/w6hHYxoX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 77,
+          "like_count": 179,
+          "listed_count": 23,
+          "media_count": 33,
+          "tweet_count": 1300
+        },
+        "url": "https://t.co/vttA1wvKNo",
+        "username": "TSN404",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2079858242000388544",
+    "created_at": "2026-07-23T15:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080320187589677181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060603321812209664",
+          "start": 0,
+          "username": "naming_736582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080320187589677181",
+    "in_reply_to_user_id": "2060603321812209664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080293543525113865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naming_736582 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2079858242000388544",
+        "created_at": "2026-07-23T15:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080320187589677181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060603321812209664",
+              "start": 0,
+              "username": "naming_736582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080320187589677181",
+        "in_reply_to_user_id": "2060603321812209664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080293543525113865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naming_736582 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060603321812209664",
+        "conversation_id": "2079858242000388544",
+        "created_at": "2026-07-23T14:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080293543525113865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080293543525113865",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079858242000388544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 嗯嗯一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@kaede_shigeru/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "kaede_shigeru"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者👽(anti miniworld 反迷你",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 340,
+          "like_count": 8341,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1130
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T06:06:52.000Z",
+        "description": "15岁 | 高中生| INFP-T | 对自己的思维能力感到骄傲 | 抑郁症 丨 社恐 | 只会中文（但是我可以翻译）|  极其善良 |梦想将来🍥🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/RZePZdgJ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/RZePZdgJ",
+                "start": 0,
+                "url": "https://t.co/E23wOQC9lG"
+              }
+            ]
+          }
+        },
+        "id": "2060603321812209664",
+        "name": "雫溟Baby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069368954372722688/qr96D19J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 65,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/E23wOQC9lG",
+        "username": "naming_736582",
+        "verified": false
+      }
+    ]
+  }
+}

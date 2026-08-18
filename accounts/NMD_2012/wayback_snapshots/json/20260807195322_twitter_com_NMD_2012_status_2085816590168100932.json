@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2085787006517518381",
+    "created_at": "2026-08-07T19:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T20:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085816590168100932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2013608408264646658",
+          "start": 0,
+          "username": "wang_wen71728"
+        },
+        {
+          "end": 25,
+          "id": "2076882341159677952",
+          "start": 15,
+          "username": "FFCP_0002"
+        },
+        {
+          "end": 35,
+          "id": "2066179606097649664",
+          "start": 26,
+          "username": "CNM_1958"
+        },
+        {
+          "end": 55,
+          "id": "1657704267443232770",
+          "start": 43,
+          "username": "Un_Ewigkeit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085816590168100932",
+    "in_reply_to_user_id": "2013608408264646658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085811087396774379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang_wen71728 @FFCP_0002 @CNM_1958 竟然在联络我和@Un_Ewigkeit吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2085787006517518381",
+        "created_at": "2026-08-07T19:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085816590168100932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2013608408264646658",
+              "start": 0,
+              "username": "wang_wen71728"
+            },
+            {
+              "end": 25,
+              "id": "2076882341159677952",
+              "start": 15,
+              "username": "FFCP_0002"
+            },
+            {
+              "end": 35,
+              "id": "2066179606097649664",
+              "start": 26,
+              "username": "CNM_1958"
+            },
+            {
+              "end": 55,
+              "id": "1657704267443232770",
+              "start": 43,
+              "username": "Un_Ewigkeit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085816590168100932",
+        "in_reply_to_user_id": "2013608408264646658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085811087396774379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang_wen71728 @FFCP_0002 @CNM_1958 竟然在联络我和@Un_Ewigkeit吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013608408264646658",
+        "conversation_id": "2085787006517518381",
+        "created_at": "2026-08-07T19:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085811087396774379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2076882341159677952",
+              "start": 0,
+              "username": "FFCP_0002"
+            },
+            {
+              "end": 20,
+              "id": "2066179606097649664",
+              "start": 11,
+              "username": "CNM_1958"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085811087396774379",
+        "in_reply_to_user_id": "2076882341159677952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085810825428905995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FFCP_0002 @CNM_1958 咋都学我联络外星人👽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfuLbs"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083794829868433408/Z_bwTbOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 339,
+          "like_count": 8516,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1175
+        },
+        "url": "https://t.co/wk9cNfuLbs",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T13:44:34.000Z",
+        "description": "哇你好呀，你能做我朋友吗👽",
+        "id": "2013608408264646658",
+        "location": "Yongin-si, Republic of Korea",
+        "name": "koza_135互fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084682830337183744/9LpmNEv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 227,
+          "like_count": 648,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 370
+        },
+        "url": "",
+        "username": "wang_wen71728",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T04:12:50.000Z",
+        "description": "温和左臂/反稻反包/左臂压抑之巅/面对反毛哈耶克粉红我可能会成支黑版弹钢琴/繁茂贼不图能行嘛/ #支云TV /主人@CNM_1958",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "支云TV"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "CNM_1958"
+              }
+            ]
+          }
+        },
+        "id": "2076882341159677952",
+        "location": "天安门",
+        "name": "社会主义薯条🍟☭",
+        "pinned_tweet_id": "2083839171127644251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080075466103508992/k2GYTb_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 830,
+          "like_count": 3334,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 775
+        },
+        "url": "",
+        "username": "FFCP_0002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T15:25:36.000Z",
+        "description": "永锁号/自由意志主义/个人主义/温和右翼/反威权/实用主义/反腊反包/面对支黑形态下的弹钢琴时我可能会变成粉红/亲邓 反邓贼不碾能行嘛/哈派粉红/性奴隷@FFCP_0002/简介真伪自行分辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "FFCP_0002"
+              }
+            ]
+          }
+        },
+        "id": "2066179606097649664",
+        "name": "資本主義薯條🇹🇼🍟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081036353064914944/JG-dilm4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 97,
+          "like_count": 1939,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 339
+        },
+        "url": "",
+        "username": "CNM_1958",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T11:08:05.000Z",
+        "description": "DE OMNIBUS DUBITANDUM.\n弟々@NMD_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "NMD_2012"
+              }
+            ]
+          }
+        },
+        "id": "1657704267443232770",
+        "location": "道路",
+        "name": "睏度",
+        "pinned_tweet_id": "2082949699493863526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084846040562241536/SNHGCiQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 772,
+          "like_count": 27503,
+          "listed_count": 3,
+          "media_count": 232,
+          "tweet_count": 9927
+        },
+        "url": "",
+        "username": "Un_Ewigkeit",
+        "verified": false
+      }
+    ]
+  }
+}

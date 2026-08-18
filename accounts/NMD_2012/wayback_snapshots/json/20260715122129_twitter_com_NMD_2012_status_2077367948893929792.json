@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077305536438325249"
+      ],
+      "media_source_tweet_id": [
+        "2077305661785043016"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2077367948893929792",
+    "created_at": "2026-07-15T12:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077367948893929792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1929464299115679745",
+          "start": 3,
+          "username": "Devastated1726"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ca0afu7lAo",
+          "end": 53,
+          "expanded_url": "https://x.com/Devastated1726/status/2077305661785043016/photo/1",
+          "media_key": "3_2077305536438325249",
+          "start": 30,
+          "url": "https://t.co/ca0afu7lAo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077367948893929792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077305661785043016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Devastated1726: 本人上班之后的戾气 https://t.co/ca0afu7lAo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1848,
+        "media_key": "3_2077305536438325249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQSYR1b0AERni3.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077305536438325249"
+          ],
+          "media_source_tweet_id": [
+            "2077305661785043016"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2077367948893929792",
+        "created_at": "2026-07-15T12:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077367948893929792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1929464299115679745",
+              "start": 3,
+              "username": "Devastated1726"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ca0afu7lAo",
+              "end": 53,
+              "expanded_url": "https://x.com/Devastated1726/status/2077305661785043016/photo/1",
+              "media_key": "3_2077305536438325249",
+              "start": 30,
+              "url": "https://t.co/ca0afu7lAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077367948893929792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077305661785043016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Devastated1726: 本人上班之后的戾气 https://t.co/ca0afu7lAo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077305536438325249"
+          ]
+        },
+        "author_id": "1929464299115679745",
+        "conversation_id": "2077305661785043016",
+        "created_at": "2026-07-15T08:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077305661785043016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ca0afu7lAo",
+              "end": 33,
+              "expanded_url": "https://x.com/Devastated1726/status/2077305661785043016/photo/1",
+              "media_key": "3_2077305536438325249",
+              "start": 10,
+              "url": "https://t.co/ca0afu7lAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077305661785043016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人上班之后的戾气 https://t.co/ca0afu7lAo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量的人/一个偏恶俗的人 如被冒犯请接受我的下跪/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 319,
+          "like_count": 7640,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1043
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T09:05:53.000Z",
+        "description": "是个傻纸疯纸。\n记录有气无力的生活。\n女孩子来互fo",
+        "id": "1929464299115679745",
+        "location": "蛋仔岛",
+        "name": "有空忧伤",
+        "pinned_tweet_id": "2066137333611876366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057452165770162176/Qa_B0ZB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 141,
+          "like_count": 297,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 1613
+        },
+        "url": "",
+        "username": "Devastated1726",
+        "verified": false
+      }
+    ]
+  }
+}

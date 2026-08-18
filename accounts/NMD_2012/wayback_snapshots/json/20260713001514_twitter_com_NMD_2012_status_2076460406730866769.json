@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076460403908034560"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2076318477640749176",
+    "created_at": "2026-07-13T00:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076460406730866769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2022461989553917952",
+          "start": 0,
+          "username": "jerryg19890604"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5DUl7870hc",
+          "end": 39,
+          "expanded_url": "https://x.com/NMD_2012/status/2076460406730866769/photo/1",
+          "media_key": "3_2076460403908034560",
+          "start": 16,
+          "url": "https://t.co/5DUl7870hc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076460406730866769",
+    "in_reply_to_user_id": "2022461989553917952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076368829379191111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jerryg19890604 https://t.co/5DUl7870hc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2076460403908034560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNERvF0aQAAdaiR.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076460403908034560"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2076318477640749176",
+        "created_at": "2026-07-13T00:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076460406730866769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2022461989553917952",
+              "start": 0,
+              "username": "jerryg19890604"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DUl7870hc",
+              "end": 39,
+              "expanded_url": "https://x.com/NMD_2012/status/2076460406730866769/photo/1",
+              "media_key": "3_2076460403908034560",
+              "start": 16,
+              "url": "https://t.co/5DUl7870hc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076460406730866769",
+        "in_reply_to_user_id": "2022461989553917952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076368829379191111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jerryg19890604 https://t.co/5DUl7870hc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022461989553917952",
+        "conversation_id": "2076318477640749176",
+        "created_at": "2026-07-12T18:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076368829379191111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076368829379191111",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076318477640749176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 略爱区你们赢了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量的人/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1s6r2"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 296,
+          "like_count": 7115,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/jp6nx1s6r2",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-14T00:08:54.000Z",
+        "description": "中国国安部高级特工，编号9527/男/自由派/粉红勿扰\n“他们筑起谎言的高塔，谎称那是通往天堂的阶梯”",
+        "id": "2022461989553917952",
+        "location": "Ontario，Canada ",
+        "name": "JERRY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076457521284296704/rCJ-vnWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 41,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "jerryg19890604",
+        "verified": false
+      }
+    ]
+  }
+}

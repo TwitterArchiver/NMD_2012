@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078842376324571136"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2078842379885490209",
+    "created_at": "2026-07-19T14:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078842379885490209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9cFNNeG8pM",
+          "end": 27,
+          "expanded_url": "https://x.com/NMD_2012/status/2078842379885490209/photo/1",
+          "media_key": "3_2078842376324571136",
+          "start": 4,
+          "url": "https://t.co/9cFNNeG8pM"
+        },
+        {
+          "display_url": "x.com/NMD_2012/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/NMD_2012/status/2077179687323988325",
+          "start": 28,
+          "url": "https://t.co/bkKSHZ12gw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078842379885490209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077179687323988325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "浩哥😭 https://t.co/9cFNNeG8pM https://t.co/bkKSHZ12gw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2078842376324571136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmIIIja4AAIJde.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078842376324571136"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2078842379885490209",
+        "created_at": "2026-07-19T14:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078842379885490209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9cFNNeG8pM",
+              "end": 27,
+              "expanded_url": "https://x.com/NMD_2012/status/2078842379885490209/photo/1",
+              "media_key": "3_2078842376324571136",
+              "start": 4,
+              "url": "https://t.co/9cFNNeG8pM"
+            },
+            {
+              "display_url": "x.com/NMD_2012/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/NMD_2012/status/2077179687323988325",
+              "start": 28,
+              "url": "https://t.co/bkKSHZ12gw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078842379885490209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077179687323988325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "浩哥😭 https://t.co/9cFNNeG8pM https://t.co/bkKSHZ12gw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2077179687323988325",
+        "created_at": "2026-07-14T23:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077179687323988325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bcq_mm/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/bcq_mm/status/2076954306352447750",
+              "start": 12,
+              "url": "https://t.co/86QI7roTPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077179687323988325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076954306352447750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "浩哥给大家伙发片辛苦了 https://t.co/86QI7roTPB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者👽",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 331,
+          "like_count": 7922,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      }
+    ]
+  }
+}

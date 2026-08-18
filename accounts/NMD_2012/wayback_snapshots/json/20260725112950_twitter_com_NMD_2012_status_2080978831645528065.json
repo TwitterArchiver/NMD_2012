@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2080679025656447207",
+    "created_at": "2026-07-25T11:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080978831645528065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2080118313007611905",
+          "start": 0,
+          "username": "KenKin0612"
+        },
+        {
+          "end": 22,
+          "id": "1964335711521558531",
+          "start": 12,
+          "username": "bbkk23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080978831645528065",
+    "in_reply_to_user_id": "2080118313007611905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080776791363620898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KenKin0612 @bbkk23333 登录到最后一步会提示有“未知错误”，就很有病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2080679025656447207",
+        "created_at": "2026-07-25T11:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080978831645528065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2080118313007611905",
+              "start": 0,
+              "username": "KenKin0612"
+            },
+            {
+              "end": 22,
+              "id": "1964335711521558531",
+              "start": 12,
+              "username": "bbkk23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080978831645528065",
+        "in_reply_to_user_id": "2080118313007611905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080776791363620898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KenKin0612 @bbkk23333 登录到最后一步会提示有“未知错误”，就很有病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080118313007611905",
+        "conversation_id": "2080679025656447207",
+        "created_at": "2026-07-24T22:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T23:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080776791363620898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            },
+            {
+              "end": 20,
+              "id": "1964335711521558531",
+              "start": 10,
+              "username": "bbkk23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080776791363620898",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080702844831985688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 @bbkk23333 美区很简单 苹果自带浏览器和一个没注册美区Id的邮箱 然验证手机号（注册国区的+86也可以）地址选美国 然后区个人中心看看是不是美国 是的话把住址信息填一下 让Gemini给也可以 然后就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@kaede_shigeru/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "kaede_shigeru"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者👽(anti miniworld 反迷你",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 341,
+          "like_count": 8447,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1147
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-23T02:31:02.000Z",
+        "description": "掉毛一个 进出来看看墙外世界 \n平时喜欢玩Minecraft 也是一个腐竹",
+        "id": "2080118313007611905",
+        "location": "中国",
+        "name": "KenKin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080355655161114624/uDAcugnk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 24,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "KenKin0612",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小吋低强度刷推\n≽^ ⦁ ⩊ ⦁ ^≼",
+        "id": "1964335711521558531",
+        "location": "垃圾桶旁边的纸箱",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 441,
+          "like_count": 5100,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2450
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true
+      }
+    ]
+  }
+}

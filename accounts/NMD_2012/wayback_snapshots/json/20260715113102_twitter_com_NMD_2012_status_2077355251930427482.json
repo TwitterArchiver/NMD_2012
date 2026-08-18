@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2077292134341001583",
+    "created_at": "2026-07-15T11:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077355251930427482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1801885374928850945",
+          "start": 0,
+          "username": "bcq_mm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077355251930427482",
+    "in_reply_to_user_id": "1801885374928850945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077292134341001583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bcq_mm 浩哥你肯定不敢搬孤独摇滚其他角色的篇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2077285752787161088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQAYt_b0AAftEY.jpg",
+        "width": 853
+      },
+      {
+        "duration_ms": 156200,
+        "height": 1280,
+        "media_key": "13_2077285752808022016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077285752808022016/img/JkMBChWGHMzI8sGv.jpg",
+        "public_metrics": {
+          "view_count": 4980
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077285752808022016/vid/avc1/320x568/URq7M88M1ZFwL9R5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077285752808022016/vid/avc1/480x852/7coaC1HgntXL8zL4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077285752808022016/vid/avc1/720x1280/7b1NDJXPNfKF3zx8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077285752808022016/pl/a6qYDYln_0DQXNLH.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 240000,
+        "height": 1080,
+        "media_key": "13_2077285752824819712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077285752824819712/img/lJa_L2E646goD2pZ.jpg",
+        "public_metrics": {
+          "view_count": 1269
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077285752824819712/vid/avc1/640x360/rLW26-D6Coc2koTf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077285752824819712/vid/avc1/1280x720/oB7LqANZjffIEfsM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077285752824819712/pl/dMqF0C5GPeWYOYee.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077285752824819712/vid/avc1/480x270/_QD1vl0Iqsy2kbsd.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077285752824819712/vid/avc1/1920x1080/FdbYpw1Wvb-rWMFs.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 128104,
+        "height": 1080,
+        "media_key": "13_2077285753399459840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077285753399459840/img/NbSmTkFis4vsmxot.jpg",
+        "public_metrics": {
+          "view_count": 1382
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077285753399459840/pl/zSKkWWaT9BI_PPB8.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077285753399459840/vid/avc1/640x360/cEPQFgFRmQwTlaye.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077285753399459840/vid/avc1/1280x720/4wVtlA6UNeZlJF6r.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077285753399459840/vid/avc1/1920x1080/Q-hii38hf855AvY_.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077285753399459840/vid/avc1/480x270/6-BQc5QPoUwobfaa.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2077292134341001583",
+        "created_at": "2026-07-15T11:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077355251930427482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1801885374928850945",
+              "start": 0,
+              "username": "bcq_mm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077355251930427482",
+        "in_reply_to_user_id": "1801885374928850945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077292134341001583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcq_mm 浩哥你肯定不敢搬孤独摇滚其他角色的篇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077285752787161088",
+            "13_2077285752808022016",
+            "13_2077285752824819712",
+            "13_2077285753399459840"
+          ]
+        },
+        "author_id": "1801885374928850945",
+        "conversation_id": "2077292134341001583",
+        "created_at": "2026-07-15T07:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:14:21.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077290655370645868",
+          "2077290727382659557",
+          "2077292134341001583"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "Asuka789"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "后藤一里"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "波奇酱"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "cos"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "孤独摇滚"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "自慰"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "白袜"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "裸足"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "磨桌角"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "白虎"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "性玩具"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDB8amUjGu",
+              "end": 101,
+              "expanded_url": "https://x.com/bcq_mm/status/2077292134341001583/video/1",
+              "media_key": "3_2077285752787161088",
+              "start": 78,
+              "url": "https://t.co/ZDB8amUjGu"
+            },
+            {
+              "display_url": "pic.x.com/ZDB8amUjGu",
+              "end": 101,
+              "expanded_url": "https://x.com/bcq_mm/status/2077292134341001583/video/1",
+              "media_key": "13_2077285752808022016",
+              "start": 78,
+              "url": "https://t.co/ZDB8amUjGu"
+            },
+            {
+              "display_url": "pic.x.com/ZDB8amUjGu",
+              "end": 101,
+              "expanded_url": "https://x.com/bcq_mm/status/2077292134341001583/video/1",
+              "media_key": "13_2077285752824819712",
+              "start": 78,
+              "url": "https://t.co/ZDB8amUjGu"
+            },
+            {
+              "display_url": "pic.x.com/ZDB8amUjGu",
+              "end": 101,
+              "expanded_url": "https://x.com/bcq_mm/status/2077292134341001583/video/1",
+              "media_key": "13_2077285753399459840",
+              "start": 78,
+              "url": "https://t.co/ZDB8amUjGu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077292134341001583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 344,
+          "impression_count": 14514,
+          "like_count": 762,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "#Asuka789 #后藤一里 #波奇酱 #cos #孤独摇滚 #自慰 #白袜 #裸足 #磨桌角 #白虎 #性玩具 \n油管大盗会梦见看片看破防的傻福吗…… https://t.co/ZDB8amUjGu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量的人/一个偏恶俗的人 如被冒犯请接受我的下跪/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 318,
+          "like_count": 7593,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-15T07:52:28.000Z",
+        "description": "我不搬你们看什么？\n @Vtuber926 大号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Vtuber926"
+              }
+            ]
+          }
+        },
+        "id": "1801885374928850945",
+        "location": "神奈川",
+        "name": "マイクラ皓宸",
+        "pinned_tweet_id": "2073450987617218877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076911322554679296/dx5-13YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79059,
+          "following_count": 303,
+          "like_count": 119,
+          "listed_count": 154,
+          "media_count": 209,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "bcq_mm",
+        "verified": true
+      }
+    ]
+  }
+}

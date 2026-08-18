@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2079064707252785368",
+    "created_at": "2026-07-20T04:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079064707252785368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1913397698490957824",
+          "start": 3,
+          "username": "77rxmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079064707252785368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 394
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078455883999404208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @77rxmb: 我的面子……\n好想撒娇……我的面子\n好想主动……我的面子\n好想让他陪我……我的面子\n好想分享日常……我的面子\n好想和他打电话……我的面子\n好想问他想没想我……我的面子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2079064707252785368",
+        "created_at": "2026-07-20T04:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079064707252785368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1913397698490957824",
+              "start": 3,
+              "username": "77rxmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079064707252785368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 394
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078455883999404208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @77rxmb: 我的面子……\n好想撒娇……我的面子\n好想主动……我的面子\n好想让他陪我……我的面子\n好想分享日常……我的面子\n好想和他打电话……我的面子\n好想问他想没想我……我的面子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913397698490957824",
+        "conversation_id": "2078455883999404208",
+        "created_at": "2026-07-18T12:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078455883999404208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078455883999404208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 97700,
+          "like_count": 2654,
+          "quote_count": 39,
+          "reply_count": 245,
+          "retweet_count": 394
+        },
+        "reply_settings": "everyone",
+        "text": "我的面子……\n好想撒娇……我的面子\n好想主动……我的面子\n好想让他陪我……我的面子\n好想分享日常……我的面子\n好想和他打电话……我的面子\n好想问他想没想我……我的面子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@kaede_shigeru/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "kaede_shigeru"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者👽",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 333,
+          "like_count": 7993,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T01:02:23.000Z",
+        "description": "x",
+        "id": "1913397698490957824",
+        "location": "中国",
+        "name": "7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075225046457757696/fKg3IzQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2978,
+          "following_count": 2,
+          "like_count": 523,
+          "listed_count": 10,
+          "media_count": 25,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "77rxmb",
+        "verified": false
+      }
+    ]
+  }
+}

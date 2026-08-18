@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086447324364984320"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2086426612384563391",
+    "created_at": "2026-08-09T13:39:43.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T14:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086447333089145090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1527586768891125760",
+          "start": 0,
+          "username": "wangxizhiKYWYW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JI0FJ2EpiD",
+          "end": 42,
+          "expanded_url": "https://x.com/NMD_2012/status/2086447333089145090/photo/1",
+          "media_key": "3_2086447324364984320",
+          "start": 19,
+          "url": "https://t.co/JI0FJ2EpiD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086447333089145090",
+    "in_reply_to_user_id": "1527586768891125760",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086447324364984320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086445529207337091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangxizhiKYWYW 这个 https://t.co/JI0FJ2EpiD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2086447324364984320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSMyXtW0AAfCJL.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086447324364984320"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2086426612384563391",
+        "created_at": "2026-08-09T13:39:43.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086447333089145090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1527586768891125760",
+              "start": 0,
+              "username": "wangxizhiKYWYW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JI0FJ2EpiD",
+              "end": 42,
+              "expanded_url": "https://x.com/NMD_2012/status/2086447333089145090/photo/1",
+              "media_key": "3_2086447324364984320",
+              "start": 19,
+              "url": "https://t.co/JI0FJ2EpiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086447333089145090",
+        "in_reply_to_user_id": "1527586768891125760",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086447324364984320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086445529207337091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangxizhiKYWYW 这个 https://t.co/JI0FJ2EpiD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527586768891125760",
+        "conversation_id": "2086426612384563391",
+        "created_at": "2026-08-09T13:32:33.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086445529207337091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086445529207337091",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086426612384563391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 你是？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfuLbs"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2086447333089145090",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083794829868433408/Z_bwTbOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 346,
+          "like_count": 8618,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1200
+        },
+        "url": "https://t.co/wk9cNfuLbs",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-20T09:47:40.000Z",
+        "description": "半文盲|\n我是回民见不得这个|\n为梁启超乐园而奋斗|\n学无止境|\n啊哈哈哈，我不识字|\n@wangzhixi_1\n这能写东西啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "wangzhixi_1"
+              }
+            ]
+          }
+        },
+        "id": "1527586768891125760",
+        "is_identity_verified": false,
+        "location": "汉地",
+        "most_recent_tweet_id": "2086445529207337091",
+        "name": "怒尼威",
+        "pinned_tweet_id": "2085043755539960025",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527586768891125760/1770030558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010168349041537025/dgUXtGIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 1117,
+          "like_count": 51924,
+          "listed_count": 5,
+          "media_count": 3949,
+          "tweet_count": 16221
+        },
+        "url": "",
+        "username": "wangxizhiKYWYW",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

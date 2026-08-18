@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077752783076536320"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2077679599237116188",
+    "created_at": "2026-07-16T13:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077752786733977935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        },
+        {
+          "end": 20,
+          "id": "1512456859776851972",
+          "start": 10,
+          "username": "wanliyan3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EWStpa2HV7",
+          "end": 76,
+          "expanded_url": "https://x.com/NMD_2012/status/2077752786733977935/photo/1",
+          "media_key": "3_2077752783076536320",
+          "start": 53,
+          "url": "https://t.co/EWStpa2HV7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077752786733977935",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077679599237116188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza @wanliyan3 在一堆被ban的里边来了个互fo突兀的就像给三国杀刷了好评一般 https://t.co/EWStpa2HV7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_2077752783076536320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWpJdZbMAAd8CS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077752783076536320"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2077679599237116188",
+        "created_at": "2026-07-16T13:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077752786733977935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            },
+            {
+              "end": 20,
+              "id": "1512456859776851972",
+              "start": 10,
+              "username": "wanliyan3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWStpa2HV7",
+              "end": 76,
+              "expanded_url": "https://x.com/NMD_2012/status/2077752786733977935/photo/1",
+              "media_key": "3_2077752783076536320",
+              "start": 53,
+              "url": "https://t.co/EWStpa2HV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077752786733977935",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077679599237116188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza @wanliyan3 在一堆被ban的里边来了个互fo突兀的就像给三国杀刷了好评一般 https://t.co/EWStpa2HV7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008360423771316224",
+        "conversation_id": "2077679599237116188",
+        "created_at": "2026-07-16T08:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077679599237116188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1512456859776851972",
+              "start": 8,
+              "username": "wanliyan3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/konizaza/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/konizaza/status/2077679158533161424",
+              "start": 29,
+              "url": "https://t.co/fry8fl5TCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077679599237116188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 543,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077679158533161424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😡什么时候才能被@wanliyan3 \n拿铁酱ban啊喵 https://t.co/fry8fl5TCq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者👽",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 324,
+          "like_count": 7756,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1059
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜MTF断糖｜生产日期：08年九月|喜欢喵喵叫｜也喜欢大家｜\n｜小号@konizazadesu免得找不到请灌注一下喵～｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbfdds"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2077747008375496881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 1300,
+          "like_count": 4575,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2265
+        },
+        "url": "https://t.co/UxxyJbfdds",
+        "username": "Konizaza",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-08T15:48:30.000Z",
+        "description": "高雄",
+        "id": "1512456859776851972",
+        "location": "台灣",
+        "name": "拿鐵🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076147002933682176/1bne3Qfm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 263,
+          "like_count": 923,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 737
+        },
+        "url": "",
+        "username": "wanliyan3",
+        "verified": false
+      }
+    ]
+  }
+}

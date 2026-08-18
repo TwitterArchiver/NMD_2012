@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083591402773262336",
+        "3_2083591402806804480",
+        "3_2083591402777366528"
+      ],
+      "media_source_tweet_id": [
+        "2083591416538915130",
+        "2083591416538915130",
+        "2083591416538915130"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083921870404087835",
+    "created_at": "2026-08-02T14:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083921870404087835"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 28,
+          "tag": "互fo寻回"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2065814331250651136",
+          "start": 3,
+          "username": "LienhwaSuCNM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jCJxEUGdAF",
+          "end": 58,
+          "expanded_url": "https://x.com/LienhwaSuCNM/status/2083591416538915130/photo/1",
+          "media_key": "3_2083591402773262336",
+          "start": 35,
+          "url": "https://t.co/jCJxEUGdAF"
+        },
+        {
+          "display_url": "pic.x.com/jCJxEUGdAF",
+          "end": 58,
+          "expanded_url": "https://x.com/LienhwaSuCNM/status/2083591416538915130/photo/1",
+          "media_key": "3_2083591402806804480",
+          "start": 35,
+          "url": "https://t.co/jCJxEUGdAF"
+        },
+        {
+          "display_url": "pic.x.com/jCJxEUGdAF",
+          "end": 58,
+          "expanded_url": "https://x.com/LienhwaSuCNM/status/2083591416538915130/photo/1",
+          "media_key": "3_2083591402777366528",
+          "start": 35,
+          "url": "https://t.co/jCJxEUGdAF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083921870404087835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083591416538915130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LienhwaSuCNM: 快来和窝互fo呀🥰 #互fo寻回 https://t.co/jCJxEUGdAF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083591402773262336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpnV2tbsAAQxtz.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083591402806804480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpnV21bgAAXgUS.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083591402777366528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpnV2uaUAAn5wh.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083591402773262336",
+            "3_2083591402806804480",
+            "3_2083591402777366528"
+          ]
+        },
+        "author_id": "2065814331250651136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083591416538915130",
+        "created_at": "2026-08-01T16:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083591416538915130"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "互fo寻回"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCJxEUGdAF",
+              "end": 40,
+              "expanded_url": "https://x.com/LienhwaSuCNM/status/2083591416538915130/photo/1",
+              "media_key": "3_2083591402773262336",
+              "start": 17,
+              "url": "https://t.co/jCJxEUGdAF"
+            },
+            {
+              "display_url": "pic.x.com/jCJxEUGdAF",
+              "end": 40,
+              "expanded_url": "https://x.com/LienhwaSuCNM/status/2083591416538915130/photo/1",
+              "media_key": "3_2083591402806804480",
+              "start": 17,
+              "url": "https://t.co/jCJxEUGdAF"
+            },
+            {
+              "display_url": "pic.x.com/jCJxEUGdAF",
+              "end": 40,
+              "expanded_url": "https://x.com/LienhwaSuCNM/status/2083591416538915130/photo/1",
+              "media_key": "3_2083591402777366528",
+              "start": 17,
+              "url": "https://t.co/jCJxEUGdAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083591416538915130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "快来和窝互fo呀🥰 #互fo寻回 https://t.co/jCJxEUGdAF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083591402773262336",
+            "3_2083591402806804480",
+            "3_2083591402777366528"
+          ],
+          "media_source_tweet_id": [
+            "2083591416538915130",
+            "2083591416538915130",
+            "2083591416538915130"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083921870404087835",
+        "created_at": "2026-08-02T14:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083921870404087835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "互fo寻回"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2065814331250651136",
+              "start": 3,
+              "username": "LienhwaSuCNM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCJxEUGdAF",
+              "end": 58,
+              "expanded_url": "https://x.com/LienhwaSuCNM/status/2083591416538915130/photo/1",
+              "media_key": "3_2083591402773262336",
+              "start": 35,
+              "url": "https://t.co/jCJxEUGdAF"
+            },
+            {
+              "display_url": "pic.x.com/jCJxEUGdAF",
+              "end": 58,
+              "expanded_url": "https://x.com/LienhwaSuCNM/status/2083591416538915130/photo/1",
+              "media_key": "3_2083591402806804480",
+              "start": 35,
+              "url": "https://t.co/jCJxEUGdAF"
+            },
+            {
+              "display_url": "pic.x.com/jCJxEUGdAF",
+              "end": 58,
+              "expanded_url": "https://x.com/LienhwaSuCNM/status/2083591416538915130/photo/1",
+              "media_key": "3_2083591402777366528",
+              "start": 35,
+              "url": "https://t.co/jCJxEUGdAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083921870404087835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083591416538915130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LienhwaSuCNM: 快来和窝互fo呀🥰 #互fo寻回 https://t.co/jCJxEUGdAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@kaede_shigeru/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "kaede_shigeru"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083794829868433408/Z_bwTbOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 340,
+          "like_count": 8498,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T15:12:55.000Z",
+        "description": "是東洋蓮花酥 @RenChan_VmV @RenChanT_T 个人键政号\n可能会发表一些暴论以及恶俗无底线内容致歉🙏\n前面忘了中间忘了 总之为了世间的大爱努力奋斗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "RenChan_VmV"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "RenChanT_T"
+              }
+            ]
+          }
+        },
+        "id": "2065814331250651136",
+        "location": "千禧年经济上行期的中国🇨🇳",
+        "name": "東洋蓮花酥🇫🇷🇩🇪🇪🇺🌹🚩",
+        "pinned_tweet_id": "2083591416538915130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083589758660620288/esgNBDJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 206,
+          "like_count": 2018,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "LienhwaSuCNM",
+        "verified": false
+      }
+    ]
+  }
+}

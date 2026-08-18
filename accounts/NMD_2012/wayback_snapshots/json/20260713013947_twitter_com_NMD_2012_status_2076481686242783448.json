@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076481683193470977"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2076318477640749176",
+    "created_at": "2026-07-13T01:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T02:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076481686242783448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1994060768099356676",
+          "start": 0,
+          "username": "pingqimuo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ALhhji79Ge",
+          "end": 34,
+          "expanded_url": "https://x.com/NMD_2012/status/2076481686242783448/photo/1",
+          "media_key": "3_2076481683193470977",
+          "start": 11,
+          "url": "https://t.co/ALhhji79Ge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076481686242783448",
+    "in_reply_to_user_id": "1994060768099356676",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076470821502193672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingqimuo https://t.co/ALhhji79Ge"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1107,
+        "media_key": "3_2076481683193470977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNElFtVaIAExya0.jpg",
+        "width": 1063
+      },
+      {
+        "height": 964,
+        "media_key": "3_2076470814418120704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEbND_bsAAjk5A.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076481683193470977"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2076318477640749176",
+        "created_at": "2026-07-13T01:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076481686242783448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1994060768099356676",
+              "start": 0,
+              "username": "pingqimuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ALhhji79Ge",
+              "end": 34,
+              "expanded_url": "https://x.com/NMD_2012/status/2076481686242783448/photo/1",
+              "media_key": "3_2076481683193470977",
+              "start": 11,
+              "url": "https://t.co/ALhhji79Ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076481686242783448",
+        "in_reply_to_user_id": "1994060768099356676",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076470821502193672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingqimuo https://t.co/ALhhji79Ge"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076470814418120704"
+          ]
+        },
+        "author_id": "1994060768099356676",
+        "conversation_id": "2076318477640749176",
+        "created_at": "2026-07-13T00:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076470821502193672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LF3pKiJafl",
+              "end": 59,
+              "expanded_url": "https://x.com/pingqimuo/status/2076470821502193672/photo/1",
+              "media_key": "3_2076470814418120704",
+              "start": 36,
+              "url": "https://t.co/LF3pKiJafl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076470821502193672",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076318477640749176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 嘿嘿嘿嘿嘿~\nhiahia hiahia hia~ https://t.co/LF3pKiJafl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量的人/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1s6r2"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 296,
+          "like_count": 7138,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/jp6nx1s6r2",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-27T15:09:06.000Z",
+        "description": "hi 我是秋秋/快18了\n最喜欢@ilmart_\n请我吃饭喵\nhttps://t.co/wRiyjCBNTJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "ilmart_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ifdian.net/a/rumi-ai",
+                "end": 54,
+                "expanded_url": "https://ifdian.net/a/rumi-ai",
+                "start": 31,
+                "url": "https://t.co/wRiyjCBNTJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "callmiruko.cc",
+                "end": 23,
+                "expanded_url": "http://callmiruko.cc",
+                "start": 0,
+                "url": "https://t.co/EbDFfqzxkF"
+              }
+            ]
+          }
+        },
+        "id": "1994060768099356676",
+        "location": "苏州姑苏区",
+        "name": "秋🏳️‍⚧️(轻生版)",
+        "pinned_tweet_id": "2061256919910908272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069598933622673408/rRVHuYm9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 27,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/EbDFfqzxkF",
+        "username": "pingqimuo",
+        "verified": false
+      }
+    ]
+  }
+}

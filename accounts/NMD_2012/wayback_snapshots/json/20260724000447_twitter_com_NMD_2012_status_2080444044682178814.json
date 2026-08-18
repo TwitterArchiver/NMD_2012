@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080325265453203456"
+      ],
+      "media_source_tweet_id": [
+        "2080325280690995674"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2080444044682178814",
+    "created_at": "2026-07-24T00:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080444044682178814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964335711521558531",
+          "start": 3,
+          "username": "bbkk23333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fLA4mh1eSy",
+          "end": 80,
+          "expanded_url": "https://x.com/bbkk23333/status/2080325280690995674/photo/1",
+          "media_key": "3_2080325265453203456",
+          "start": 57,
+          "url": "https://t.co/fLA4mh1eSy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080444044682178814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080325280690995674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbkk23333: 要是我能变成一个帽子就好了\n现在互联网上都这么喜欢扣帽子\n那我要是帽子不得爽死…… https://t.co/fLA4mh1eSy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2080325265453203456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7MzpCbwAAJ4BV.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080325265453203456"
+          ]
+        },
+        "author_id": "1964335711521558531",
+        "conversation_id": "2080325280690995674",
+        "created_at": "2026-07-23T16:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080325280690995674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLA4mh1eSy",
+              "end": 65,
+              "expanded_url": "https://x.com/bbkk23333/status/2080325280690995674/photo/1",
+              "media_key": "3_2080325265453203456",
+              "start": 42,
+              "url": "https://t.co/fLA4mh1eSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080325280690995674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "要是我能变成一个帽子就好了\n现在互联网上都这么喜欢扣帽子\n那我要是帽子不得爽死…… https://t.co/fLA4mh1eSy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080325265453203456"
+          ],
+          "media_source_tweet_id": [
+            "2080325280690995674"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2080444044682178814",
+        "created_at": "2026-07-24T00:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080444044682178814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964335711521558531",
+              "start": 3,
+              "username": "bbkk23333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLA4mh1eSy",
+              "end": 80,
+              "expanded_url": "https://x.com/bbkk23333/status/2080325280690995674/photo/1",
+              "media_key": "3_2080325265453203456",
+              "start": 57,
+              "url": "https://t.co/fLA4mh1eSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080444044682178814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080325280690995674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbkk23333: 要是我能变成一个帽子就好了\n现在互联网上都这么喜欢扣帽子\n那我要是帽子不得爽死…… https://t.co/fLA4mh1eSy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@kaede_shigeru/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "kaede_shigeru"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者👽(anti miniworld 反迷你",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 340,
+          "like_count": 8352,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小吋低强度刷推\n≽^ ⦁ ⩊ ⦁ ^≼",
+        "id": "1964335711521558531",
+        "location": "垃圾桶旁边的纸箱",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 427,
+          "like_count": 4957,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 2380
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true
+      }
+    ]
+  }
+}

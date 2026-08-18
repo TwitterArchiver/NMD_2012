@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2077351372899623043",
+    "created_at": "2026-07-15T11:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077358674218267003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491368400924422149",
+          "start": 0,
+          "username": "Taffydaisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077358674218267003",
+    "in_reply_to_user_id": "1491368400924422149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077351372899623043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taffydaisuki 这无疑美味的🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077351365106647040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ8D27awAApBgS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2077351372899623043",
+        "created_at": "2026-07-15T11:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077358674218267003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491368400924422149",
+              "start": 0,
+              "username": "Taffydaisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077358674218267003",
+        "in_reply_to_user_id": "1491368400924422149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077351372899623043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taffydaisuki 这无疑美味的🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077351365106647040"
+          ]
+        },
+        "author_id": "1491368400924422149",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077351372899623043",
+        "created_at": "2026-07-15T11:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077351372899623043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t78cQGSiLg",
+              "end": 35,
+              "expanded_url": "https://x.com/Taffydaisuki/status/2077351372899623043/photo/1",
+              "media_key": "3_2077351365106647040",
+              "start": 12,
+              "url": "https://t.co/t78cQGSiLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077351372899623043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三文魚和火雞面冰紅茶🥵 https://t.co/t78cQGSiLg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量的人/一个偏恶俗的人 如被冒犯请接受我的下跪/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 318,
+          "like_count": 7612,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1040
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-09T11:08:43.000Z",
+        "description": "精神故鄉加拿大，夢想是去南極旅遊/ㄆㄥˊㄧㄡˇ@bakajinping @ln_fbsq @DOUDEMOII_y92z0 @lyb1007 /希望親友都能幸福/boymoder everyday🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "bakajinping"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "ln_fbsq"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "DOUDEMOII_y92z0"
+              },
+              {
+                "end": 70,
+                "start": 62,
+                "username": "lyb1007"
+              }
+            ]
+          }
+        },
+        "id": "1491368400924422149",
+        "location": "台灣精神病收容所",
+        "name": "🍫空酱🍥",
+        "pinned_tweet_id": "2068595415705170165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017274336684720128/_d6AXlEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 609,
+          "like_count": 26688,
+          "listed_count": 1,
+          "media_count": 891,
+          "tweet_count": 6459
+        },
+        "url": "",
+        "username": "Taffydaisuki",
+        "verified": false
+      }
+    ]
+  }
+}
