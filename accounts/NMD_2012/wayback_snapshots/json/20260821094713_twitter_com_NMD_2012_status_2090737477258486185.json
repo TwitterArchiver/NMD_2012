@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2090614929623843325",
+    "created_at": "2026-08-21T09:47:13.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090737477258486185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1734906028087721984",
+          "start": 0,
+          "username": "shantianliang08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090737477258486185",
+    "in_reply_to_user_id": "1734906028087721984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090614929623843325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shantianliang08 发猎奇视频的代价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2090614929623843325",
+        "created_at": "2026-08-21T09:47:13.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090737477258486185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1734906028087721984",
+              "start": 0,
+              "username": "shantianliang08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090737477258486185",
+        "in_reply_to_user_id": "1734906028087721984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090614929623843325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shantianliang08 发猎奇视频的代价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734906028087721984",
+        "conversation_id": "2090614929623843325",
+        "created_at": "2026-08-21T01:40:15.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090614929623843325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090614929623843325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 812,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这个新猎奇视频引来一堆外国的ltp\n真给我恶心坏了🤮"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2090737477258486185",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 361,
+          "like_count": 9143,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1316
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-13T12:00:15.000Z",
+        "description": "/无政治立场/喜欢日常📷/友🏳️‍🌈🏳️‍⚧️/E社玩家/少女乐队/互fo\n好朋友：@heweidaootto @NMD_2012 @yeliqin8964\n请勿在我帖子下发表 关于政治言论\n优先群体：08同龄人\n前身：山田凉official @shantian1944\nsteam好友代码：1527038776",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "heweidaootto"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "NMD_2012"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "yeliqin8964"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "shantian1944"
+              }
+            ]
+          }
+        },
+        "id": "1734906028087721984",
+        "is_identity_verified": false,
+        "location": "hello pig god",
+        "most_recent_tweet_id": "2090614929623843325",
+        "name": "新汕田凉official",
+        "pinned_tweet_id": "2088907953328025635",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734906028087721984/1780739339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063140065166168064/mBj5IakM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 326,
+          "like_count": 2060,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "shantianliang08",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

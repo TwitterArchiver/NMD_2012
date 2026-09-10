@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088728353301843968"
+      ],
+      "media_source_tweet_id": [
+        "2088728359349960729"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2088829968260428192",
+    "created_at": "2026-08-16T03:27:27.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088829968260428192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1837801797299093505",
+          "start": 3,
+          "username": "nursewtchkomugi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lvi2kf47WS",
+          "end": 44,
+          "expanded_url": "https://x.com/nursewtchkomugi/status/2088728359349960729/photo/1",
+          "media_key": "3_2088728353301843968",
+          "start": 21,
+          "url": "https://t.co/lvi2kf47WS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088829968260428192",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088728353301843968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 205
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088728359349960729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nursewtchkomugi: https://t.co/lvi2kf47WS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2088728353301843968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPynXurX0AATyP3.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088728353301843968"
+          ],
+          "media_source_tweet_id": [
+            "2088728359349960729"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2088829968260428192",
+        "created_at": "2026-08-16T03:27:27.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088829968260428192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1837801797299093505",
+              "start": 3,
+              "username": "nursewtchkomugi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvi2kf47WS",
+              "end": 44,
+              "expanded_url": "https://x.com/nursewtchkomugi/status/2088728359349960729/photo/1",
+              "media_key": "3_2088728353301843968",
+              "start": 21,
+              "url": "https://t.co/lvi2kf47WS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088829968260428192",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088728353301843968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 205
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088728359349960729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nursewtchkomugi: https://t.co/lvi2kf47WS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088728353301843968"
+          ]
+        },
+        "author_id": "1837801797299093505",
+        "conversation_id": "2088728359349960729",
+        "created_at": "2026-08-15T20:43:42.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T21:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088728359349960729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvi2kf47WS",
+              "end": 23,
+              "expanded_url": "https://x.com/nursewtchkomugi/status/2088728359349960729/photo/1",
+              "media_key": "3_2088728353301843968",
+              "start": 0,
+              "url": "https://t.co/lvi2kf47WS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088728359349960729",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088728353301843968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 13847,
+          "like_count": 2033,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 205
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lvi2kf47WS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfuLbs"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2088829968260428192",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 353,
+          "like_count": 8940,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/wk9cNfuLbs",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-22T10:31:15.000Z",
+        "description": "main @lovelyteks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "lovelyteks"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "loveryteks.straw.page",
+                "end": 23,
+                "expanded_url": "https://loveryteks.straw.page",
+                "start": 0,
+                "url": "https://t.co/BpFpYaOYCL"
+              }
+            ]
+          }
+        },
+        "id": "1837801797299093505",
+        "is_identity_verified": false,
+        "location": "❤️‍🔥 🎹✨ 🏴‍☠️ 🍀🐰",
+        "most_recent_tweet_id": "2088729331233067048",
+        "name": "Alicia",
+        "pinned_tweet_id": "1972293715256615177",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837801797299093505/1766009790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084790418097520641/OlDf_oxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 166,
+          "like_count": 4248,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 1594
+        },
+        "url": "https://t.co/BpFpYaOYCL",
+        "username": "nursewtchkomugi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

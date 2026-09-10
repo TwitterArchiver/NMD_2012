@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092206717698179072"
+      ],
+      "media_source_tweet_id": [
+        "2092206748761252065"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "conversation_id": "2092550083032072584",
+    "created_at": "2026-08-26T09:49:52.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092550083032072584"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829337247675731968",
+          "start": 3,
+          "username": "iff_0517"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i2uCjOfWOm",
+          "end": 43,
+          "expanded_url": "https://x.com/iff_0517/status/2092206748761252065/photo/1",
+          "media_key": "3_2092206717698179072",
+          "start": 20,
+          "url": "https://t.co/i2uCjOfWOm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092550083032072584",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2092206717698179072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 434
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092206748761252065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iff_0517: #MyGO https://t.co/i2uCjOfWOm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2092206717698179072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkC7L0WAAAlmNR.jpg",
+        "width": 804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092206717698179072"
+          ],
+          "media_source_tweet_id": [
+            "2092206748761252065"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "conversation_id": "2092550083032072584",
+        "created_at": "2026-08-26T09:49:52.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092550083032072584"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829337247675731968",
+              "start": 3,
+              "username": "iff_0517"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2uCjOfWOm",
+              "end": 43,
+              "expanded_url": "https://x.com/iff_0517/status/2092206748761252065/photo/1",
+              "media_key": "3_2092206717698179072",
+              "start": 20,
+              "url": "https://t.co/i2uCjOfWOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092550083032072584",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092206717698179072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 434
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092206748761252065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iff_0517: #MyGO https://t.co/i2uCjOfWOm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092206717698179072"
+          ]
+        },
+        "author_id": "1829337247675731968",
+        "conversation_id": "2092206748761252065",
+        "created_at": "2026-08-25T11:05:34.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092206748761252065"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2uCjOfWOm",
+              "end": 29,
+              "expanded_url": "https://x.com/iff_0517/status/2092206748761252065/photo/1",
+              "media_key": "3_2092206717698179072",
+              "start": 6,
+              "url": "https://t.co/i2uCjOfWOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092206748761252065",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092206717698179072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 27990,
+          "like_count": 2782,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 434
+        },
+        "reply_settings": "everyone",
+        "text": "#MyGO https://t.co/i2uCjOfWOm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2092550083032072584",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 372,
+          "like_count": 9352,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T01:56:39.000Z",
+        "description": "低浮上",
+        "id": "1829337247675731968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092206748761252065",
+        "name": "bzdbqcbzy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829337247675731968/1787733490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092531706418876416/FSf46yPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 62,
+          "like_count": 355,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "iff_0517",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

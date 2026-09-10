@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2092650771020194029",
+    "created_at": "2026-08-27T00:46:11.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T01:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092775650402730375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2092313756659486720",
+          "start": 0,
+          "username": "jksjqzjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092775650402730375",
+    "in_reply_to_user_id": "2092313756659486720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092650771020194029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jksjqzjq 我恨有钱人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_2092650744751292416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqWw9fbgAAScCx.jpg",
+        "width": 2772
+      },
+      {
+        "height": 1182,
+        "media_key": "3_2092650753089585152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqWxcjbwAAgbi8.jpg",
+        "width": 2772
+      },
+      {
+        "height": 1204,
+        "media_key": "3_2092650761633382401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqWx8YbwAEolvi.jpg",
+        "width": 2768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2092650771020194029",
+        "created_at": "2026-08-27T00:46:11.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092775650402730375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2092313756659486720",
+              "start": 0,
+              "username": "jksjqzjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092775650402730375",
+        "in_reply_to_user_id": "2092313756659486720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092650771020194029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jksjqzjq 我恨有钱人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092650744751292416",
+            "3_2092650753089585152",
+            "3_2092650761633382401"
+          ]
+        },
+        "author_id": "2092313756659486720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092650771020194029",
+        "created_at": "2026-08-26T16:29:58.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092650771020194029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0nxsepO36E",
+              "end": 37,
+              "expanded_url": "https://x.com/jksjqzjq/status/2092650771020194029/photo/1",
+              "media_key": "3_2092650744751292416",
+              "start": 14,
+              "url": "https://t.co/0nxsepO36E"
+            },
+            {
+              "display_url": "pic.x.com/0nxsepO36E",
+              "end": 37,
+              "expanded_url": "https://x.com/jksjqzjq/status/2092650771020194029/photo/1",
+              "media_key": "3_2092650753089585152",
+              "start": 14,
+              "url": "https://t.co/0nxsepO36E"
+            },
+            {
+              "display_url": "pic.x.com/0nxsepO36E",
+              "end": 37,
+              "expanded_url": "https://x.com/jksjqzjq/status/2092650771020194029/photo/1",
+              "media_key": "3_2092650761633382401",
+              "start": 14,
+              "url": "https://t.co/0nxsepO36E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092650771020194029",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092650744751292416"
+          },
+          {
+            "media_key": "3_2092650753089585152"
+          },
+          {
+            "media_key": "3_2092650761633382401"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有钱全去点单了，真的好爽啊 https://t.co/0nxsepO36E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2092775650402730375",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 373,
+          "like_count": 9501,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1383
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T18:11:38.000Z",
+        "description": "",
+        "id": "2092313756659486720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092674925861675024",
+        "name": "jks",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092314760222310400/40gwfi8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 93,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "jksjqzjq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

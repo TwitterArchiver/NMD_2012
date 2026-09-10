@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2080679025656447207",
+    "created_at": "2026-07-25T08:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080932671388303454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044413022047784960",
+          "start": 0,
+          "username": "Izayoisakugawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080932671388303454",
+    "in_reply_to_user_id": "2044413022047784960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080916014875979984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Izayoisakugawa 网页也烂，在这之前推特不是能使用beta版吗(也就是现在的新版)，我就觉得那不就是跟网页版一样吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2080679025656447207",
+        "created_at": "2026-07-25T08:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080932671388303454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044413022047784960",
+              "start": 0,
+              "username": "Izayoisakugawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080932671388303454",
+        "in_reply_to_user_id": "2044413022047784960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080916014875979984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Izayoisakugawa 网页也烂，在这之前推特不是能使用beta版吗(也就是现在的新版)，我就觉得那不就是跟网页版一样吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044413022047784960",
+        "conversation_id": "2080679025656447207",
+        "created_at": "2026-07-25T07:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080916014875979984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080916014875979984",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080679025656447207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 用網頁不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@kaede_shigeru/杯子@CNM_1958",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "kaede_shigeru"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "CNM_1958"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者👽(anti miniworld 反迷你",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 340,
+          "like_count": 8436,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1141
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-15T13:51:17.000Z",
+        "description": "",
+        "id": "2044413022047784960",
+        "name": "izayoi_sakugawa258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044413732286349312/L3K0T_m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "Izayoisakugawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2092190647772229785",
+    "created_at": "2026-08-25T12:28:34.000Z",
+    "display_text_range": [
+      11,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092227635061641355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2020106057658646528",
+          "start": 0,
+          "username": "null_dkkz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092227635061641355",
+    "in_reply_to_user_id": "2020106057658646528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092224381376479246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@null_dkkz 哦齁齁齁你主页都是我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2092190647772229785",
+        "created_at": "2026-08-25T12:28:34.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092227635061641355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2020106057658646528",
+              "start": 0,
+              "username": "null_dkkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092227635061641355",
+        "in_reply_to_user_id": "2020106057658646528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092224381376479246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@null_dkkz 哦齁齁齁你主页都是我吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020106057658646528",
+        "conversation_id": "2092190647772229785",
+        "created_at": "2026-08-25T12:15:38.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092224381376479246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092224381376479246",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092190647772229785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 满足你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2092227635061641355",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 372,
+          "like_count": 9281,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1339
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T12:03:29.000Z",
+        "description": "可是我不停的掉眼泪，生命依旧，误会依旧，遗憾依旧，我依旧。眼泪依旧没有用。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/null_dkkz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/null_dkkz",
+                "start": 0,
+                "url": "https://t.co/UXJREwMHOI"
+              }
+            ]
+          }
+        },
+        "id": "2020106057658646528",
+        "is_identity_verified": false,
+        "location": "看到已读不回的消息 我也无话可说",
+        "most_recent_tweet_id": "2092224408849203369",
+        "name": "Cokii_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020106057658646528/1786083354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091808940430647296/yJH_eCl8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 481,
+          "like_count": 21117,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 893
+        },
+        "url": "https://t.co/UXJREwMHOI",
+        "username": "null_dkkz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2090641175359389744",
+    "created_at": "2026-08-21T03:24:33.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090641175359389744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845491203124441093",
+          "start": 3,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090641175359389744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090632862928449627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yu_huacs: 喜欢冬雪莲的都是可爱的孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2090641175359389744",
+        "created_at": "2026-08-21T03:24:33.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090641175359389744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845491203124441093",
+              "start": 3,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090641175359389744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090632862928449627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yu_huacs: 喜欢冬雪莲的都是可爱的孩子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845491203124441093",
+        "conversation_id": "2090632862928449627",
+        "created_at": "2026-08-21T02:51:31.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090632862928449627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yosameko/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Yosameko/status/2090492184495886787",
+              "start": 14,
+              "url": "https://t.co/f9RusO2pXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090632862928449627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090492184495886787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢冬雪莲的都是可爱的孩子 https://t.co/f9RusO2pXv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2090641175359389744",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 361,
+          "like_count": 9113,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "双相/准备复学中 成分复杂 ＃overdose！\nshanghai路上随机刷新的男婊子公路车技师\n热衷于公路车/宅系/男娘/少有cos内容 一个公路车技师 二次元/cosplay/摄影/割手/od\n喜欢的人@8964yekatinez    哥哥@silentbleeding1     里账 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 14,
+                "tag": "overdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "8964yekatinez"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090633173105520651",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2079482546564526504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845491203124441093/1774367382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070906717412470784/YDT3T7qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 1605,
+          "like_count": 127640,
+          "listed_count": 8,
+          "media_count": 2193,
+          "tweet_count": 20924
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

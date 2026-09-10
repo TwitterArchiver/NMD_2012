@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093354802432589824",
+        "3_2093354819805413377",
+        "3_2093354839044673536",
+        "3_2093354857172492288"
+      ]
+    },
+    "author_id": "2053009418871357440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093354871399579951",
+    "created_at": "2026-08-28T15:07:48.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T16:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093354871399579951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oG0djkkhqM",
+          "end": 53,
+          "expanded_url": "https://x.com/NMD_2012/status/2093354871399579951/photo/1",
+          "media_key": "3_2093354802432589824",
+          "start": 30,
+          "url": "https://t.co/oG0djkkhqM"
+        },
+        {
+          "display_url": "pic.x.com/oG0djkkhqM",
+          "end": 53,
+          "expanded_url": "https://x.com/NMD_2012/status/2093354871399579951/photo/1",
+          "media_key": "3_2093354819805413377",
+          "start": 30,
+          "url": "https://t.co/oG0djkkhqM"
+        },
+        {
+          "display_url": "pic.x.com/oG0djkkhqM",
+          "end": 53,
+          "expanded_url": "https://x.com/NMD_2012/status/2093354871399579951/photo/1",
+          "media_key": "3_2093354839044673536",
+          "start": 30,
+          "url": "https://t.co/oG0djkkhqM"
+        },
+        {
+          "display_url": "pic.x.com/oG0djkkhqM",
+          "end": 53,
+          "expanded_url": "https://x.com/NMD_2012/status/2093354871399579951/photo/1",
+          "media_key": "3_2093354857172492288",
+          "start": 30,
+          "url": "https://t.co/oG0djkkhqM"
+        },
+        {
+          "display_url": "x.com/NMD_2012/statu…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/NMD_2012/status/2093000693061677376",
+          "start": 54,
+          "url": "https://t.co/MewNtSnfni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093354871399579951",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093354802432589824"
+      },
+      {
+        "media_key": "3_2093354819805413377"
+      },
+      {
+        "media_key": "3_2093354839044673536"
+      },
+      {
+        "media_key": "3_2093354857172492288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093000693061677376",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨天吃的蛋炒饭\n水\n这个人推号怎么是空白的呀(恼)\n何意味 https://t.co/oG0djkkhqM https://t.co/MewNtSnfni"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1238,
+        "media_key": "3_2093354802432589824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0XGgvaQAA1F6f.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1166,
+        "media_key": "3_2093354819805413377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0XHhdagAE98uw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1340,
+        "media_key": "3_2093354839044673536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0XIpIaUAAEUpK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1181,
+        "media_key": "3_2093354857172492288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0XJsqa4AAB-16.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093354802432589824",
+            "3_2093354819805413377",
+            "3_2093354839044673536",
+            "3_2093354857172492288"
+          ]
+        },
+        "author_id": "2053009418871357440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093354871399579951",
+        "created_at": "2026-08-28T15:07:48.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093354871399579951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oG0djkkhqM",
+              "end": 53,
+              "expanded_url": "https://x.com/NMD_2012/status/2093354871399579951/photo/1",
+              "media_key": "3_2093354802432589824",
+              "start": 30,
+              "url": "https://t.co/oG0djkkhqM"
+            },
+            {
+              "display_url": "pic.x.com/oG0djkkhqM",
+              "end": 53,
+              "expanded_url": "https://x.com/NMD_2012/status/2093354871399579951/photo/1",
+              "media_key": "3_2093354819805413377",
+              "start": 30,
+              "url": "https://t.co/oG0djkkhqM"
+            },
+            {
+              "display_url": "pic.x.com/oG0djkkhqM",
+              "end": 53,
+              "expanded_url": "https://x.com/NMD_2012/status/2093354871399579951/photo/1",
+              "media_key": "3_2093354839044673536",
+              "start": 30,
+              "url": "https://t.co/oG0djkkhqM"
+            },
+            {
+              "display_url": "pic.x.com/oG0djkkhqM",
+              "end": 53,
+              "expanded_url": "https://x.com/NMD_2012/status/2093354871399579951/photo/1",
+              "media_key": "3_2093354857172492288",
+              "start": 30,
+              "url": "https://t.co/oG0djkkhqM"
+            },
+            {
+              "display_url": "x.com/NMD_2012/statu…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/NMD_2012/status/2093000693061677376",
+              "start": 54,
+              "url": "https://t.co/MewNtSnfni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093354871399579951",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093354802432589824"
+          },
+          {
+            "media_key": "3_2093354819805413377"
+          },
+          {
+            "media_key": "3_2093354839044673536"
+          },
+          {
+            "media_key": "3_2093354857172492288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093000693061677376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天吃的蛋炒饭\n水\n这个人推号怎么是空白的呀(恼)\n何意味 https://t.co/oG0djkkhqM https://t.co/MewNtSnfni"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2093000693061677376",
+        "created_at": "2026-08-27T15:40:25.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093000693061677376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/sxc2581",
+              "end": 37,
+              "expanded_url": "https://ngl.link/sxc2581",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2093000750519521280/NEpU_D2R?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2093000750519521280/NEpU_D2R?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "@sxc258: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/sxc2581",
+              "url": "https://t.co/l0UDslmDIa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093000693061677376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天没人鸟我，\n今天在发一遍https://t.co/l0UDslmDIa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2093354871399579951",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 381,
+          "like_count": 9640,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1421
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

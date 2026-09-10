@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2092547884440748522",
+    "created_at": "2026-08-26T13:43:00.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092608753098989750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2086758627394932736",
+          "start": 0,
+          "username": "lilcolur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092608753098989750",
+    "in_reply_to_user_id": "2086758627394932736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092608580017127835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilcolur 我只不过听蛋堡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2092547884440748522",
+        "created_at": "2026-08-26T13:43:00.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092608753098989750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2086758627394932736",
+              "start": 0,
+              "username": "lilcolur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092608753098989750",
+        "in_reply_to_user_id": "2086758627394932736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092608580017127835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilcolur 我只不过听蛋堡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086758627394932736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2092547884440748522",
+        "created_at": "2026-08-26T13:42:18.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092608580017127835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092608580017127835",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092547884440748522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 bro难道也是个rapper？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2092608753098989750",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 373,
+          "like_count": 9407,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T10:17:44.000Z",
+        "description": "Young motherf**king chiga from the east coast",
+        "id": "2086758627394932736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092608580017127835",
+        "name": "@lpha¢olur",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086758627394932736/1786357331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086759880799776768/dnGTxA4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 27,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "lilcolur",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

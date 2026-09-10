@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2092978221155537025",
+    "created_at": "2026-08-27T14:11:08.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092978221155537025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2092310725629005824",
+          "start": 3,
+          "username": "UiamuQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092978221155537025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092956423307026919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UiamuQAQ: 你们能助力我80fo不 我送你们香吻一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2092978221155537025",
+        "created_at": "2026-08-27T14:11:08.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092978221155537025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2092310725629005824",
+              "start": 3,
+              "username": "UiamuQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092978221155537025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092956423307026919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UiamuQAQ: 你们能助力我80fo不 我送你们香吻一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092310725629005824",
+        "conversation_id": "2092956423307026919",
+        "created_at": "2026-08-27T12:44:31.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092956423307026919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092956423307026919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们能助力我80fo不 我送你们香吻一个"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2092978221155537025",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 375,
+          "like_count": 9535,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1398
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T18:00:13.000Z",
+        "description": "天上天下 惟我独尊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uiamu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uiamu",
+                "start": 0,
+                "url": "https://t.co/gxAyyETSaD"
+              }
+            ]
+          }
+        },
+        "id": "2092310725629005824",
+        "is_identity_verified": false,
+        "location": "海拉鲁大陆",
+        "most_recent_tweet_id": "2092964617462968743",
+        "name": "Uiamu 4.0",
+        "pinned_tweet_id": "2092931042696901004",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092310725629005824/1787681169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092311257038921728/usAk76ES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 56,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/gxAyyETSaD",
+        "username": "UiamuQAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

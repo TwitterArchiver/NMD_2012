@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2092035922317508957",
+    "created_at": "2026-08-25T09:53:22.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T10:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092188576842936705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025288475206189056",
+          "start": 0,
+          "username": "mi0599458659662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092188576842936705",
+    "in_reply_to_user_id": "2025288475206189056",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092035922317508957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi0599458659662 mj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2092035922317508957",
+        "created_at": "2026-08-25T09:53:22.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092188576842936705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025288475206189056",
+              "start": 0,
+              "username": "mi0599458659662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092188576842936705",
+        "in_reply_to_user_id": "2025288475206189056",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092035922317508957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0599458659662 mj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025288475206189056",
+        "conversation_id": "2092035922317508957",
+        "created_at": "2026-08-24T23:46:46.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T00:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092035922317508957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092035922317508957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 30089,
+          "like_count": 428,
+          "quote_count": 1,
+          "reply_count": 89,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "墙内的傻逼天天在那mj 人家视频死人了也要mj 不分主场的mj 傻逼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2092188576842936705",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 372,
+          "like_count": 9275,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1337
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-21T19:16:29.000Z",
+        "description": "最爱变脸之人",
+        "id": "2025288475206189056",
+        "is_identity_verified": false,
+        "location": "14250km",
+        "most_recent_tweet_id": "2092035922317508957",
+        "name": "T . T",
+        "pinned_tweet_id": "2083221232531742862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025288475206189056/1772224480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091181022784196609/6mKwCQIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 6,
+          "like_count": 1782,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1095
+        },
+        "url": "",
+        "username": "mi0599458659662",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2092522442334114068",
+    "created_at": "2026-08-26T10:04:30.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092553765559689433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557846379736666113",
+          "start": 0,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092553765559689433",
+    "in_reply_to_user_id": "1557846379736666113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092522442334114068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meguminsama2009 知道了刺猬哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 260,
+        "media_key": "3_2092272435131498496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQk-scVawAADyQn.jpg",
+        "width": 255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2092522442334114068",
+        "created_at": "2026-08-26T10:04:30.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092553765559689433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092553765559689433",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092522442334114068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meguminsama2009 知道了刺猬哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092272435131498496"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2092522442334114068",
+        "created_at": "2026-08-26T08:00:02.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092522442334114068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ui34kGMIUa",
+              "end": 39,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2092522442334114068/photo/1",
+              "media_key": "3_2092272435131498496",
+              "start": 16,
+              "url": "https://t.co/Ui34kGMIUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092522442334114068",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092272435131498496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 703,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "玫瑰可以不碰别人，但是必须带刺 https://t.co/Ui34kGMIUa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2092553765559689433",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 373,
+          "like_count": 9367,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1363
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "🟨⬜🟪⬛",
+        "id": "1557846379736666113",
+        "is_identity_verified": false,
+        "location": "永雏塔菲",
+        "most_recent_tweet_id": "2092552633785668086",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2090133381858422966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1774507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 1925,
+          "like_count": 3426,
+          "listed_count": 2,
+          "media_count": 1375,
+          "tweet_count": 8879
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

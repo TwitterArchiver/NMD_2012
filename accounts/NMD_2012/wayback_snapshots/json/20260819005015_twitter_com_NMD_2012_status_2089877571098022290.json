@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2089782247054627149",
+    "created_at": "2026-08-19T00:50:15.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T01:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089877571098022290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2086366757720363008",
+          "start": 0,
+          "username": "tangangqinmao12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089877571098022290",
+    "in_reply_to_user_id": "2086366757720363008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089782247054627149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangangqinmao12 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2089782247054627149",
+        "created_at": "2026-08-19T00:50:15.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T01:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089877571098022290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2086366757720363008",
+              "start": 0,
+              "username": "tangangqinmao12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089877571098022290",
+        "in_reply_to_user_id": "2086366757720363008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089782247054627149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangangqinmao12 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086366757720363008",
+        "conversation_id": "2089782247054627149",
+        "created_at": "2026-08-18T18:31:28.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089782247054627149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Forevergp03/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Forevergp03/status/2089714502757716065",
+              "start": 58,
+              "url": "https://t.co/7EzvgoXQm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089782247054627149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5172,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089714502757716065",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恋童癖不该死吗？ 关性别什么事？\n你恋童你就是畜牲 打的好 往死里打才对\n建议调查全国 男的恋童直接枪毙 女的也是 https://t.co/7EzvgoXQm0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2089877571098022290",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 365,
+          "like_count": 9060,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1304
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T08:21:44.000Z",
+        "description": "反毛贼最严厉的父亲\n（此号将作为主号使用 不参与对反毛贼的辱骂）\n（此号仅关注我认可的毛左）\n目前存在(未被封禁)的小号\n@tangangqinmao11 封禁七天\n@tangangqinmao10\n@tangangqinmao13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "tangangqinmao11"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "tangangqinmao10"
+              },
+              {
+                "end": 116,
+                "start": 100,
+                "username": "tangangqinmao13"
+              }
+            ]
+          }
+        },
+        "id": "2086366757720363008",
+        "is_identity_verified": false,
+        "location": "反毛贼屠宰场",
+        "most_recent_tweet_id": "2089816046668800397",
+        "name": "弹钢琴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086366757720363008/1786263952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086367481892130817/t61i4vY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 14,
+          "like_count": 442,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "tangangqinmao12",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

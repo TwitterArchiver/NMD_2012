@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2092550564685246854",
+    "created_at": "2026-08-26T09:58:09.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092552170465841535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1914611702747779072",
+          "start": 0,
+          "username": "asuka_ra1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092552170465841535",
+    "in_reply_to_user_id": "1914611702747779072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092550564685246854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asuka_ra1n 加油哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2092550564685246854",
+        "created_at": "2026-08-26T09:58:09.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092552170465841535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914611702747779072",
+              "start": 0,
+              "username": "asuka_ra1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092552170465841535",
+        "in_reply_to_user_id": "1914611702747779072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092550564685246854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asuka_ra1n 加油哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914611702747779072",
+        "conversation_id": "2092550564685246854",
+        "created_at": "2026-08-26T09:51:46.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092550564685246854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092550564685246854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的账号貌似打赢复活赛了，买了个新机场那么我要发展到1k粉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2092552170465841535",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 372,
+          "like_count": 9356,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1362
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "被世界所抛弃之人，但依旧能寻找存在的意义\n酒精依赖｜可互fo交朋友喵｜负面情绪内容｜性别称呼请随意｜接受任何友善的立场和我交流｜暂时不od｜药理知识学习中｜友lgbt｜choose life｜颓废的文艺青少年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asukayeyezi",
+                "end": 23,
+                "expanded_url": "http://t.me/asukayeyezi",
+                "start": 0,
+                "url": "https://t.co/AKqSTdvdCe"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "is_identity_verified": false,
+        "location": "夜深寂靜之時",
+        "most_recent_tweet_id": "2092551794673307671",
+        "name": "⁺✞ʚ月雨淚 ɞ✟₊🌹🏴‍☠",
+        "pinned_tweet_id": "2031769044852871196",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914611702747779072/1785799212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092538089919094784/pj1dGvF3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 803,
+          "like_count": 11112,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 3258
+        },
+        "url": "https://t.co/AKqSTdvdCe",
+        "username": "asuka_ra1n",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2092742067357380791",
+    "created_at": "2026-08-27T02:06:06.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T03:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092795763357061435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2080362460306132993",
+          "start": 0,
+          "username": "aglzmv1011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092795763357061435",
+    "in_reply_to_user_id": "2080362460306132993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092742067357380791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aglzmv1011 我只喜欢律🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2092742067357380791",
+        "created_at": "2026-08-27T02:06:06.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092795763357061435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2080362460306132993",
+              "start": 0,
+              "username": "aglzmv1011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092795763357061435",
+        "in_reply_to_user_id": "2080362460306132993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092742067357380791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aglzmv1011 我只喜欢律🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080362460306132993",
+        "conversation_id": "2092742067357380791",
+        "created_at": "2026-08-26T22:32:44.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092742067357380791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092742067357380791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦团我真的好爱 除了律每个都精准对应我xp tdz能满足我的控制欲vol一看就很适合释放施虐欲 阿拉蕾更是人设第一眼就让我想象她坏掉的样子感觉很可爱 至于yono单纯现实理想型没前几个那么扭曲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2092795763357061435",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 374,
+          "like_count": 9519,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1391
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-23T18:41:03.000Z",
+        "description": "有人和我说说话我会很开心的 不过基于我的神必性格最好不要哦",
+        "id": "2080362460306132993",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092788973202763997",
+        "name": "宁",
+        "pinned_tweet_id": "2092287957059371454",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091140789212770304/K4Y6fMxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 40,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "aglzmv1011",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

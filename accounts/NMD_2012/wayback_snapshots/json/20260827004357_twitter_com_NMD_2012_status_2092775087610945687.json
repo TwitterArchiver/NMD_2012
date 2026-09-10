@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2092648834702753902",
+    "created_at": "2026-08-27T00:43:57.000Z",
+    "display_text_range": [
+      8,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T01:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092775087610945687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1657704267443232770",
+          "start": 0,
+          "username": "Kvndow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092775087610945687",
+    "in_reply_to_user_id": "1657704267443232770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092742928804581614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kvndow 如果通知页什么东西都没有，那推特是不是有点太无聊了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2092648834702753902",
+        "created_at": "2026-08-27T00:43:57.000Z",
+        "display_text_range": [
+          8,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092775087610945687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1657704267443232770",
+              "start": 0,
+              "username": "Kvndow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092775087610945687",
+        "in_reply_to_user_id": "1657704267443232770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092742928804581614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kvndow 如果通知页什么东西都没有，那推特是不是有点太无聊了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657704267443232770",
+        "conversation_id": "2092648834702753902",
+        "created_at": "2026-08-26T22:36:10.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092742928804581614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092742928804581614",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092648834702753902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 炒作垢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2092775087610945687",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 373,
+          "like_count": 9494,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-14T11:08:05.000Z",
+        "description": "不產新孩子",
+        "id": "1657704267443232770",
+        "is_identity_verified": false,
+        "location": "Paths",
+        "most_recent_tweet_id": "2092743611796353443",
+        "name": "睏度",
+        "pinned_tweet_id": "2090768314465157543",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657704267443232770/1787638137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091541532373319680/9L4BgKIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 769,
+          "like_count": 28304,
+          "listed_count": 3,
+          "media_count": 229,
+          "tweet_count": 10242
+        },
+        "url": "",
+        "username": "Kvndow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

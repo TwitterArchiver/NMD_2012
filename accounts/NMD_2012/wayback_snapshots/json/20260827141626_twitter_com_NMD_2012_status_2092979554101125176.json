@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2092979554101125176",
+    "created_at": "2026-08-27T14:16:26.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092979554101125176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/C103ofsixteen/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/C103ofsixteen/status/2092808165150839002",
+          "start": 5,
+          "url": "https://t.co/1fa7EieBSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092979554101125176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092808165150839002",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "耍起/. https://t.co/1fa7EieBSA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2092979554101125176",
+        "created_at": "2026-08-27T14:16:26.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092979554101125176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/C103ofsixteen/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/C103ofsixteen/status/2092808165150839002",
+              "start": 5,
+              "url": "https://t.co/1fa7EieBSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092979554101125176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092808165150839002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "耍起/. https://t.co/1fa7EieBSA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829502489227575296",
+        "conversation_id": "2092808165150839002",
+        "created_at": "2026-08-27T02:55:23.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092808165150839002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092808165150839002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "和我聊天能遇到：\n1.👁️刷屏发言。\n2.延迟到了才回逆天的东西。\n3.聊着聊着突然消失。\n4.标点全是，。，。\n5.只回两三个字。\n6.突然甩出一整段发疯文。\n7.句尾跟着👁️。\n8.丢图不配字。\n9.连发♥️然后蒸发。\n10.先骂自己社交好烂。\n11.冷不丁来一句「我去别操我」。\n12.把怪事说成日常。\n13.「耍起」当语气词。\n14.回错楼，对不上上一句。\n15.人机短句：「我干的」。\n16.猫娘人设和脏话叠着说。\n17.用丢包、高ping解释一切。\n18.只剩一个👁️当回复。\n19.发完视频就下线。\n20.突然报时：「还有58分钟」。\n21.恭喜关注数然后秒沉默。\n22.意淫发言后面跟🥵。\n23.整段对仗打油诗砸过来。\n24.「缩进去了👁️」这种不明所以。\n25.中元节也要👁️耍起。\n26.说「我就是单纯想发」然后发了很怪的。\n27.重复同一个表情直到刷屏。\n28.把「别看」写成「我不搬大便你们看什么」。\n29.思考延迟真实存在，隔很久才出现。\n30.对话进行到一半变成纯符号。\n\n👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 989,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我聊天能遇到：\n1.👁️刷屏发言。\n2.延迟到了才回逆天的东西。\n3.聊着聊着突然消失。\n4.标点全是，。，。\n5.只回两三个字。\n6.突然甩出一整段发疯文。\n7.句尾跟着👁️。\n8.丢图不配字。\n9.连发♥️然后蒸发。\n10.先骂自己社交好烂。\n11.冷不丁来一句「我去别操我」。\n12.把怪事说成日常。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2092979554101125176",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 376,
+          "like_count": 9544,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1399
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "阿拉僧本地猫娘｜？｜🏳️‍⚧️👁️｜男｜可能线下｜波奇｜双性恋｜恋人♥️♥@aruannie512｜宠物@S34sonSt ｜各方面都不健全｜各方面都史上最倒霉的人 | 蓝v互fo | 老人|30解锁好友位，丢包40%ping670导致的思考延迟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "aruannie512"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "S34sonSt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/c103ofsixteen1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/c103ofsixteen1",
+                "start": 0,
+                "url": "https://t.co/ZeFZXlKNBF"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092979502205047241",
+        "name": "僧夏猫修🦐🍥",
+        "pinned_tweet_id": "2083938434360459319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829502489227575296/1785055211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092487436739948544/yO_1Xawz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 970,
+          "like_count": 6876,
+          "listed_count": 5,
+          "media_count": 1995,
+          "tweet_count": 5510
+        },
+        "url": "https://t.co/ZeFZXlKNBF",
+        "username": "C103ofsixteen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

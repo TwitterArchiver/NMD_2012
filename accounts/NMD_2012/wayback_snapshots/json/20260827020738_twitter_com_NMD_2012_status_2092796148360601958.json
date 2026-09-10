@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2092650771020194029",
+    "created_at": "2026-08-27T02:07:38.000Z",
+    "display_text_range": [
+      10,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T03:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092796148360601958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2092313756659486720",
+          "start": 0,
+          "username": "jksjqzjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092796148360601958",
+    "in_reply_to_user_id": "2092313756659486720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092783561049047172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jksjqzjq 把标签摘了是不是就代表被我买下来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 504,
+        "media_key": "3_2092783555642593280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsPjknbEAA_us7.jpg",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2092650771020194029",
+        "created_at": "2026-08-27T02:07:38.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092796148360601958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2092313756659486720",
+              "start": 0,
+              "username": "jksjqzjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092796148360601958",
+        "in_reply_to_user_id": "2092313756659486720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092783561049047172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jksjqzjq 把标签摘了是不是就代表被我买下来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092783555642593280"
+          ]
+        },
+        "author_id": "2092313756659486720",
+        "conversation_id": "2092650771020194029",
+        "created_at": "2026-08-27T01:17:37.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T02:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092783561049047172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ViKxzzUfxX",
+              "end": 45,
+              "expanded_url": "https://x.com/jksjqzjq/status/2092783561049047172/photo/1",
+              "media_key": "3_2092783555642593280",
+              "start": 22,
+              "url": "https://t.co/ViKxzzUfxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092783561049047172",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092783555642593280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092775650402730375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 恍然大悟把眼罩拿开的我 https://t.co/ViKxzzUfxX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "AT",
+              "full_name": "Austria",
+              "geo": {
+                "coordinates": [
+                  13.33333,
+                  47.33333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "一个低能量且恶俗的()/同我被遗弃在地球的双胞胎姐姐@Un_Ewigkeit/唯一@FFCP_0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Un_Ewigkeit"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "FFCP_0001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/jp6nx1ryBu"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "is_identity_verified": false,
+        "location": "地獄",
+        "most_recent_tweet_id": "2092796148360601958",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053009418871357440/1780103787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088637686081077248/7nf24ugC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 374,
+          "like_count": 9522,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1392
+        },
+        "url": "https://t.co/jp6nx1ryBu",
+        "username": "NMD_2012",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T18:11:38.000Z",
+        "description": "",
+        "id": "2092313756659486720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092789215113396278",
+        "name": "jks",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092314760222310400/40gwfi8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 99,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "jksjqzjq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2053009418871357440",
+    "conversation_id": "2077322994204938735",
+    "created_at": "2026-07-15T11:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077356489719820385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2063159075572158465",
+          "start": 0,
+          "username": "Bochichan250hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077356489719820385",
+    "in_reply_to_user_id": "2063159075572158465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077322994204938735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bochichan250hh 这两个现版本都废了，不建议养"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 586,
+        "media_key": "3_2077322868199727104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQiJHrXIAA8Yz8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 485,
+        "media_key": "3_2077322982972706816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQiPzPX0AAx9Fw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053009418871357440",
+        "conversation_id": "2077322994204938735",
+        "created_at": "2026-07-15T11:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077356489719820385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2063159075572158465",
+              "start": 0,
+              "username": "Bochichan250hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077356489719820385",
+        "in_reply_to_user_id": "2063159075572158465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077322994204938735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bochichan250hh 这两个现版本都废了，不建议养"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077322868199727104",
+            "3_2077322982972706816"
+          ]
+        },
+        "author_id": "2063159075572158465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077322994204938735",
+        "created_at": "2026-07-15T09:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077322994204938735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FICfnE9X2e",
+              "end": 32,
+              "expanded_url": "https://x.com/Bochichan250hh/status/2077322994204938735/photo/1",
+              "media_key": "3_2077322868199727104",
+              "start": 9,
+              "url": "https://t.co/FICfnE9X2e"
+            },
+            {
+              "display_url": "pic.x.com/FICfnE9X2e",
+              "end": 32,
+              "expanded_url": "https://x.com/Bochichan250hh/status/2077322994204938735/photo/1",
+              "media_key": "3_2077322982972706816",
+              "start": 9,
+              "url": "https://t.co/FICfnE9X2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077322994204938735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友们这俩能养吗 https://t.co/FICfnE9X2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "一个低能量的人/一个偏恶俗的人 如被冒犯请接受我的下跪/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 318,
+          "like_count": 7605,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1039
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T07:21:34.000Z",
+        "description": "it is too late…. \n@Yokuso_desu的小账户\n苦练electric guitar 🎸\n查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Yokuso_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan250",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan250",
+                "start": 0,
+                "url": "https://t.co/dkFNyeybig"
+              }
+            ]
+          }
+        },
+        "id": "2063159075572158465",
+        "name": "防尘迷呀awa🇰🇵🎸（互关）",
+        "pinned_tweet_id": "2077086358259081675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068608809841696768/DCfkJfRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 64,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/dkFNyeybig",
+        "username": "Bochichan250hh",
+        "verified": false
+      }
+    ]
+  }
+}
